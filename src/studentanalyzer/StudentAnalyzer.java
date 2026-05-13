@@ -12,6 +12,8 @@ public interface StudentAnalyzer {
 
     //returns total number of students loaded
     int getStudentCount();
+    //returns list of course codes the student took
+    ArrayList<String> getStudentCourses(String studentId);
 
 
     // Feature 1: course difficulty analysis

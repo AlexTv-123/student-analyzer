@@ -40,5 +40,40 @@ public class Main {
             double avg = analyzer.getAverageGradeForCourse(code);
             System.out.println("  " + (i + 1) + ". " + code + " — average: " + String.format("%.2f", avg));
         }
+    
+
+    // Feature 2 demo
+
+        System.out.println();
+        String demoStudent = "S0001";
+        System.out.println("Comparison for student " + demoStudent + " (first 5 courses):");
+
+        ArrayList<String> coursesTaken = analyzer.getStudentCourses(demoStudent);
+        int howMany = Math.min(5, coursesTaken.size());
+
+        for (int i = 0; i < howMany; i++) {
+            String code = coursesTaken.get(i);
+            double diffAvg = analyzer.compareStudentToCourseAverage(demoStudent, code);
+            double diffMed = analyzer.compareStudentToCourseMedian(demoStudent, code);
+
+            //short status for readability
+
+            String status;
+            if (diffAvg > 0) {
+                status = "above average";
+            } else if (diffAvg < 0) {
+                status = "below average";
+            } else {
+                status = "exactly average";
+            }
+
+            System.out.println("  " + code
+                    + ": diff from avg = " + String.format("%.2f", diffAvg)
+                    + ", diff from median = " + String.format("%.2f", diffMed)
+                    + " (" + status + ")");
+        }
     }
+
+
+
 }

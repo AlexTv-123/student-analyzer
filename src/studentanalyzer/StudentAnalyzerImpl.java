@@ -94,6 +94,23 @@ public class StudentAnalyzerImpl implements StudentAnalyzer {
         return students.size();
     }
 
+    public ArrayList<String> getStudentCourses(String studentId) {
+        ArrayList<String> result = new ArrayList<>();
+
+        //if the student is not in the database, return an empty list
+        Student student = students.get(studentId);
+        if (student == null) {
+            return result;
+        }
+
+        // copy all course codes from the student's records
+        ArrayList<CourseRecord> records = student.getRecords();
+        for (int i = 0; i < records.size(); i++) {
+            result.add(records.get(i).getCourseCode());
+        }
+        return result;
+    }
+
 
 
 
@@ -196,13 +213,43 @@ public class StudentAnalyzerImpl implements StudentAnalyzer {
     }
 
 
-    // Feature 2: stubs, will implement later
+    // Feature 2: student vs course comparison
 
     public double compareStudentToCourseAverage(String studentId, String courseCode) {
+        Student student = students.get(studentId);
+        if (student == null) {
+            return 0.0;
+        }
+
+        //find the student's grade for this specific course
+        ArrayList<CourseRecord> records = student.getRecords();
+        for (int i = 0; i < records.size(); i++) {
+            if (records.get(i).getCourseCode().equals(courseCode)) {
+                double studentGrade = records.get(i).getGrade();
+                double courseAverage = getAverageGradeForCourse(courseCode);
+                return studentGrade - courseAverage;
+            }
+        }
+
+        //student did not take this course
         return 0.0;
     }
 
     public double compareStudentToCourseMedian(String studentId, String courseCode) {
+        Student student = students.get(studentId);
+        if (student == null) {
+            return 0.0;
+        }
+
+        ArrayList<CourseRecord> records = student.getRecords();
+        for (int i = 0; i < records.size(); i++) {
+            if (records.get(i).getCourseCode().equals(courseCode)) {
+                double studentGrade = records.get(i).getGrade();
+                double courseMedian = getMedianGradeForCourse(courseCode);
+                return studentGrade - courseMedian;
+            }
+        }
+
         return 0.0;
     }
 
