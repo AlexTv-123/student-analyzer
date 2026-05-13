@@ -1,0 +1,2317 @@
+student_id,year_level,semester,course_code,course_name,category,grade
+S0001,Senior,Fall_2022,ART040,Music Theory,Arts,4.0
+S0001,Senior,Fall_2022,CS040,Computer Systems,CS,3.3
+S0001,Senior,Fall_2022,MATH010,Calculus I,Math,3.7
+S0001,Senior,Fall_2022,SCI060,Biochemistry,Sciences,4.0
+S0001,Senior,Spring_2023,MATH080,Differential Equations,Math,3.3
+S0001,Senior,Spring_2023,MATH030,Linear Algebra,Math,2.7
+S0001,Senior,Spring_2023,MATH090,Number Theory,Math,3.3
+S0001,Senior,Spring_2023,SOC080,International Relations,SocialSciences,3.3
+S0001,Senior,Fall_2023,HUM030,World History,Humanities,3.7
+S0001,Senior,Fall_2023,MATH010,Calculus I,Math,3.0
+S0001,Senior,Fall_2023,CS100,Theory of Computation,CS,3.0
+S0001,Senior,Fall_2023,ART010,Drawing Fundamentals,Arts,3.3
+S0001,Senior,Spring_2024,MATH050,Probability,Math,3.7
+S0001,Senior,Spring_2024,ART060,Photography,Arts,3.7
+S0001,Senior,Spring_2024,SOC040,Social Psychology,SocialSciences,4.0
+S0001,Senior,Spring_2024,SOC090,Public Policy,SocialSciences,4.0
+S0001,Senior,Fall_2024,MATH050,Probability,Math,3.7
+S0001,Senior,Fall_2024,SOC090,Public Policy,SocialSciences,4.0
+S0001,Senior,Fall_2024,MATH020,Calculus II,Math,3.0
+S0001,Senior,Fall_2024,MATH100,Abstract Algebra,Math,3.3
+S0001,Senior,Spring_2025,MATH090,Number Theory,Math,4.0
+S0001,Senior,Spring_2025,HUM090,Modern Poetry,Humanities,4.0
+S0001,Senior,Spring_2025,MATH010,Calculus I,Math,3.0
+S0001,Senior,Spring_2025,MATH060,Statistics,Math,3.3
+S0001,Senior,Fall_2025,CS060,Databases,CS,3.7
+S0001,Senior,Fall_2025,MATH080,Differential Equations,Math,3.7
+S0001,Senior,Fall_2025,SOC090,Public Policy,SocialSciences,4.0
+S0001,Senior,Fall_2025,CS090,Software Engineering,CS,3.3
+S0002,Graduated,Fall_2022,ART100,Graphic Design,Arts,2.7
+S0002,Graduated,Fall_2022,SOC070,Anthropology,SocialSciences,3.0
+S0002,Graduated,Fall_2022,SOC060,Political Science,SocialSciences,3.3
+S0002,Graduated,Fall_2022,HUM060,Religious Studies,Humanities,3.3
+S0002,Graduated,Spring_2023,HUM100,Linguistics,Humanities,3.3
+S0002,Graduated,Spring_2023,HUM080,American Literature,Humanities,4.0
+S0002,Graduated,Spring_2023,HUM020,Creative Writing,Humanities,3.3
+S0002,Graduated,Spring_2023,CS040,Computer Systems,CS,2.7
+S0002,Graduated,Fall_2023,HUM080,American Literature,Humanities,3.3
+S0002,Graduated,Fall_2023,HUM030,World History,Humanities,3.7
+S0002,Graduated,Fall_2023,ART070,Film Studies,Arts,3.0
+S0002,Graduated,Fall_2023,HUM010,English Literature,Humanities,3.3
+S0002,Graduated,Spring_2024,SCI030,Electromagnetism,Sciences,3.3
+S0002,Graduated,Spring_2024,HUM080,American Literature,Humanities,3.3
+S0002,Graduated,Spring_2024,CS040,Computer Systems,CS,2.7
+S0002,Graduated,Spring_2024,SOC020,Macroeconomics,SocialSciences,3.7
+S0002,Graduated,Fall_2024,HUM040,Philosophy,Humanities,2.7
+S0002,Graduated,Fall_2024,CS090,Software Engineering,CS,3.3
+S0002,Graduated,Fall_2024,HUM050,Ethics,Humanities,3.0
+S0002,Graduated,Fall_2024,HUM020,Creative Writing,Humanities,3.3
+S0002,Graduated,Spring_2025,ART040,Music Theory,Arts,3.3
+S0002,Graduated,Spring_2025,HUM020,Creative Writing,Humanities,3.3
+S0002,Graduated,Spring_2025,ART050,History of Art,Arts,3.3
+S0002,Graduated,Spring_2025,HUM070,Classical Mythology,Humanities,3.3
+S0002,Graduated,Fall_2025,HUM070,Classical Mythology,Humanities,3.3
+S0002,Graduated,Fall_2025,HUM080,American Literature,Humanities,3.3
+S0002,Graduated,Fall_2025,HUM090,Modern Poetry,Humanities,3.7
+S0002,Graduated,Fall_2025,HUM020,Creative Writing,Humanities,3.3
+S0002,Graduated,Spring_2026,SOC080,International Relations,SocialSciences,3.7
+S0002,Graduated,Spring_2026,HUM010,English Literature,Humanities,4.0
+S0002,Graduated,Spring_2026,HUM030,World History,Humanities,3.3
+S0002,Graduated,Spring_2026,HUM040,Philosophy,Humanities,3.3
+S0003,Junior,Fall_2022,HUM100,Linguistics,Humanities,2.7
+S0003,Junior,Fall_2022,HUM020,Creative Writing,Humanities,2.7
+S0003,Junior,Fall_2022,SCI010,General Physics,Sciences,2.7
+S0003,Junior,Fall_2022,MATH040,Discrete Math,Math,2.3
+S0003,Junior,Spring_2023,SCI100,Astronomy,Sciences,3.0
+S0003,Junior,Spring_2023,HUM020,Creative Writing,Humanities,3.3
+S0003,Junior,Spring_2023,HUM100,Linguistics,Humanities,3.0
+S0003,Junior,Spring_2023,CS070,Machine Learning,CS,2.7
+S0003,Junior,Fall_2023,ART070,Film Studies,Arts,3.7
+S0003,Junior,Fall_2023,HUM050,Ethics,Humanities,3.3
+S0003,Junior,Fall_2023,HUM090,Modern Poetry,Humanities,3.0
+S0003,Junior,Fall_2023,HUM100,Linguistics,Humanities,2.3
+S0003,Junior,Spring_2024,ART100,Graphic Design,Arts,2.7
+S0003,Junior,Spring_2024,ART070,Film Studies,Arts,2.7
+S0003,Junior,Spring_2024,HUM020,Creative Writing,Humanities,3.0
+S0003,Junior,Spring_2024,SOC080,International Relations,SocialSciences,2.3
+S0003,Junior,Fall_2024,HUM050,Ethics,Humanities,2.3
+S0003,Junior,Fall_2024,MATH070,Real Analysis,Math,2.7
+S0003,Junior,Fall_2024,ART050,History of Art,Arts,3.0
+S0003,Junior,Fall_2024,HUM070,Classical Mythology,Humanities,3.0
+S0004,Junior,Fall_2022,HUM060,Religious Studies,Humanities,3.7
+S0004,Junior,Fall_2022,MATH020,Calculus II,Math,3.3
+S0004,Junior,Fall_2022,SOC050,Sociology,SocialSciences,2.7
+S0004,Junior,Fall_2022,HUM050,Ethics,Humanities,3.3
+S0004,Junior,Spring_2023,MATH060,Statistics,Math,3.0
+S0004,Junior,Spring_2023,ART010,Drawing Fundamentals,Arts,3.0
+S0004,Junior,Spring_2023,CS030,Algorithms,CS,3.0
+S0004,Junior,Spring_2023,MATH040,Discrete Math,Math,3.3
+S0004,Junior,Fall_2023,HUM100,Linguistics,Humanities,3.3
+S0004,Junior,Fall_2023,ART100,Graphic Design,Arts,3.3
+S0004,Junior,Fall_2023,ART060,Photography,Arts,3.3
+S0004,Junior,Fall_2023,MATH030,Linear Algebra,Math,2.7
+S0004,Junior,Spring_2024,ART020,Painting,Arts,3.3
+S0004,Junior,Spring_2024,SOC080,International Relations,SocialSciences,3.3
+S0004,Junior,Spring_2024,MATH080,Differential Equations,Math,3.0
+S0004,Junior,Spring_2024,MATH020,Calculus II,Math,3.3
+S0004,Junior,Fall_2024,SCI030,Electromagnetism,Sciences,3.0
+S0004,Junior,Fall_2024,MATH040,Discrete Math,Math,3.7
+S0004,Junior,Fall_2024,MATH050,Probability,Math,2.3
+S0004,Junior,Fall_2024,SOC100,Behavioral Economics,SocialSciences,4.0
+S0005,Sophomore,Fall_2022,SCI050,Organic Chemistry,Sciences,2.3
+S0005,Sophomore,Fall_2022,SCI100,Astronomy,Sciences,3.0
+S0005,Sophomore,Fall_2022,SCI060,Biochemistry,Sciences,2.7
+S0005,Sophomore,Fall_2022,SCI090,Ecology,Sciences,2.7
+S0005,Sophomore,Spring_2023,SCI090,Ecology,Sciences,2.7
+S0005,Sophomore,Spring_2023,HUM050,Ethics,Humanities,2.3
+S0005,Sophomore,Spring_2023,SOC080,International Relations,SocialSciences,2.7
+S0005,Sophomore,Spring_2023,MATH030,Linear Algebra,Math,2.0
+S0005,Sophomore,Fall_2023,SCI020,Mechanics,Sciences,2.3
+S0005,Sophomore,Fall_2023,MATH100,Abstract Algebra,Math,2.0
+S0005,Sophomore,Fall_2023,SOC030,Intro Psychology,SocialSciences,2.0
+S0005,Sophomore,Fall_2023,SCI070,Cell Biology,Sciences,2.3
+S0006,Junior,Fall_2022,MATH020,Calculus II,Math,3.0
+S0006,Junior,Fall_2022,MATH100,Abstract Algebra,Math,3.3
+S0006,Junior,Fall_2022,ART010,Drawing Fundamentals,Arts,3.3
+S0006,Junior,Fall_2022,ART040,Music Theory,Arts,3.7
+S0006,Junior,Spring_2023,ART040,Music Theory,Arts,3.7
+S0006,Junior,Spring_2023,ART010,Drawing Fundamentals,Arts,3.3
+S0006,Junior,Spring_2023,SOC030,Intro Psychology,SocialSciences,4.0
+S0006,Junior,Spring_2023,ART090,Modern Dance,Arts,4.0
+S0006,Junior,Fall_2023,ART050,History of Art,Arts,3.3
+S0006,Junior,Fall_2023,ART040,Music Theory,Arts,3.7
+S0006,Junior,Fall_2023,ART010,Drawing Fundamentals,Arts,3.0
+S0006,Junior,Fall_2023,ART080,Theater Performance,Arts,4.0
+S0006,Junior,Spring_2024,SOC060,Political Science,SocialSciences,4.0
+S0006,Junior,Spring_2024,HUM020,Creative Writing,Humanities,3.3
+S0006,Junior,Spring_2024,ART030,Sculpture,Arts,4.0
+S0006,Junior,Spring_2024,CS010,Intro to Programming,CS,3.3
+S0006,Junior,Fall_2024,ART090,Modern Dance,Arts,3.0
+S0006,Junior,Fall_2024,ART020,Painting,Arts,3.0
+S0006,Junior,Fall_2024,ART080,Theater Performance,Arts,4.0
+S0006,Junior,Fall_2024,HUM060,Religious Studies,Humanities,3.3
+S0006,Junior,Spring_2025,HUM030,World History,Humanities,3.0
+S0006,Junior,Spring_2025,ART090,Modern Dance,Arts,3.7
+S0006,Junior,Spring_2025,ART030,Sculpture,Arts,3.7
+S0006,Junior,Spring_2025,HUM010,English Literature,Humanities,3.7
+S0007,Junior,Fall_2022,SCI050,Organic Chemistry,Sciences,3.0
+S0007,Junior,Fall_2022,SCI060,Biochemistry,Sciences,3.0
+S0007,Junior,Fall_2022,SCI090,Ecology,Sciences,3.7
+S0007,Junior,Fall_2022,SCI030,Electromagnetism,Sciences,3.0
+S0007,Junior,Spring_2023,SCI090,Ecology,Sciences,3.0
+S0007,Junior,Spring_2023,SCI010,General Physics,Sciences,3.3
+S0007,Junior,Spring_2023,SCI070,Cell Biology,Sciences,3.0
+S0007,Junior,Spring_2023,SCI100,Astronomy,Sciences,3.3
+S0007,Junior,Fall_2023,SCI060,Biochemistry,Sciences,2.7
+S0007,Junior,Fall_2023,SCI070,Cell Biology,Sciences,3.3
+S0007,Junior,Fall_2023,ART040,Music Theory,Arts,2.7
+S0007,Junior,Fall_2023,SCI090,Ecology,Sciences,3.0
+S0007,Junior,Spring_2024,SCI070,Cell Biology,Sciences,3.0
+S0007,Junior,Spring_2024,ART040,Music Theory,Arts,4.0
+S0007,Junior,Spring_2024,SCI030,Electromagnetism,Sciences,3.0
+S0007,Junior,Spring_2024,HUM050,Ethics,Humanities,3.3
+S0007,Junior,Fall_2024,CS090,Software Engineering,CS,3.0
+S0007,Junior,Fall_2024,MATH020,Calculus II,Math,2.7
+S0007,Junior,Fall_2024,SCI070,Cell Biology,Sciences,3.3
+S0007,Junior,Fall_2024,SCI080,Genetics,Sciences,2.7
+S0008,Junior,Fall_2022,HUM010,English Literature,Humanities,3.7
+S0008,Junior,Fall_2022,SCI090,Ecology,Sciences,3.0
+S0008,Junior,Fall_2022,SCI060,Biochemistry,Sciences,3.3
+S0008,Junior,Fall_2022,SCI020,Mechanics,Sciences,2.7
+S0008,Junior,Spring_2023,SCI010,General Physics,Sciences,3.3
+S0008,Junior,Spring_2023,MATH060,Statistics,Math,3.3
+S0008,Junior,Spring_2023,SCI020,Mechanics,Sciences,3.0
+S0008,Junior,Spring_2023,MATH040,Discrete Math,Math,3.7
+S0008,Junior,Fall_2023,SOC060,Political Science,SocialSciences,3.3
+S0008,Junior,Fall_2023,SCI030,Electromagnetism,Sciences,3.7
+S0008,Junior,Fall_2023,CS070,Machine Learning,CS,4.0
+S0008,Junior,Fall_2023,ART100,Graphic Design,Arts,3.7
+S0008,Junior,Spring_2024,CS050,Operating Systems,CS,3.7
+S0008,Junior,Spring_2024,ART040,Music Theory,Arts,3.3
+S0008,Junior,Spring_2024,CS070,Machine Learning,CS,4.0
+S0008,Junior,Spring_2024,MATH100,Abstract Algebra,Math,3.7
+S0008,Junior,Fall_2024,SCI030,Electromagnetism,Sciences,3.7
+S0008,Junior,Fall_2024,SOC030,Intro Psychology,SocialSciences,3.0
+S0008,Junior,Fall_2024,SCI090,Ecology,Sciences,4.0
+S0008,Junior,Fall_2024,CS010,Intro to Programming,CS,4.0
+S0008,Junior,Spring_2025,ART040,Music Theory,Arts,3.3
+S0008,Junior,Spring_2025,SCI030,Electromagnetism,Sciences,2.7
+S0008,Junior,Spring_2025,SCI090,Ecology,Sciences,3.7
+S0008,Junior,Spring_2025,MATH080,Differential Equations,Math,3.0
+S0009,Junior,Fall_2022,CS060,Databases,CS,3.0
+S0009,Junior,Fall_2022,MATH080,Differential Equations,Math,3.0
+S0009,Junior,Fall_2022,SOC030,Intro Psychology,SocialSciences,3.3
+S0009,Junior,Fall_2022,MATH010,Calculus I,Math,2.7
+S0009,Junior,Spring_2023,MATH050,Probability,Math,3.3
+S0009,Junior,Spring_2023,SOC050,Sociology,SocialSciences,3.7
+S0009,Junior,Spring_2023,HUM060,Religious Studies,Humanities,3.7
+S0009,Junior,Spring_2023,MATH040,Discrete Math,Math,2.3
+S0009,Junior,Fall_2023,SOC020,Macroeconomics,SocialSciences,3.3
+S0009,Junior,Fall_2023,SCI090,Ecology,Sciences,3.3
+S0009,Junior,Fall_2023,CS060,Databases,CS,3.0
+S0009,Junior,Fall_2023,MATH070,Real Analysis,Math,2.7
+S0009,Junior,Spring_2024,SCI080,Genetics,Sciences,3.0
+S0009,Junior,Spring_2024,HUM060,Religious Studies,Humanities,3.7
+S0009,Junior,Spring_2024,MATH080,Differential Equations,Math,3.7
+S0009,Junior,Spring_2024,MATH050,Probability,Math,3.0
+S0009,Junior,Fall_2024,SOC050,Sociology,SocialSciences,3.7
+S0009,Junior,Fall_2024,MATH040,Discrete Math,Math,2.7
+S0009,Junior,Fall_2024,MATH080,Differential Equations,Math,3.3
+S0009,Junior,Fall_2024,SOC090,Public Policy,SocialSciences,3.7
+S0009,Junior,Spring_2025,MATH030,Linear Algebra,Math,3.0
+S0009,Junior,Spring_2025,MATH090,Number Theory,Math,3.0
+S0009,Junior,Spring_2025,MATH010,Calculus I,Math,4.0
+S0009,Junior,Spring_2025,HUM060,Religious Studies,Humanities,3.0
+S0010,Sophomore,Fall_2022,HUM010,English Literature,Humanities,3.0
+S0010,Sophomore,Fall_2022,CS060,Databases,CS,3.0
+S0010,Sophomore,Fall_2022,CS010,Intro to Programming,CS,2.3
+S0010,Sophomore,Fall_2022,CS080,Computer Networks,CS,2.7
+S0010,Sophomore,Spring_2023,CS100,Theory of Computation,CS,2.0
+S0010,Sophomore,Spring_2023,CS060,Databases,CS,2.3
+S0010,Sophomore,Spring_2023,CS080,Computer Networks,CS,2.7
+S0010,Sophomore,Spring_2023,SCI070,Cell Biology,Sciences,3.0
+S0010,Sophomore,Fall_2023,CS080,Computer Networks,CS,2.0
+S0010,Sophomore,Fall_2023,CS100,Theory of Computation,CS,2.3
+S0010,Sophomore,Fall_2023,MATH100,Abstract Algebra,Math,2.7
+S0010,Sophomore,Fall_2023,CS040,Computer Systems,CS,2.7
+S0011,Sophomore,Fall_2022,MATH020,Calculus II,Math,3.7
+S0011,Sophomore,Fall_2022,MATH070,Real Analysis,Math,3.0
+S0011,Sophomore,Fall_2022,MATH100,Abstract Algebra,Math,3.3
+S0011,Sophomore,Fall_2022,MATH010,Calculus I,Math,3.0
+S0011,Sophomore,Spring_2023,ART100,Graphic Design,Arts,3.0
+S0011,Sophomore,Spring_2023,MATH100,Abstract Algebra,Math,3.0
+S0011,Sophomore,Spring_2023,MATH020,Calculus II,Math,3.3
+S0011,Sophomore,Spring_2023,SOC020,Macroeconomics,SocialSciences,3.3
+S0011,Sophomore,Fall_2023,HUM090,Modern Poetry,Humanities,3.7
+S0011,Sophomore,Fall_2023,HUM070,Classical Mythology,Humanities,3.3
+S0011,Sophomore,Fall_2023,SCI090,Ecology,Sciences,2.7
+S0011,Sophomore,Fall_2023,MATH050,Probability,Math,2.7
+S0011,Sophomore,Spring_2024,MATH010,Calculus I,Math,3.0
+S0011,Sophomore,Spring_2024,SOC080,International Relations,SocialSciences,4.0
+S0011,Sophomore,Spring_2024,MATH050,Probability,Math,3.0
+S0011,Sophomore,Spring_2024,MATH040,Discrete Math,Math,2.3
+S0012,Graduated,Fall_2022,SOC090,Public Policy,SocialSciences,3.3
+S0012,Graduated,Fall_2022,HUM010,English Literature,Humanities,3.0
+S0012,Graduated,Fall_2022,SCI090,Ecology,Sciences,3.3
+S0012,Graduated,Fall_2022,MATH020,Calculus II,Math,1.7
+S0012,Graduated,Spring_2023,SCI070,Cell Biology,Sciences,2.7
+S0012,Graduated,Spring_2023,SCI020,Mechanics,Sciences,2.7
+S0012,Graduated,Spring_2023,SCI080,Genetics,Sciences,2.7
+S0012,Graduated,Spring_2023,HUM060,Religious Studies,Humanities,3.0
+S0012,Graduated,Fall_2023,ART060,Photography,Arts,3.0
+S0012,Graduated,Fall_2023,CS010,Intro to Programming,CS,3.0
+S0012,Graduated,Fall_2023,HUM050,Ethics,Humanities,3.0
+S0012,Graduated,Fall_2023,SCI010,General Physics,Sciences,2.3
+S0012,Graduated,Spring_2024,MATH040,Discrete Math,Math,3.3
+S0012,Graduated,Spring_2024,SCI030,Electromagnetism,Sciences,3.3
+S0012,Graduated,Spring_2024,SCI090,Ecology,Sciences,2.7
+S0012,Graduated,Spring_2024,HUM020,Creative Writing,Humanities,2.7
+S0012,Graduated,Fall_2024,SCI090,Ecology,Sciences,2.3
+S0012,Graduated,Fall_2024,SCI070,Cell Biology,Sciences,2.7
+S0012,Graduated,Fall_2024,SCI020,Mechanics,Sciences,2.7
+S0012,Graduated,Fall_2024,CS100,Theory of Computation,CS,2.7
+S0012,Graduated,Spring_2025,HUM010,English Literature,Humanities,3.0
+S0012,Graduated,Spring_2025,SCI090,Ecology,Sciences,2.7
+S0012,Graduated,Spring_2025,SCI040,General Chemistry,Sciences,3.0
+S0012,Graduated,Spring_2025,HUM030,World History,Humanities,3.3
+S0012,Graduated,Fall_2025,SCI020,Mechanics,Sciences,3.0
+S0012,Graduated,Fall_2025,HUM030,World History,Humanities,2.7
+S0012,Graduated,Fall_2025,SCI010,General Physics,Sciences,2.3
+S0012,Graduated,Fall_2025,SCI050,Organic Chemistry,Sciences,2.3
+S0012,Graduated,Spring_2026,SCI080,Genetics,Sciences,3.3
+S0012,Graduated,Spring_2026,SCI090,Ecology,Sciences,2.0
+S0012,Graduated,Spring_2026,SCI050,Organic Chemistry,Sciences,3.0
+S0012,Graduated,Spring_2026,SCI060,Biochemistry,Sciences,3.0
+S0013,Junior,Fall_2022,ART070,Film Studies,Arts,3.0
+S0013,Junior,Fall_2022,ART030,Sculpture,Arts,3.3
+S0013,Junior,Fall_2022,ART010,Drawing Fundamentals,Arts,3.7
+S0013,Junior,Fall_2022,ART100,Graphic Design,Arts,3.7
+S0013,Junior,Spring_2023,CS010,Intro to Programming,CS,3.3
+S0013,Junior,Spring_2023,SCI070,Cell Biology,Sciences,2.7
+S0013,Junior,Spring_2023,CS100,Theory of Computation,CS,3.7
+S0013,Junior,Spring_2023,ART050,History of Art,Arts,3.0
+S0013,Junior,Fall_2023,ART050,History of Art,Arts,3.0
+S0013,Junior,Fall_2023,SCI010,General Physics,Sciences,3.0
+S0013,Junior,Fall_2023,ART070,Film Studies,Arts,3.3
+S0013,Junior,Fall_2023,ART060,Photography,Arts,3.7
+S0013,Junior,Spring_2024,ART040,Music Theory,Arts,4.0
+S0013,Junior,Spring_2024,SCI080,Genetics,Sciences,3.3
+S0013,Junior,Spring_2024,SOC090,Public Policy,SocialSciences,3.7
+S0013,Junior,Spring_2024,ART060,Photography,Arts,3.7
+S0013,Junior,Fall_2024,ART010,Drawing Fundamentals,Arts,3.7
+S0013,Junior,Fall_2024,ART060,Photography,Arts,3.3
+S0013,Junior,Fall_2024,ART040,Music Theory,Arts,3.3
+S0013,Junior,Fall_2024,HUM070,Classical Mythology,Humanities,3.7
+S0013,Junior,Spring_2025,ART040,Music Theory,Arts,4.0
+S0013,Junior,Spring_2025,ART100,Graphic Design,Arts,3.3
+S0013,Junior,Spring_2025,ART080,Theater Performance,Arts,3.7
+S0013,Junior,Spring_2025,SCI100,Astronomy,Sciences,3.7
+S0014,Graduated,Fall_2022,SOC080,International Relations,SocialSciences,2.7
+S0014,Graduated,Fall_2022,HUM080,American Literature,Humanities,2.3
+S0014,Graduated,Fall_2022,SOC070,Anthropology,SocialSciences,2.0
+S0014,Graduated,Fall_2022,SCI100,Astronomy,Sciences,2.7
+S0014,Graduated,Spring_2023,SOC100,Behavioral Economics,SocialSciences,2.3
+S0014,Graduated,Spring_2023,SOC050,Sociology,SocialSciences,3.0
+S0014,Graduated,Spring_2023,MATH090,Number Theory,Math,2.3
+S0014,Graduated,Spring_2023,SOC070,Anthropology,SocialSciences,2.0
+S0014,Graduated,Fall_2023,SOC100,Behavioral Economics,SocialSciences,2.3
+S0014,Graduated,Fall_2023,ART040,Music Theory,Arts,2.7
+S0014,Graduated,Fall_2023,MATH090,Number Theory,Math,2.3
+S0014,Graduated,Fall_2023,MATH050,Probability,Math,2.0
+S0014,Graduated,Spring_2024,SOC070,Anthropology,SocialSciences,2.7
+S0014,Graduated,Spring_2024,SOC040,Social Psychology,SocialSciences,2.7
+S0014,Graduated,Spring_2024,SOC010,Microeconomics,SocialSciences,3.3
+S0014,Graduated,Spring_2024,SOC080,International Relations,SocialSciences,3.0
+S0014,Graduated,Fall_2024,SOC070,Anthropology,SocialSciences,2.3
+S0014,Graduated,Fall_2024,SOC030,Intro Psychology,SocialSciences,2.3
+S0014,Graduated,Fall_2024,ART070,Film Studies,Arts,3.0
+S0014,Graduated,Fall_2024,HUM040,Philosophy,Humanities,3.3
+S0014,Graduated,Spring_2025,ART020,Painting,Arts,2.7
+S0014,Graduated,Spring_2025,SOC060,Political Science,SocialSciences,2.3
+S0014,Graduated,Spring_2025,SCI100,Astronomy,Sciences,2.3
+S0014,Graduated,Spring_2025,CS100,Theory of Computation,CS,1.7
+S0014,Graduated,Fall_2025,SOC090,Public Policy,SocialSciences,2.7
+S0014,Graduated,Fall_2025,SOC070,Anthropology,SocialSciences,2.7
+S0014,Graduated,Fall_2025,SOC060,Political Science,SocialSciences,2.3
+S0014,Graduated,Fall_2025,SOC040,Social Psychology,SocialSciences,2.3
+S0014,Graduated,Spring_2026,HUM010,English Literature,Humanities,2.7
+S0014,Graduated,Spring_2026,SOC090,Public Policy,SocialSciences,2.3
+S0014,Graduated,Spring_2026,SOC100,Behavioral Economics,SocialSciences,2.3
+S0014,Graduated,Spring_2026,SOC020,Macroeconomics,SocialSciences,2.0
+S0015,Freshman,Fall_2022,CS080,Computer Networks,CS,3.0
+S0015,Freshman,Fall_2022,SCI090,Ecology,Sciences,3.7
+S0015,Freshman,Fall_2022,SCI080,Genetics,Sciences,2.7
+S0015,Freshman,Fall_2022,SCI030,Electromagnetism,Sciences,3.3
+S0015,Freshman,Spring_2023,MATH080,Differential Equations,Math,2.7
+S0015,Freshman,Spring_2023,SCI060,Biochemistry,Sciences,2.3
+S0015,Freshman,Spring_2023,SCI080,Genetics,Sciences,3.7
+S0015,Freshman,Spring_2023,ART050,History of Art,Arts,3.0
+S0016,Graduated,Fall_2022,SCI050,Organic Chemistry,Sciences,3.3
+S0016,Graduated,Fall_2022,SCI020,Mechanics,Sciences,3.3
+S0016,Graduated,Fall_2022,ART030,Sculpture,Arts,4.0
+S0016,Graduated,Fall_2022,SCI040,General Chemistry,Sciences,3.3
+S0016,Graduated,Spring_2023,SCI030,Electromagnetism,Sciences,3.7
+S0016,Graduated,Spring_2023,MATH040,Discrete Math,Math,3.0
+S0016,Graduated,Spring_2023,SCI090,Ecology,Sciences,3.7
+S0016,Graduated,Spring_2023,SCI040,General Chemistry,Sciences,2.7
+S0016,Graduated,Fall_2023,MATH080,Differential Equations,Math,4.0
+S0016,Graduated,Fall_2023,CS100,Theory of Computation,CS,3.7
+S0016,Graduated,Fall_2023,HUM050,Ethics,Humanities,4.0
+S0016,Graduated,Fall_2023,SCI030,Electromagnetism,Sciences,3.7
+S0016,Graduated,Spring_2024,HUM080,American Literature,Humanities,3.3
+S0016,Graduated,Spring_2024,SCI030,Electromagnetism,Sciences,3.7
+S0016,Graduated,Spring_2024,HUM040,Philosophy,Humanities,3.7
+S0016,Graduated,Spring_2024,SCI020,Mechanics,Sciences,3.7
+S0016,Graduated,Fall_2024,HUM100,Linguistics,Humanities,4.0
+S0016,Graduated,Fall_2024,SCI090,Ecology,Sciences,3.3
+S0016,Graduated,Fall_2024,SCI010,General Physics,Sciences,4.0
+S0016,Graduated,Fall_2024,SCI080,Genetics,Sciences,3.7
+S0016,Graduated,Spring_2025,SCI020,Mechanics,Sciences,3.3
+S0016,Graduated,Spring_2025,SCI030,Electromagnetism,Sciences,3.3
+S0016,Graduated,Spring_2025,SCI050,Organic Chemistry,Sciences,4.0
+S0016,Graduated,Spring_2025,HUM080,American Literature,Humanities,3.7
+S0016,Graduated,Fall_2025,SCI100,Astronomy,Sciences,3.7
+S0016,Graduated,Fall_2025,SCI020,Mechanics,Sciences,3.3
+S0016,Graduated,Fall_2025,SOC020,Macroeconomics,SocialSciences,3.3
+S0016,Graduated,Fall_2025,HUM060,Religious Studies,Humanities,3.7
+S0016,Graduated,Spring_2026,SCI080,Genetics,Sciences,4.0
+S0016,Graduated,Spring_2026,SCI020,Mechanics,Sciences,3.3
+S0016,Graduated,Spring_2026,SCI060,Biochemistry,Sciences,3.3
+S0016,Graduated,Spring_2026,SCI040,General Chemistry,Sciences,3.3
+S0017,Graduated,Fall_2022,ART030,Sculpture,Arts,3.7
+S0017,Graduated,Fall_2022,HUM080,American Literature,Humanities,3.0
+S0017,Graduated,Fall_2022,HUM060,Religious Studies,Humanities,4.0
+S0017,Graduated,Fall_2022,ART020,Painting,Arts,3.7
+S0017,Graduated,Spring_2023,CS040,Computer Systems,CS,3.0
+S0017,Graduated,Spring_2023,HUM090,Modern Poetry,Humanities,4.0
+S0017,Graduated,Spring_2023,ART020,Painting,Arts,3.7
+S0017,Graduated,Spring_2023,MATH040,Discrete Math,Math,3.3
+S0017,Graduated,Fall_2023,CS080,Computer Networks,CS,3.0
+S0017,Graduated,Fall_2023,HUM070,Classical Mythology,Humanities,4.0
+S0017,Graduated,Fall_2023,ART070,Film Studies,Arts,3.0
+S0017,Graduated,Fall_2023,SOC100,Behavioral Economics,SocialSciences,3.3
+S0017,Graduated,Spring_2024,ART040,Music Theory,Arts,3.7
+S0017,Graduated,Spring_2024,CS020,Data Structures,CS,4.0
+S0017,Graduated,Spring_2024,ART050,History of Art,Arts,3.7
+S0017,Graduated,Spring_2024,SCI030,Electromagnetism,Sciences,3.0
+S0017,Graduated,Fall_2024,ART010,Drawing Fundamentals,Arts,3.3
+S0017,Graduated,Fall_2024,ART090,Modern Dance,Arts,3.0
+S0017,Graduated,Fall_2024,ART070,Film Studies,Arts,4.0
+S0017,Graduated,Fall_2024,ART030,Sculpture,Arts,3.7
+S0017,Graduated,Spring_2025,ART010,Drawing Fundamentals,Arts,3.0
+S0017,Graduated,Spring_2025,ART100,Graphic Design,Arts,3.0
+S0017,Graduated,Spring_2025,ART020,Painting,Arts,3.3
+S0017,Graduated,Spring_2025,ART070,Film Studies,Arts,3.3
+S0017,Graduated,Fall_2025,ART070,Film Studies,Arts,4.0
+S0017,Graduated,Fall_2025,ART100,Graphic Design,Arts,3.7
+S0017,Graduated,Fall_2025,ART050,History of Art,Arts,3.7
+S0017,Graduated,Fall_2025,CS040,Computer Systems,CS,3.3
+S0017,Graduated,Spring_2026,ART060,Photography,Arts,3.7
+S0017,Graduated,Spring_2026,ART080,Theater Performance,Arts,3.7
+S0017,Graduated,Spring_2026,MATH020,Calculus II,Math,3.0
+S0017,Graduated,Spring_2026,ART090,Modern Dance,Arts,3.7
+S0018,Sophomore,Fall_2022,CS030,Algorithms,CS,2.0
+S0018,Sophomore,Fall_2022,HUM080,American Literature,Humanities,2.7
+S0018,Sophomore,Fall_2022,ART060,Photography,Arts,2.7
+S0018,Sophomore,Fall_2022,HUM070,Classical Mythology,Humanities,3.0
+S0018,Sophomore,Spring_2023,HUM060,Religious Studies,Humanities,2.7
+S0018,Sophomore,Spring_2023,HUM100,Linguistics,Humanities,2.7
+S0018,Sophomore,Spring_2023,HUM020,Creative Writing,Humanities,3.0
+S0018,Sophomore,Spring_2023,HUM050,Ethics,Humanities,2.7
+S0018,Sophomore,Fall_2023,HUM040,Philosophy,Humanities,2.7
+S0018,Sophomore,Fall_2023,ART080,Theater Performance,Arts,2.7
+S0018,Sophomore,Fall_2023,SCI030,Electromagnetism,Sciences,2.7
+S0018,Sophomore,Fall_2023,ART030,Sculpture,Arts,3.0
+S0019,Graduated,Fall_2022,CS080,Computer Networks,CS,3.3
+S0019,Graduated,Fall_2022,CS100,Theory of Computation,CS,2.7
+S0019,Graduated,Fall_2022,SCI090,Ecology,Sciences,3.0
+S0019,Graduated,Fall_2022,ART070,Film Studies,Arts,2.7
+S0019,Graduated,Spring_2023,CS100,Theory of Computation,CS,2.3
+S0019,Graduated,Spring_2023,CS080,Computer Networks,CS,3.3
+S0019,Graduated,Spring_2023,CS050,Operating Systems,CS,3.3
+S0019,Graduated,Spring_2023,HUM080,American Literature,Humanities,3.3
+S0019,Graduated,Fall_2023,CS050,Operating Systems,CS,3.7
+S0019,Graduated,Fall_2023,CS020,Data Structures,CS,2.3
+S0019,Graduated,Fall_2023,HUM030,World History,Humanities,3.0
+S0019,Graduated,Fall_2023,CS100,Theory of Computation,CS,3.3
+S0019,Graduated,Spring_2024,SOC020,Macroeconomics,SocialSciences,3.0
+S0019,Graduated,Spring_2024,CS100,Theory of Computation,CS,3.7
+S0019,Graduated,Spring_2024,CS030,Algorithms,CS,3.7
+S0019,Graduated,Spring_2024,SCI090,Ecology,Sciences,3.0
+S0019,Graduated,Fall_2024,MATH020,Calculus II,Math,3.7
+S0019,Graduated,Fall_2024,CS080,Computer Networks,CS,2.7
+S0019,Graduated,Fall_2024,HUM040,Philosophy,Humanities,4.0
+S0019,Graduated,Fall_2024,MATH010,Calculus I,Math,2.7
+S0019,Graduated,Spring_2025,CS040,Computer Systems,CS,3.3
+S0019,Graduated,Spring_2025,SOC020,Macroeconomics,SocialSciences,3.0
+S0019,Graduated,Spring_2025,CS060,Databases,CS,3.7
+S0019,Graduated,Spring_2025,CS070,Machine Learning,CS,3.0
+S0019,Graduated,Fall_2025,SCI020,Mechanics,Sciences,2.7
+S0019,Graduated,Fall_2025,CS030,Algorithms,CS,3.0
+S0019,Graduated,Fall_2025,MATH100,Abstract Algebra,Math,2.7
+S0019,Graduated,Fall_2025,SOC050,Sociology,SocialSciences,3.0
+S0019,Graduated,Spring_2026,SOC020,Macroeconomics,SocialSciences,3.0
+S0019,Graduated,Spring_2026,ART030,Sculpture,Arts,3.3
+S0019,Graduated,Spring_2026,CS090,Software Engineering,CS,3.0
+S0019,Graduated,Spring_2026,CS070,Machine Learning,CS,3.0
+S0020,Junior,Fall_2022,HUM030,World History,Humanities,3.3
+S0020,Junior,Fall_2022,HUM050,Ethics,Humanities,3.7
+S0020,Junior,Fall_2022,CS070,Machine Learning,CS,4.0
+S0020,Junior,Fall_2022,ART070,Film Studies,Arts,3.3
+S0020,Junior,Spring_2023,CS100,Theory of Computation,CS,3.0
+S0020,Junior,Spring_2023,HUM100,Linguistics,Humanities,4.0
+S0020,Junior,Spring_2023,MATH010,Calculus I,Math,3.3
+S0020,Junior,Spring_2023,CS030,Algorithms,CS,4.0
+S0020,Junior,Fall_2023,HUM080,American Literature,Humanities,4.0
+S0020,Junior,Fall_2023,HUM040,Philosophy,Humanities,4.0
+S0020,Junior,Fall_2023,MATH030,Linear Algebra,Math,3.3
+S0020,Junior,Fall_2023,HUM100,Linguistics,Humanities,4.0
+S0020,Junior,Spring_2024,MATH010,Calculus I,Math,3.7
+S0020,Junior,Spring_2024,ART020,Painting,Arts,3.3
+S0020,Junior,Spring_2024,ART060,Photography,Arts,4.0
+S0020,Junior,Spring_2024,HUM080,American Literature,Humanities,4.0
+S0020,Junior,Fall_2024,MATH090,Number Theory,Math,4.0
+S0020,Junior,Fall_2024,HUM030,World History,Humanities,4.0
+S0020,Junior,Fall_2024,HUM090,Modern Poetry,Humanities,4.0
+S0020,Junior,Fall_2024,HUM070,Classical Mythology,Humanities,3.3
+S0020,Junior,Spring_2025,SCI070,Cell Biology,Sciences,3.3
+S0020,Junior,Spring_2025,HUM090,Modern Poetry,Humanities,4.0
+S0020,Junior,Spring_2025,HUM070,Classical Mythology,Humanities,4.0
+S0020,Junior,Spring_2025,SCI040,General Chemistry,Sciences,3.7
+S0021,Freshman,Fall_2022,HUM010,English Literature,Humanities,3.3
+S0021,Freshman,Fall_2022,CS090,Software Engineering,CS,3.0
+S0021,Freshman,Fall_2022,SCI010,General Physics,Sciences,3.7
+S0021,Freshman,Fall_2022,CS020,Data Structures,CS,2.3
+S0021,Freshman,Spring_2023,CS080,Computer Networks,CS,2.7
+S0021,Freshman,Spring_2023,MATH060,Statistics,Math,2.7
+S0021,Freshman,Spring_2023,SCI010,General Physics,Sciences,3.0
+S0021,Freshman,Spring_2023,SCI100,Astronomy,Sciences,3.3
+S0022,Freshman,Fall_2022,MATH060,Statistics,Math,2.3
+S0022,Freshman,Fall_2022,MATH090,Number Theory,Math,2.7
+S0022,Freshman,Fall_2022,ART100,Graphic Design,Arts,3.3
+S0022,Freshman,Fall_2022,ART020,Painting,Arts,2.7
+S0022,Freshman,Spring_2023,HUM030,World History,Humanities,3.0
+S0022,Freshman,Spring_2023,SCI050,Organic Chemistry,Sciences,3.0
+S0022,Freshman,Spring_2023,CS030,Algorithms,CS,3.0
+S0022,Freshman,Spring_2023,SCI040,General Chemistry,Sciences,2.3
+S0023,Graduated,Fall_2022,CS090,Software Engineering,CS,2.7
+S0023,Graduated,Fall_2022,ART090,Modern Dance,Arts,2.7
+S0023,Graduated,Fall_2022,ART030,Sculpture,Arts,3.3
+S0023,Graduated,Fall_2022,SOC040,Social Psychology,SocialSciences,2.7
+S0023,Graduated,Spring_2023,ART080,Theater Performance,Arts,3.0
+S0023,Graduated,Spring_2023,ART040,Music Theory,Arts,3.0
+S0023,Graduated,Spring_2023,SCI010,General Physics,Sciences,3.7
+S0023,Graduated,Spring_2023,HUM030,World History,Humanities,3.0
+S0023,Graduated,Fall_2023,MATH090,Number Theory,Math,3.0
+S0023,Graduated,Fall_2023,ART010,Drawing Fundamentals,Arts,3.0
+S0023,Graduated,Fall_2023,SCI020,Mechanics,Sciences,3.3
+S0023,Graduated,Fall_2023,ART060,Photography,Arts,2.3
+S0023,Graduated,Spring_2024,ART030,Sculpture,Arts,3.3
+S0023,Graduated,Spring_2024,ART080,Theater Performance,Arts,3.3
+S0023,Graduated,Spring_2024,ART090,Modern Dance,Arts,3.0
+S0023,Graduated,Spring_2024,ART020,Painting,Arts,2.7
+S0023,Graduated,Fall_2024,SCI010,General Physics,Sciences,2.7
+S0023,Graduated,Fall_2024,ART060,Photography,Arts,3.3
+S0023,Graduated,Fall_2024,MATH100,Abstract Algebra,Math,3.0
+S0023,Graduated,Fall_2024,ART070,Film Studies,Arts,2.7
+S0023,Graduated,Spring_2025,HUM100,Linguistics,Humanities,3.3
+S0023,Graduated,Spring_2025,MATH080,Differential Equations,Math,2.7
+S0023,Graduated,Spring_2025,ART010,Drawing Fundamentals,Arts,3.0
+S0023,Graduated,Spring_2025,CS050,Operating Systems,CS,2.7
+S0023,Graduated,Fall_2025,ART010,Drawing Fundamentals,Arts,3.3
+S0023,Graduated,Fall_2025,ART100,Graphic Design,Arts,3.3
+S0023,Graduated,Fall_2025,SCI090,Ecology,Sciences,3.7
+S0023,Graduated,Fall_2025,ART020,Painting,Arts,2.7
+S0023,Graduated,Spring_2026,ART030,Sculpture,Arts,3.7
+S0023,Graduated,Spring_2026,SCI040,General Chemistry,Sciences,2.7
+S0023,Graduated,Spring_2026,ART020,Painting,Arts,3.3
+S0023,Graduated,Spring_2026,HUM040,Philosophy,Humanities,3.3
+S0024,Freshman,Fall_2022,ART090,Modern Dance,Arts,3.3
+S0024,Freshman,Fall_2022,ART050,History of Art,Arts,2.7
+S0024,Freshman,Fall_2022,MATH040,Discrete Math,Math,3.3
+S0024,Freshman,Fall_2022,MATH090,Number Theory,Math,3.7
+S0024,Freshman,Spring_2023,ART030,Sculpture,Arts,4.0
+S0024,Freshman,Spring_2023,SCI090,Ecology,Sciences,3.7
+S0024,Freshman,Spring_2023,ART020,Painting,Arts,3.7
+S0024,Freshman,Spring_2023,ART050,History of Art,Arts,3.3
+S0025,Sophomore,Fall_2022,SOC050,Sociology,SocialSciences,3.3
+S0025,Sophomore,Fall_2022,ART010,Drawing Fundamentals,Arts,3.3
+S0025,Sophomore,Fall_2022,ART040,Music Theory,Arts,3.3
+S0025,Sophomore,Fall_2022,MATH060,Statistics,Math,2.7
+S0025,Sophomore,Spring_2023,HUM060,Religious Studies,Humanities,3.0
+S0025,Sophomore,Spring_2023,ART020,Painting,Arts,2.7
+S0025,Sophomore,Spring_2023,ART070,Film Studies,Arts,3.3
+S0025,Sophomore,Spring_2023,SOC070,Anthropology,SocialSciences,2.7
+S0025,Sophomore,Fall_2023,ART060,Photography,Arts,3.7
+S0025,Sophomore,Fall_2023,SCI090,Ecology,Sciences,3.0
+S0025,Sophomore,Fall_2023,ART090,Modern Dance,Arts,3.0
+S0025,Sophomore,Fall_2023,MATH020,Calculus II,Math,2.3
+S0025,Sophomore,Spring_2024,HUM040,Philosophy,Humanities,3.3
+S0025,Sophomore,Spring_2024,ART030,Sculpture,Arts,3.7
+S0025,Sophomore,Spring_2024,ART040,Music Theory,Arts,3.0
+S0025,Sophomore,Spring_2024,ART090,Modern Dance,Arts,3.0
+S0026,Senior,Fall_2022,SCI050,Organic Chemistry,Sciences,4.0
+S0026,Senior,Fall_2022,CS060,Databases,CS,4.0
+S0026,Senior,Fall_2022,MATH010,Calculus I,Math,3.3
+S0026,Senior,Fall_2022,HUM080,American Literature,Humanities,3.3
+S0026,Senior,Spring_2023,HUM070,Classical Mythology,Humanities,3.7
+S0026,Senior,Spring_2023,SCI010,General Physics,Sciences,3.3
+S0026,Senior,Spring_2023,SCI100,Astronomy,Sciences,3.3
+S0026,Senior,Spring_2023,SCI040,General Chemistry,Sciences,3.0
+S0026,Senior,Fall_2023,MATH090,Number Theory,Math,3.3
+S0026,Senior,Fall_2023,MATH100,Abstract Algebra,Math,3.0
+S0026,Senior,Fall_2023,SCI070,Cell Biology,Sciences,3.0
+S0026,Senior,Fall_2023,SCI020,Mechanics,Sciences,3.7
+S0026,Senior,Spring_2024,SCI030,Electromagnetism,Sciences,3.7
+S0026,Senior,Spring_2024,SCI060,Biochemistry,Sciences,3.7
+S0026,Senior,Spring_2024,ART060,Photography,Arts,3.3
+S0026,Senior,Spring_2024,SCI070,Cell Biology,Sciences,3.3
+S0026,Senior,Fall_2024,SCI050,Organic Chemistry,Sciences,4.0
+S0026,Senior,Fall_2024,SCI030,Electromagnetism,Sciences,3.3
+S0026,Senior,Fall_2024,ART060,Photography,Arts,4.0
+S0026,Senior,Fall_2024,MATH060,Statistics,Math,2.7
+S0026,Senior,Spring_2025,MATH030,Linear Algebra,Math,3.0
+S0026,Senior,Spring_2025,HUM020,Creative Writing,Humanities,3.7
+S0026,Senior,Spring_2025,SCI100,Astronomy,Sciences,3.3
+S0026,Senior,Spring_2025,SCI050,Organic Chemistry,Sciences,4.0
+S0026,Senior,Fall_2025,SCI100,Astronomy,Sciences,3.0
+S0026,Senior,Fall_2025,SCI010,General Physics,Sciences,3.3
+S0026,Senior,Fall_2025,SOC020,Macroeconomics,SocialSciences,2.7
+S0026,Senior,Fall_2025,MATH090,Number Theory,Math,4.0
+S0027,Junior,Fall_2022,CS100,Theory of Computation,CS,2.3
+S0027,Junior,Fall_2022,SCI040,General Chemistry,Sciences,3.0
+S0027,Junior,Fall_2022,CS050,Operating Systems,CS,2.7
+S0027,Junior,Fall_2022,CS080,Computer Networks,CS,3.3
+S0027,Junior,Spring_2023,CS020,Data Structures,CS,2.7
+S0027,Junior,Spring_2023,CS060,Databases,CS,2.7
+S0027,Junior,Spring_2023,SCI040,General Chemistry,Sciences,2.7
+S0027,Junior,Spring_2023,MATH030,Linear Algebra,Math,2.7
+S0027,Junior,Fall_2023,ART020,Painting,Arts,3.0
+S0027,Junior,Fall_2023,CS080,Computer Networks,CS,2.7
+S0027,Junior,Fall_2023,CS090,Software Engineering,CS,3.3
+S0027,Junior,Fall_2023,CS100,Theory of Computation,CS,2.3
+S0027,Junior,Spring_2024,HUM030,World History,Humanities,2.7
+S0027,Junior,Spring_2024,HUM050,Ethics,Humanities,2.7
+S0027,Junior,Spring_2024,CS100,Theory of Computation,CS,3.3
+S0027,Junior,Spring_2024,CS010,Intro to Programming,CS,3.7
+S0027,Junior,Fall_2024,SOC070,Anthropology,SocialSciences,3.0
+S0027,Junior,Fall_2024,SOC010,Microeconomics,SocialSciences,2.7
+S0027,Junior,Fall_2024,CS080,Computer Networks,CS,2.7
+S0027,Junior,Fall_2024,CS100,Theory of Computation,CS,2.7
+S0027,Junior,Spring_2025,HUM100,Linguistics,Humanities,3.0
+S0027,Junior,Spring_2025,SCI050,Organic Chemistry,Sciences,3.3
+S0027,Junior,Spring_2025,CS040,Computer Systems,CS,3.3
+S0027,Junior,Spring_2025,CS020,Data Structures,CS,2.7
+S0028,Junior,Fall_2022,HUM100,Linguistics,Humanities,3.0
+S0028,Junior,Fall_2022,ART060,Photography,Arts,3.3
+S0028,Junior,Fall_2022,SOC070,Anthropology,SocialSciences,3.7
+S0028,Junior,Fall_2022,HUM030,World History,Humanities,3.3
+S0028,Junior,Spring_2023,HUM030,World History,Humanities,3.3
+S0028,Junior,Spring_2023,HUM090,Modern Poetry,Humanities,3.0
+S0028,Junior,Spring_2023,HUM060,Religious Studies,Humanities,3.3
+S0028,Junior,Spring_2023,ART060,Photography,Arts,3.0
+S0028,Junior,Fall_2023,HUM040,Philosophy,Humanities,3.3
+S0028,Junior,Fall_2023,HUM050,Ethics,Humanities,3.7
+S0028,Junior,Fall_2023,SOC060,Political Science,SocialSciences,3.7
+S0028,Junior,Fall_2023,HUM080,American Literature,Humanities,3.3
+S0028,Junior,Spring_2024,HUM020,Creative Writing,Humanities,3.7
+S0028,Junior,Spring_2024,HUM050,Ethics,Humanities,3.0
+S0028,Junior,Spring_2024,HUM070,Classical Mythology,Humanities,3.3
+S0028,Junior,Spring_2024,SOC100,Behavioral Economics,SocialSciences,3.7
+S0028,Junior,Fall_2024,HUM080,American Literature,Humanities,4.0
+S0028,Junior,Fall_2024,SOC080,International Relations,SocialSciences,3.0
+S0028,Junior,Fall_2024,HUM040,Philosophy,Humanities,4.0
+S0028,Junior,Fall_2024,MATH080,Differential Equations,Math,3.7
+S0029,Graduated,Fall_2022,SOC040,Social Psychology,SocialSciences,2.7
+S0029,Graduated,Fall_2022,SOC070,Anthropology,SocialSciences,3.3
+S0029,Graduated,Fall_2022,SOC080,International Relations,SocialSciences,3.0
+S0029,Graduated,Fall_2022,SOC030,Intro Psychology,SocialSciences,3.3
+S0029,Graduated,Spring_2023,ART070,Film Studies,Arts,2.7
+S0029,Graduated,Spring_2023,SOC040,Social Psychology,SocialSciences,3.0
+S0029,Graduated,Spring_2023,MATH090,Number Theory,Math,2.7
+S0029,Graduated,Spring_2023,SOC010,Microeconomics,SocialSciences,2.7
+S0029,Graduated,Fall_2023,ART100,Graphic Design,Arts,3.0
+S0029,Graduated,Fall_2023,SOC030,Intro Psychology,SocialSciences,3.0
+S0029,Graduated,Fall_2023,CS030,Algorithms,CS,2.7
+S0029,Graduated,Fall_2023,SCI060,Biochemistry,Sciences,2.7
+S0029,Graduated,Spring_2024,SOC010,Microeconomics,SocialSciences,2.3
+S0029,Graduated,Spring_2024,SOC100,Behavioral Economics,SocialSciences,2.3
+S0029,Graduated,Spring_2024,ART100,Graphic Design,Arts,3.3
+S0029,Graduated,Spring_2024,MATH090,Number Theory,Math,2.3
+S0029,Graduated,Fall_2024,SOC090,Public Policy,SocialSciences,3.0
+S0029,Graduated,Fall_2024,SOC040,Social Psychology,SocialSciences,2.7
+S0029,Graduated,Fall_2024,SCI020,Mechanics,Sciences,2.3
+S0029,Graduated,Fall_2024,SOC080,International Relations,SocialSciences,3.3
+S0029,Graduated,Spring_2025,SOC040,Social Psychology,SocialSciences,3.0
+S0029,Graduated,Spring_2025,SOC070,Anthropology,SocialSciences,3.3
+S0029,Graduated,Spring_2025,HUM030,World History,Humanities,3.0
+S0029,Graduated,Spring_2025,MATH020,Calculus II,Math,2.7
+S0029,Graduated,Fall_2025,SOC080,International Relations,SocialSciences,3.0
+S0029,Graduated,Fall_2025,SCI020,Mechanics,Sciences,3.0
+S0029,Graduated,Fall_2025,SOC100,Behavioral Economics,SocialSciences,2.7
+S0029,Graduated,Fall_2025,SOC060,Political Science,SocialSciences,3.0
+S0029,Graduated,Spring_2026,SOC090,Public Policy,SocialSciences,3.3
+S0029,Graduated,Spring_2026,ART070,Film Studies,Arts,3.3
+S0029,Graduated,Spring_2026,MATH100,Abstract Algebra,Math,2.3
+S0029,Graduated,Spring_2026,SOC010,Microeconomics,SocialSciences,3.0
+S0030,Sophomore,Fall_2022,HUM100,Linguistics,Humanities,3.3
+S0030,Sophomore,Fall_2022,HUM090,Modern Poetry,Humanities,2.7
+S0030,Sophomore,Fall_2022,SOC090,Public Policy,SocialSciences,3.0
+S0030,Sophomore,Fall_2022,SOC030,Intro Psychology,SocialSciences,2.7
+S0030,Sophomore,Spring_2023,HUM040,Philosophy,Humanities,3.3
+S0030,Sophomore,Spring_2023,HUM060,Religious Studies,Humanities,3.0
+S0030,Sophomore,Spring_2023,HUM100,Linguistics,Humanities,3.0
+S0030,Sophomore,Spring_2023,HUM090,Modern Poetry,Humanities,3.3
+S0030,Sophomore,Fall_2023,SCI090,Ecology,Sciences,3.0
+S0030,Sophomore,Fall_2023,HUM040,Philosophy,Humanities,3.3
+S0030,Sophomore,Fall_2023,HUM020,Creative Writing,Humanities,3.3
+S0030,Sophomore,Fall_2023,HUM090,Modern Poetry,Humanities,3.7
+S0030,Sophomore,Spring_2024,HUM060,Religious Studies,Humanities,3.0
+S0030,Sophomore,Spring_2024,HUM050,Ethics,Humanities,2.7
+S0030,Sophomore,Spring_2024,SCI060,Biochemistry,Sciences,3.3
+S0030,Sophomore,Spring_2024,HUM010,English Literature,Humanities,3.3
+S0031,Sophomore,Fall_2022,HUM070,Classical Mythology,Humanities,4.0
+S0031,Sophomore,Fall_2022,HUM030,World History,Humanities,3.3
+S0031,Sophomore,Fall_2022,SOC070,Anthropology,SocialSciences,4.0
+S0031,Sophomore,Fall_2022,SCI070,Cell Biology,Sciences,2.7
+S0031,Sophomore,Spring_2023,HUM020,Creative Writing,Humanities,4.0
+S0031,Sophomore,Spring_2023,SOC030,Intro Psychology,SocialSciences,4.0
+S0031,Sophomore,Spring_2023,CS090,Software Engineering,CS,4.0
+S0031,Sophomore,Spring_2023,SCI030,Electromagnetism,Sciences,3.3
+S0031,Sophomore,Fall_2023,ART040,Music Theory,Arts,4.0
+S0031,Sophomore,Fall_2023,HUM010,English Literature,Humanities,3.7
+S0031,Sophomore,Fall_2023,SCI100,Astronomy,Sciences,3.7
+S0031,Sophomore,Fall_2023,HUM050,Ethics,Humanities,3.7
+S0032,Sophomore,Fall_2022,SCI020,Mechanics,Sciences,3.3
+S0032,Sophomore,Fall_2022,SCI070,Cell Biology,Sciences,3.3
+S0032,Sophomore,Fall_2022,ART100,Graphic Design,Arts,3.3
+S0032,Sophomore,Fall_2022,CS020,Data Structures,CS,3.0
+S0032,Sophomore,Spring_2023,ART060,Photography,Arts,3.7
+S0032,Sophomore,Spring_2023,SCI010,General Physics,Sciences,3.3
+S0032,Sophomore,Spring_2023,SCI040,General Chemistry,Sciences,3.0
+S0032,Sophomore,Spring_2023,SOC090,Public Policy,SocialSciences,3.7
+S0032,Sophomore,Fall_2023,SOC070,Anthropology,SocialSciences,3.3
+S0032,Sophomore,Fall_2023,HUM070,Classical Mythology,Humanities,4.0
+S0032,Sophomore,Fall_2023,SOC040,Social Psychology,SocialSciences,3.3
+S0032,Sophomore,Fall_2023,MATH060,Statistics,Math,3.0
+S0032,Sophomore,Spring_2024,SCI010,General Physics,Sciences,3.3
+S0032,Sophomore,Spring_2024,HUM080,American Literature,Humanities,3.7
+S0032,Sophomore,Spring_2024,ART090,Modern Dance,Arts,3.3
+S0032,Sophomore,Spring_2024,SCI070,Cell Biology,Sciences,3.7
+S0033,Graduated,Fall_2022,HUM050,Ethics,Humanities,3.3
+S0033,Graduated,Fall_2022,HUM090,Modern Poetry,Humanities,3.3
+S0033,Graduated,Fall_2022,HUM040,Philosophy,Humanities,2.3
+S0033,Graduated,Fall_2022,HUM030,World History,Humanities,2.0
+S0033,Graduated,Spring_2023,CS090,Software Engineering,CS,2.3
+S0033,Graduated,Spring_2023,HUM050,Ethics,Humanities,2.7
+S0033,Graduated,Spring_2023,HUM020,Creative Writing,Humanities,3.3
+S0033,Graduated,Spring_2023,ART050,History of Art,Arts,3.0
+S0033,Graduated,Fall_2023,HUM100,Linguistics,Humanities,3.0
+S0033,Graduated,Fall_2023,ART060,Photography,Arts,3.3
+S0033,Graduated,Fall_2023,HUM060,Religious Studies,Humanities,2.7
+S0033,Graduated,Fall_2023,HUM040,Philosophy,Humanities,3.3
+S0033,Graduated,Spring_2024,SOC080,International Relations,SocialSciences,2.7
+S0033,Graduated,Spring_2024,HUM080,American Literature,Humanities,2.7
+S0033,Graduated,Spring_2024,SOC050,Sociology,SocialSciences,3.0
+S0033,Graduated,Spring_2024,MATH040,Discrete Math,Math,2.3
+S0033,Graduated,Fall_2024,HUM060,Religious Studies,Humanities,3.3
+S0033,Graduated,Fall_2024,HUM020,Creative Writing,Humanities,3.3
+S0033,Graduated,Fall_2024,HUM080,American Literature,Humanities,3.0
+S0033,Graduated,Fall_2024,SCI010,General Physics,Sciences,2.7
+S0033,Graduated,Spring_2025,HUM030,World History,Humanities,3.3
+S0033,Graduated,Spring_2025,HUM090,Modern Poetry,Humanities,3.3
+S0033,Graduated,Spring_2025,HUM080,American Literature,Humanities,3.3
+S0033,Graduated,Spring_2025,MATH090,Number Theory,Math,2.3
+S0033,Graduated,Fall_2025,HUM060,Religious Studies,Humanities,3.3
+S0033,Graduated,Fall_2025,HUM080,American Literature,Humanities,3.3
+S0033,Graduated,Fall_2025,SOC020,Macroeconomics,SocialSciences,3.3
+S0033,Graduated,Fall_2025,SCI100,Astronomy,Sciences,3.0
+S0033,Graduated,Spring_2026,HUM090,Modern Poetry,Humanities,3.7
+S0033,Graduated,Spring_2026,CS040,Computer Systems,CS,2.3
+S0033,Graduated,Spring_2026,ART040,Music Theory,Arts,2.7
+S0033,Graduated,Spring_2026,ART030,Sculpture,Arts,2.3
+S0034,Junior,Fall_2022,CS010,Intro to Programming,CS,3.3
+S0034,Junior,Fall_2022,CS080,Computer Networks,CS,3.0
+S0034,Junior,Fall_2022,CS100,Theory of Computation,CS,3.3
+S0034,Junior,Fall_2022,ART100,Graphic Design,Arts,3.7
+S0034,Junior,Spring_2023,CS010,Intro to Programming,CS,3.7
+S0034,Junior,Spring_2023,CS050,Operating Systems,CS,2.7
+S0034,Junior,Spring_2023,MATH090,Number Theory,Math,3.7
+S0034,Junior,Spring_2023,CS070,Machine Learning,CS,3.7
+S0034,Junior,Fall_2023,CS040,Computer Systems,CS,3.0
+S0034,Junior,Fall_2023,MATH070,Real Analysis,Math,3.3
+S0034,Junior,Fall_2023,MATH080,Differential Equations,Math,2.3
+S0034,Junior,Fall_2023,CS060,Databases,CS,3.0
+S0034,Junior,Spring_2024,CS020,Data Structures,CS,3.0
+S0034,Junior,Spring_2024,ART050,History of Art,Arts,4.0
+S0034,Junior,Spring_2024,CS030,Algorithms,CS,3.0
+S0034,Junior,Spring_2024,CS070,Machine Learning,CS,3.0
+S0034,Junior,Fall_2024,CS070,Machine Learning,CS,3.3
+S0034,Junior,Fall_2024,SCI020,Mechanics,Sciences,3.3
+S0034,Junior,Fall_2024,ART050,History of Art,Arts,3.7
+S0034,Junior,Fall_2024,ART080,Theater Performance,Arts,4.0
+S0035,Freshman,Fall_2022,MATH080,Differential Equations,Math,3.0
+S0035,Freshman,Fall_2022,HUM070,Classical Mythology,Humanities,4.0
+S0035,Freshman,Fall_2022,MATH020,Calculus II,Math,3.3
+S0035,Freshman,Fall_2022,SCI010,General Physics,Sciences,3.7
+S0035,Freshman,Spring_2023,ART100,Graphic Design,Arts,4.0
+S0035,Freshman,Spring_2023,CS030,Algorithms,CS,3.0
+S0035,Freshman,Spring_2023,HUM070,Classical Mythology,Humanities,3.3
+S0035,Freshman,Spring_2023,SCI050,Organic Chemistry,Sciences,3.0
+S0036,Graduated,Fall_2022,ART060,Photography,Arts,4.0
+S0036,Graduated,Fall_2022,ART070,Film Studies,Arts,3.3
+S0036,Graduated,Fall_2022,ART020,Painting,Arts,3.7
+S0036,Graduated,Fall_2022,ART100,Graphic Design,Arts,3.3
+S0036,Graduated,Spring_2023,ART080,Theater Performance,Arts,3.7
+S0036,Graduated,Spring_2023,ART060,Photography,Arts,3.7
+S0036,Graduated,Spring_2023,SCI050,Organic Chemistry,Sciences,3.0
+S0036,Graduated,Spring_2023,ART100,Graphic Design,Arts,3.3
+S0036,Graduated,Fall_2023,CS060,Databases,CS,4.0
+S0036,Graduated,Fall_2023,ART070,Film Studies,Arts,4.0
+S0036,Graduated,Fall_2023,SOC010,Microeconomics,SocialSciences,3.0
+S0036,Graduated,Fall_2023,ART020,Painting,Arts,3.7
+S0036,Graduated,Spring_2024,ART020,Painting,Arts,4.0
+S0036,Graduated,Spring_2024,ART080,Theater Performance,Arts,4.0
+S0036,Graduated,Spring_2024,HUM030,World History,Humanities,3.0
+S0036,Graduated,Spring_2024,ART010,Drawing Fundamentals,Arts,3.3
+S0036,Graduated,Fall_2024,CS010,Intro to Programming,CS,3.7
+S0036,Graduated,Fall_2024,ART070,Film Studies,Arts,3.3
+S0036,Graduated,Fall_2024,SOC070,Anthropology,SocialSciences,2.7
+S0036,Graduated,Fall_2024,ART080,Theater Performance,Arts,3.7
+S0036,Graduated,Spring_2025,ART050,History of Art,Arts,3.3
+S0036,Graduated,Spring_2025,ART080,Theater Performance,Arts,4.0
+S0036,Graduated,Spring_2025,ART030,Sculpture,Arts,3.0
+S0036,Graduated,Spring_2025,ART070,Film Studies,Arts,4.0
+S0036,Graduated,Fall_2025,HUM020,Creative Writing,Humanities,3.3
+S0036,Graduated,Fall_2025,MATH030,Linear Algebra,Math,3.7
+S0036,Graduated,Fall_2025,ART030,Sculpture,Arts,3.7
+S0036,Graduated,Fall_2025,ART070,Film Studies,Arts,3.3
+S0036,Graduated,Spring_2026,ART100,Graphic Design,Arts,4.0
+S0036,Graduated,Spring_2026,ART060,Photography,Arts,3.7
+S0036,Graduated,Spring_2026,SOC050,Sociology,SocialSciences,3.3
+S0036,Graduated,Spring_2026,ART070,Film Studies,Arts,3.0
+S0037,Junior,Fall_2022,SCI060,Biochemistry,Sciences,2.7
+S0037,Junior,Fall_2022,SCI100,Astronomy,Sciences,3.0
+S0037,Junior,Fall_2022,SCI090,Ecology,Sciences,3.0
+S0037,Junior,Fall_2022,SCI080,Genetics,Sciences,3.0
+S0037,Junior,Spring_2023,SCI070,Cell Biology,Sciences,2.0
+S0037,Junior,Spring_2023,CS090,Software Engineering,CS,2.7
+S0037,Junior,Spring_2023,MATH060,Statistics,Math,2.3
+S0037,Junior,Spring_2023,SCI030,Electromagnetism,Sciences,3.7
+S0037,Junior,Fall_2023,SCI070,Cell Biology,Sciences,3.3
+S0037,Junior,Fall_2023,ART100,Graphic Design,Arts,3.0
+S0037,Junior,Fall_2023,SOC050,Sociology,SocialSciences,2.7
+S0037,Junior,Fall_2023,SCI010,General Physics,Sciences,3.3
+S0037,Junior,Spring_2024,CS060,Databases,CS,2.7
+S0037,Junior,Spring_2024,SCI040,General Chemistry,Sciences,3.7
+S0037,Junior,Spring_2024,SCI030,Electromagnetism,Sciences,3.0
+S0037,Junior,Spring_2024,SCI100,Astronomy,Sciences,2.7
+S0037,Junior,Fall_2024,ART010,Drawing Fundamentals,Arts,2.7
+S0037,Junior,Fall_2024,SCI010,General Physics,Sciences,2.3
+S0037,Junior,Fall_2024,SCI040,General Chemistry,Sciences,2.7
+S0037,Junior,Fall_2024,HUM040,Philosophy,Humanities,3.3
+S0037,Junior,Spring_2025,SCI100,Astronomy,Sciences,3.3
+S0037,Junior,Spring_2025,CS100,Theory of Computation,CS,2.0
+S0037,Junior,Spring_2025,SCI010,General Physics,Sciences,3.3
+S0037,Junior,Spring_2025,SCI050,Organic Chemistry,Sciences,3.7
+S0038,Sophomore,Fall_2022,SCI080,Genetics,Sciences,3.7
+S0038,Sophomore,Fall_2022,HUM040,Philosophy,Humanities,4.0
+S0038,Sophomore,Fall_2022,SCI050,Organic Chemistry,Sciences,4.0
+S0038,Sophomore,Fall_2022,SCI020,Mechanics,Sciences,4.0
+S0038,Sophomore,Spring_2023,SOC080,International Relations,SocialSciences,3.7
+S0038,Sophomore,Spring_2023,SCI030,Electromagnetism,Sciences,3.7
+S0038,Sophomore,Spring_2023,SCI020,Mechanics,Sciences,3.7
+S0038,Sophomore,Spring_2023,SCI100,Astronomy,Sciences,4.0
+S0038,Sophomore,Fall_2023,SCI010,General Physics,Sciences,3.7
+S0038,Sophomore,Fall_2023,ART070,Film Studies,Arts,4.0
+S0038,Sophomore,Fall_2023,SCI100,Astronomy,Sciences,3.7
+S0038,Sophomore,Fall_2023,MATH040,Discrete Math,Math,3.0
+S0038,Sophomore,Spring_2024,HUM050,Ethics,Humanities,3.3
+S0038,Sophomore,Spring_2024,SCI060,Biochemistry,Sciences,3.3
+S0038,Sophomore,Spring_2024,SCI020,Mechanics,Sciences,3.3
+S0038,Sophomore,Spring_2024,SCI080,Genetics,Sciences,3.0
+S0039,Senior,Fall_2022,SOC050,Sociology,SocialSciences,2.7
+S0039,Senior,Fall_2022,HUM080,American Literature,Humanities,3.0
+S0039,Senior,Fall_2022,SOC030,Intro Psychology,SocialSciences,3.0
+S0039,Senior,Fall_2022,SOC040,Social Psychology,SocialSciences,2.7
+S0039,Senior,Spring_2023,SOC030,Intro Psychology,SocialSciences,2.3
+S0039,Senior,Spring_2023,SCI080,Genetics,Sciences,2.7
+S0039,Senior,Spring_2023,SOC090,Public Policy,SocialSciences,3.0
+S0039,Senior,Spring_2023,SOC020,Macroeconomics,SocialSciences,3.0
+S0039,Senior,Fall_2023,SOC080,International Relations,SocialSciences,3.0
+S0039,Senior,Fall_2023,ART060,Photography,Arts,3.3
+S0039,Senior,Fall_2023,SOC010,Microeconomics,SocialSciences,2.3
+S0039,Senior,Fall_2023,SOC040,Social Psychology,SocialSciences,2.3
+S0039,Senior,Spring_2024,SCI070,Cell Biology,Sciences,2.7
+S0039,Senior,Spring_2024,SCI090,Ecology,Sciences,3.0
+S0039,Senior,Spring_2024,SOC020,Macroeconomics,SocialSciences,2.3
+S0039,Senior,Spring_2024,ART010,Drawing Fundamentals,Arts,3.0
+S0039,Senior,Fall_2024,SOC080,International Relations,SocialSciences,3.3
+S0039,Senior,Fall_2024,SOC100,Behavioral Economics,SocialSciences,3.3
+S0039,Senior,Fall_2024,HUM060,Religious Studies,Humanities,3.3
+S0039,Senior,Fall_2024,HUM070,Classical Mythology,Humanities,3.3
+S0039,Senior,Spring_2025,CS030,Algorithms,CS,2.3
+S0039,Senior,Spring_2025,SCI090,Ecology,Sciences,2.7
+S0039,Senior,Spring_2025,SCI080,Genetics,Sciences,4.0
+S0039,Senior,Spring_2025,SOC040,Social Psychology,SocialSciences,2.7
+S0039,Senior,Fall_2025,SCI090,Ecology,Sciences,3.0
+S0039,Senior,Fall_2025,CS080,Computer Networks,CS,2.3
+S0039,Senior,Fall_2025,MATH060,Statistics,Math,2.0
+S0039,Senior,Fall_2025,SOC100,Behavioral Economics,SocialSciences,2.7
+S0040,Graduated,Fall_2022,ART030,Sculpture,Arts,3.3
+S0040,Graduated,Fall_2022,MATH010,Calculus I,Math,3.7
+S0040,Graduated,Fall_2022,HUM050,Ethics,Humanities,3.0
+S0040,Graduated,Fall_2022,MATH090,Number Theory,Math,3.3
+S0040,Graduated,Spring_2023,HUM030,World History,Humanities,3.0
+S0040,Graduated,Spring_2023,SOC040,Social Psychology,SocialSciences,3.0
+S0040,Graduated,Spring_2023,CS090,Software Engineering,CS,2.7
+S0040,Graduated,Spring_2023,ART010,Drawing Fundamentals,Arts,3.7
+S0040,Graduated,Fall_2023,CS090,Software Engineering,CS,2.3
+S0040,Graduated,Fall_2023,MATH060,Statistics,Math,2.7
+S0040,Graduated,Fall_2023,SOC090,Public Policy,SocialSciences,3.0
+S0040,Graduated,Fall_2023,SCI060,Biochemistry,Sciences,3.0
+S0040,Graduated,Spring_2024,MATH020,Calculus II,Math,2.7
+S0040,Graduated,Spring_2024,MATH050,Probability,Math,3.0
+S0040,Graduated,Spring_2024,ART070,Film Studies,Arts,3.0
+S0040,Graduated,Spring_2024,MATH080,Differential Equations,Math,2.3
+S0040,Graduated,Fall_2024,SCI100,Astronomy,Sciences,3.0
+S0040,Graduated,Fall_2024,SOC050,Sociology,SocialSciences,3.3
+S0040,Graduated,Fall_2024,MATH020,Calculus II,Math,3.0
+S0040,Graduated,Fall_2024,SCI060,Biochemistry,Sciences,3.0
+S0040,Graduated,Spring_2025,SCI020,Mechanics,Sciences,3.0
+S0040,Graduated,Spring_2025,CS090,Software Engineering,CS,2.7
+S0040,Graduated,Spring_2025,HUM020,Creative Writing,Humanities,3.7
+S0040,Graduated,Spring_2025,ART080,Theater Performance,Arts,3.7
+S0040,Graduated,Fall_2025,MATH020,Calculus II,Math,3.0
+S0040,Graduated,Fall_2025,MATH010,Calculus I,Math,2.3
+S0040,Graduated,Fall_2025,SCI080,Genetics,Sciences,3.3
+S0040,Graduated,Fall_2025,MATH030,Linear Algebra,Math,2.0
+S0040,Graduated,Spring_2026,MATH060,Statistics,Math,2.7
+S0040,Graduated,Spring_2026,SOC020,Macroeconomics,SocialSciences,2.7
+S0040,Graduated,Spring_2026,MATH070,Real Analysis,Math,2.3
+S0040,Graduated,Spring_2026,SOC070,Anthropology,SocialSciences,2.3
+S0041,Sophomore,Fall_2022,SOC080,International Relations,SocialSciences,3.3
+S0041,Sophomore,Fall_2022,SOC060,Political Science,SocialSciences,3.3
+S0041,Sophomore,Fall_2022,ART060,Photography,Arts,3.7
+S0041,Sophomore,Fall_2022,SOC030,Intro Psychology,SocialSciences,4.0
+S0041,Sophomore,Spring_2023,SOC060,Political Science,SocialSciences,3.7
+S0041,Sophomore,Spring_2023,CS090,Software Engineering,CS,3.7
+S0041,Sophomore,Spring_2023,SOC030,Intro Psychology,SocialSciences,3.7
+S0041,Sophomore,Spring_2023,SOC040,Social Psychology,SocialSciences,4.0
+S0041,Sophomore,Fall_2023,SOC040,Social Psychology,SocialSciences,3.3
+S0041,Sophomore,Fall_2023,CS100,Theory of Computation,CS,3.3
+S0041,Sophomore,Fall_2023,HUM100,Linguistics,Humanities,4.0
+S0041,Sophomore,Fall_2023,ART060,Photography,Arts,3.7
+S0041,Sophomore,Spring_2024,SCI030,Electromagnetism,Sciences,3.3
+S0041,Sophomore,Spring_2024,SCI010,General Physics,Sciences,3.7
+S0041,Sophomore,Spring_2024,MATH060,Statistics,Math,3.7
+S0041,Sophomore,Spring_2024,SOC020,Macroeconomics,SocialSciences,3.3
+S0042,Graduated,Fall_2022,SOC030,Intro Psychology,SocialSciences,2.7
+S0042,Graduated,Fall_2022,MATH040,Discrete Math,Math,2.7
+S0042,Graduated,Fall_2022,HUM030,World History,Humanities,3.7
+S0042,Graduated,Fall_2022,CS070,Machine Learning,CS,2.3
+S0042,Graduated,Spring_2023,CS020,Data Structures,CS,2.7
+S0042,Graduated,Spring_2023,CS100,Theory of Computation,CS,3.0
+S0042,Graduated,Spring_2023,CS010,Intro to Programming,CS,3.0
+S0042,Graduated,Spring_2023,ART100,Graphic Design,Arts,2.7
+S0042,Graduated,Fall_2023,MATH020,Calculus II,Math,3.0
+S0042,Graduated,Fall_2023,SOC100,Behavioral Economics,SocialSciences,3.7
+S0042,Graduated,Fall_2023,CS100,Theory of Computation,CS,3.0
+S0042,Graduated,Fall_2023,CS050,Operating Systems,CS,2.7
+S0042,Graduated,Spring_2024,CS090,Software Engineering,CS,2.7
+S0042,Graduated,Spring_2024,SCI080,Genetics,Sciences,2.3
+S0042,Graduated,Spring_2024,CS060,Databases,CS,2.7
+S0042,Graduated,Spring_2024,HUM050,Ethics,Humanities,3.3
+S0042,Graduated,Fall_2024,CS030,Algorithms,CS,2.7
+S0042,Graduated,Fall_2024,SCI060,Biochemistry,Sciences,2.7
+S0042,Graduated,Fall_2024,SOC090,Public Policy,SocialSciences,2.3
+S0042,Graduated,Fall_2024,SOC040,Social Psychology,SocialSciences,3.3
+S0042,Graduated,Spring_2025,CS040,Computer Systems,CS,2.3
+S0042,Graduated,Spring_2025,CS070,Machine Learning,CS,2.7
+S0042,Graduated,Spring_2025,CS100,Theory of Computation,CS,2.7
+S0042,Graduated,Spring_2025,MATH100,Abstract Algebra,Math,2.7
+S0042,Graduated,Fall_2025,CS010,Intro to Programming,CS,3.0
+S0042,Graduated,Fall_2025,CS060,Databases,CS,3.0
+S0042,Graduated,Fall_2025,ART010,Drawing Fundamentals,Arts,3.0
+S0042,Graduated,Fall_2025,MATH070,Real Analysis,Math,2.3
+S0042,Graduated,Spring_2026,SOC100,Behavioral Economics,SocialSciences,2.7
+S0042,Graduated,Spring_2026,SCI020,Mechanics,Sciences,2.3
+S0042,Graduated,Spring_2026,MATH080,Differential Equations,Math,3.0
+S0042,Graduated,Spring_2026,MATH070,Real Analysis,Math,2.7
+S0043,Graduated,Fall_2022,MATH050,Probability,Math,3.3
+S0043,Graduated,Fall_2022,ART080,Theater Performance,Arts,4.0
+S0043,Graduated,Fall_2022,SOC070,Anthropology,SocialSciences,2.7
+S0043,Graduated,Fall_2022,MATH090,Number Theory,Math,3.0
+S0043,Graduated,Spring_2023,MATH030,Linear Algebra,Math,2.7
+S0043,Graduated,Spring_2023,MATH010,Calculus I,Math,2.3
+S0043,Graduated,Spring_2023,ART090,Modern Dance,Arts,3.0
+S0043,Graduated,Spring_2023,SOC020,Macroeconomics,SocialSciences,2.3
+S0043,Graduated,Fall_2023,MATH020,Calculus II,Math,3.0
+S0043,Graduated,Fall_2023,CS080,Computer Networks,CS,3.0
+S0043,Graduated,Fall_2023,ART080,Theater Performance,Arts,2.3
+S0043,Graduated,Fall_2023,MATH040,Discrete Math,Math,2.7
+S0043,Graduated,Spring_2024,MATH050,Probability,Math,2.7
+S0043,Graduated,Spring_2024,MATH100,Abstract Algebra,Math,2.7
+S0043,Graduated,Spring_2024,MATH090,Number Theory,Math,3.3
+S0043,Graduated,Spring_2024,MATH060,Statistics,Math,2.7
+S0043,Graduated,Fall_2024,MATH100,Abstract Algebra,Math,3.0
+S0043,Graduated,Fall_2024,SOC100,Behavioral Economics,SocialSciences,3.0
+S0043,Graduated,Fall_2024,SOC070,Anthropology,SocialSciences,2.7
+S0043,Graduated,Fall_2024,SOC090,Public Policy,SocialSciences,3.0
+S0043,Graduated,Spring_2025,SOC010,Microeconomics,SocialSciences,3.0
+S0043,Graduated,Spring_2025,ART070,Film Studies,Arts,3.3
+S0043,Graduated,Spring_2025,MATH060,Statistics,Math,2.3
+S0043,Graduated,Spring_2025,MATH070,Real Analysis,Math,3.0
+S0043,Graduated,Fall_2025,MATH080,Differential Equations,Math,3.0
+S0043,Graduated,Fall_2025,CS100,Theory of Computation,CS,3.0
+S0043,Graduated,Fall_2025,CS060,Databases,CS,2.7
+S0043,Graduated,Fall_2025,MATH040,Discrete Math,Math,2.7
+S0043,Graduated,Spring_2026,CS060,Databases,CS,2.7
+S0043,Graduated,Spring_2026,HUM030,World History,Humanities,3.7
+S0043,Graduated,Spring_2026,MATH070,Real Analysis,Math,3.0
+S0043,Graduated,Spring_2026,MATH100,Abstract Algebra,Math,2.7
+S0044,Junior,Fall_2022,SOC080,International Relations,SocialSciences,3.3
+S0044,Junior,Fall_2022,HUM080,American Literature,Humanities,3.0
+S0044,Junior,Fall_2022,HUM020,Creative Writing,Humanities,3.7
+S0044,Junior,Fall_2022,CS090,Software Engineering,CS,3.3
+S0044,Junior,Spring_2023,HUM070,Classical Mythology,Humanities,3.7
+S0044,Junior,Spring_2023,HUM060,Religious Studies,Humanities,3.7
+S0044,Junior,Spring_2023,MATH040,Discrete Math,Math,3.3
+S0044,Junior,Spring_2023,HUM080,American Literature,Humanities,4.0
+S0044,Junior,Fall_2023,SOC050,Sociology,SocialSciences,3.7
+S0044,Junior,Fall_2023,MATH040,Discrete Math,Math,3.0
+S0044,Junior,Fall_2023,SCI010,General Physics,Sciences,3.7
+S0044,Junior,Fall_2023,HUM040,Philosophy,Humanities,3.7
+S0044,Junior,Spring_2024,MATH020,Calculus II,Math,3.3
+S0044,Junior,Spring_2024,HUM070,Classical Mythology,Humanities,3.7
+S0044,Junior,Spring_2024,HUM060,Religious Studies,Humanities,3.7
+S0044,Junior,Spring_2024,MATH060,Statistics,Math,3.0
+S0044,Junior,Fall_2024,HUM040,Philosophy,Humanities,3.7
+S0044,Junior,Fall_2024,HUM070,Classical Mythology,Humanities,3.3
+S0044,Junior,Fall_2024,HUM020,Creative Writing,Humanities,3.7
+S0044,Junior,Fall_2024,MATH070,Real Analysis,Math,3.0
+S0044,Junior,Spring_2025,ART020,Painting,Arts,3.0
+S0044,Junior,Spring_2025,HUM060,Religious Studies,Humanities,3.7
+S0044,Junior,Spring_2025,HUM080,American Literature,Humanities,3.0
+S0044,Junior,Spring_2025,HUM100,Linguistics,Humanities,3.3
+S0045,Sophomore,Fall_2022,SCI030,Electromagnetism,Sciences,3.0
+S0045,Sophomore,Fall_2022,SCI100,Astronomy,Sciences,3.0
+S0045,Sophomore,Fall_2022,SOC020,Macroeconomics,SocialSciences,2.3
+S0045,Sophomore,Fall_2022,SCI070,Cell Biology,Sciences,3.0
+S0045,Sophomore,Spring_2023,SCI090,Ecology,Sciences,3.0
+S0045,Sophomore,Spring_2023,SCI050,Organic Chemistry,Sciences,2.7
+S0045,Sophomore,Spring_2023,SCI030,Electromagnetism,Sciences,3.0
+S0045,Sophomore,Spring_2023,SCI080,Genetics,Sciences,2.7
+S0045,Sophomore,Fall_2023,SCI100,Astronomy,Sciences,3.0
+S0045,Sophomore,Fall_2023,SCI050,Organic Chemistry,Sciences,2.7
+S0045,Sophomore,Fall_2023,SCI080,Genetics,Sciences,2.7
+S0045,Sophomore,Fall_2023,SOC100,Behavioral Economics,SocialSciences,3.0
+S0045,Sophomore,Spring_2024,SCI090,Ecology,Sciences,3.3
+S0045,Sophomore,Spring_2024,ART090,Modern Dance,Arts,2.0
+S0045,Sophomore,Spring_2024,SOC090,Public Policy,SocialSciences,2.7
+S0045,Sophomore,Spring_2024,MATH050,Probability,Math,2.3
+S0046,Sophomore,Fall_2022,MATH060,Statistics,Math,4.0
+S0046,Sophomore,Fall_2022,SOC050,Sociology,SocialSciences,4.0
+S0046,Sophomore,Fall_2022,MATH100,Abstract Algebra,Math,3.7
+S0046,Sophomore,Fall_2022,HUM070,Classical Mythology,Humanities,3.3
+S0046,Sophomore,Spring_2023,HUM050,Ethics,Humanities,4.0
+S0046,Sophomore,Spring_2023,MATH080,Differential Equations,Math,3.7
+S0046,Sophomore,Spring_2023,MATH010,Calculus I,Math,3.0
+S0046,Sophomore,Spring_2023,MATH040,Discrete Math,Math,3.7
+S0046,Sophomore,Fall_2023,SCI020,Mechanics,Sciences,4.0
+S0046,Sophomore,Fall_2023,ART090,Modern Dance,Arts,4.0
+S0046,Sophomore,Fall_2023,ART060,Photography,Arts,4.0
+S0046,Sophomore,Fall_2023,MATH010,Calculus I,Math,3.3
+S0046,Sophomore,Spring_2024,SCI040,General Chemistry,Sciences,3.3
+S0046,Sophomore,Spring_2024,SOC030,Intro Psychology,SocialSciences,3.7
+S0046,Sophomore,Spring_2024,MATH020,Calculus II,Math,4.0
+S0046,Sophomore,Spring_2024,MATH060,Statistics,Math,3.3
+S0047,Sophomore,Fall_2022,SOC050,Sociology,SocialSciences,3.3
+S0047,Sophomore,Fall_2022,HUM100,Linguistics,Humanities,3.7
+S0047,Sophomore,Fall_2022,MATH050,Probability,Math,3.7
+S0047,Sophomore,Fall_2022,ART030,Sculpture,Arts,3.7
+S0047,Sophomore,Spring_2023,SOC050,Sociology,SocialSciences,3.3
+S0047,Sophomore,Spring_2023,SCI060,Biochemistry,Sciences,3.7
+S0047,Sophomore,Spring_2023,SOC100,Behavioral Economics,SocialSciences,3.7
+S0047,Sophomore,Spring_2023,CS030,Algorithms,CS,3.7
+S0047,Sophomore,Fall_2023,CS070,Machine Learning,CS,3.3
+S0047,Sophomore,Fall_2023,CS100,Theory of Computation,CS,3.7
+S0047,Sophomore,Fall_2023,ART020,Painting,Arts,4.0
+S0047,Sophomore,Fall_2023,ART060,Photography,Arts,4.0
+S0047,Sophomore,Spring_2024,ART070,Film Studies,Arts,4.0
+S0047,Sophomore,Spring_2024,ART010,Drawing Fundamentals,Arts,3.7
+S0047,Sophomore,Spring_2024,ART040,Music Theory,Arts,4.0
+S0047,Sophomore,Spring_2024,SCI030,Electromagnetism,Sciences,3.7
+S0048,Graduated,Fall_2022,ART070,Film Studies,Arts,3.3
+S0048,Graduated,Fall_2022,HUM070,Classical Mythology,Humanities,3.7
+S0048,Graduated,Fall_2022,HUM080,American Literature,Humanities,3.3
+S0048,Graduated,Fall_2022,SOC040,Social Psychology,SocialSciences,3.0
+S0048,Graduated,Spring_2023,HUM050,Ethics,Humanities,2.3
+S0048,Graduated,Spring_2023,CS050,Operating Systems,CS,3.0
+S0048,Graduated,Spring_2023,HUM070,Classical Mythology,Humanities,3.7
+S0048,Graduated,Spring_2023,HUM020,Creative Writing,Humanities,3.7
+S0048,Graduated,Fall_2023,HUM010,English Literature,Humanities,3.0
+S0048,Graduated,Fall_2023,SCI080,Genetics,Sciences,3.7
+S0048,Graduated,Fall_2023,MATH010,Calculus I,Math,2.7
+S0048,Graduated,Fall_2023,HUM020,Creative Writing,Humanities,3.7
+S0048,Graduated,Spring_2024,HUM050,Ethics,Humanities,3.3
+S0048,Graduated,Spring_2024,HUM020,Creative Writing,Humanities,3.3
+S0048,Graduated,Spring_2024,HUM100,Linguistics,Humanities,3.7
+S0048,Graduated,Spring_2024,HUM060,Religious Studies,Humanities,2.7
+S0048,Graduated,Fall_2024,HUM020,Creative Writing,Humanities,2.7
+S0048,Graduated,Fall_2024,HUM030,World History,Humanities,3.3
+S0048,Graduated,Fall_2024,CS060,Databases,CS,3.0
+S0048,Graduated,Fall_2024,HUM070,Classical Mythology,Humanities,4.0
+S0048,Graduated,Spring_2025,HUM060,Religious Studies,Humanities,3.3
+S0048,Graduated,Spring_2025,SCI040,General Chemistry,Sciences,3.7
+S0048,Graduated,Spring_2025,HUM010,English Literature,Humanities,3.3
+S0048,Graduated,Spring_2025,HUM080,American Literature,Humanities,3.3
+S0048,Graduated,Fall_2025,CS070,Machine Learning,CS,3.3
+S0048,Graduated,Fall_2025,HUM060,Religious Studies,Humanities,3.3
+S0048,Graduated,Fall_2025,SCI070,Cell Biology,Sciences,2.7
+S0048,Graduated,Fall_2025,HUM080,American Literature,Humanities,3.7
+S0048,Graduated,Spring_2026,SOC040,Social Psychology,SocialSciences,2.7
+S0048,Graduated,Spring_2026,HUM010,English Literature,Humanities,3.7
+S0048,Graduated,Spring_2026,MATH060,Statistics,Math,3.3
+S0048,Graduated,Spring_2026,HUM020,Creative Writing,Humanities,3.3
+S0049,Graduated,Fall_2022,MATH080,Differential Equations,Math,2.7
+S0049,Graduated,Fall_2022,MATH030,Linear Algebra,Math,1.3
+S0049,Graduated,Fall_2022,ART020,Painting,Arts,3.3
+S0049,Graduated,Fall_2022,MATH010,Calculus I,Math,1.3
+S0049,Graduated,Spring_2023,ART040,Music Theory,Arts,3.7
+S0049,Graduated,Spring_2023,SCI010,General Physics,Sciences,2.7
+S0049,Graduated,Spring_2023,ART090,Modern Dance,Arts,3.0
+S0049,Graduated,Spring_2023,CS060,Databases,CS,2.7
+S0049,Graduated,Fall_2023,MATH010,Calculus I,Math,2.7
+S0049,Graduated,Fall_2023,HUM100,Linguistics,Humanities,3.3
+S0049,Graduated,Fall_2023,ART010,Drawing Fundamentals,Arts,3.3
+S0049,Graduated,Fall_2023,MATH070,Real Analysis,Math,1.7
+S0049,Graduated,Spring_2024,MATH020,Calculus II,Math,2.3
+S0049,Graduated,Spring_2024,CS070,Machine Learning,CS,3.0
+S0049,Graduated,Spring_2024,ART060,Photography,Arts,2.7
+S0049,Graduated,Spring_2024,SCI030,Electromagnetism,Sciences,2.3
+S0049,Graduated,Fall_2024,MATH030,Linear Algebra,Math,2.0
+S0049,Graduated,Fall_2024,SOC040,Social Psychology,SocialSciences,2.7
+S0049,Graduated,Fall_2024,CS030,Algorithms,CS,2.7
+S0049,Graduated,Fall_2024,MATH060,Statistics,Math,2.3
+S0049,Graduated,Spring_2025,MATH060,Statistics,Math,2.7
+S0049,Graduated,Spring_2025,MATH100,Abstract Algebra,Math,3.0
+S0049,Graduated,Spring_2025,MATH080,Differential Equations,Math,3.0
+S0049,Graduated,Spring_2025,SOC040,Social Psychology,SocialSciences,3.3
+S0049,Graduated,Fall_2025,MATH060,Statistics,Math,3.3
+S0049,Graduated,Fall_2025,MATH070,Real Analysis,Math,2.7
+S0049,Graduated,Fall_2025,CS060,Databases,CS,2.7
+S0049,Graduated,Fall_2025,MATH040,Discrete Math,Math,2.0
+S0049,Graduated,Spring_2026,MATH010,Calculus I,Math,2.7
+S0049,Graduated,Spring_2026,MATH090,Number Theory,Math,3.0
+S0049,Graduated,Spring_2026,CS020,Data Structures,CS,2.3
+S0049,Graduated,Spring_2026,MATH040,Discrete Math,Math,1.7
+S0050,Graduated,Fall_2022,MATH080,Differential Equations,Math,2.7
+S0050,Graduated,Fall_2022,SOC010,Microeconomics,SocialSciences,3.3
+S0050,Graduated,Fall_2022,SOC040,Social Psychology,SocialSciences,3.7
+S0050,Graduated,Fall_2022,MATH060,Statistics,Math,3.0
+S0050,Graduated,Spring_2023,SCI030,Electromagnetism,Sciences,3.0
+S0050,Graduated,Spring_2023,MATH050,Probability,Math,3.3
+S0050,Graduated,Spring_2023,SOC050,Sociology,SocialSciences,2.3
+S0050,Graduated,Spring_2023,MATH010,Calculus I,Math,2.7
+S0050,Graduated,Fall_2023,SOC020,Macroeconomics,SocialSciences,3.3
+S0050,Graduated,Fall_2023,MATH040,Discrete Math,Math,2.3
+S0050,Graduated,Fall_2023,MATH070,Real Analysis,Math,3.7
+S0050,Graduated,Fall_2023,ART060,Photography,Arts,3.7
+S0050,Graduated,Spring_2024,HUM090,Modern Poetry,Humanities,4.0
+S0050,Graduated,Spring_2024,MATH050,Probability,Math,2.7
+S0050,Graduated,Spring_2024,SOC060,Political Science,SocialSciences,3.0
+S0050,Graduated,Spring_2024,SCI080,Genetics,Sciences,3.0
+S0050,Graduated,Fall_2024,MATH090,Number Theory,Math,4.0
+S0050,Graduated,Fall_2024,SCI060,Biochemistry,Sciences,3.0
+S0050,Graduated,Fall_2024,CS010,Intro to Programming,CS,3.0
+S0050,Graduated,Fall_2024,SOC030,Intro Psychology,SocialSciences,3.0
+S0050,Graduated,Spring_2025,MATH020,Calculus II,Math,3.0
+S0050,Graduated,Spring_2025,MATH060,Statistics,Math,3.7
+S0050,Graduated,Spring_2025,SOC010,Microeconomics,SocialSciences,3.7
+S0050,Graduated,Spring_2025,MATH050,Probability,Math,3.0
+S0050,Graduated,Fall_2025,MATH040,Discrete Math,Math,3.0
+S0050,Graduated,Fall_2025,ART020,Painting,Arts,3.0
+S0050,Graduated,Fall_2025,SOC030,Intro Psychology,SocialSciences,3.7
+S0050,Graduated,Fall_2025,MATH030,Linear Algebra,Math,3.0
+S0050,Graduated,Spring_2026,MATH070,Real Analysis,Math,3.0
+S0050,Graduated,Spring_2026,HUM080,American Literature,Humanities,3.3
+S0050,Graduated,Spring_2026,HUM070,Classical Mythology,Humanities,3.0
+S0050,Graduated,Spring_2026,SCI020,Mechanics,Sciences,3.3
+S0051,Senior,Fall_2022,ART040,Music Theory,Arts,3.7
+S0051,Senior,Fall_2022,HUM060,Religious Studies,Humanities,3.7
+S0051,Senior,Fall_2022,SCI020,Mechanics,Sciences,3.0
+S0051,Senior,Fall_2022,SCI050,Organic Chemistry,Sciences,4.0
+S0051,Senior,Spring_2023,SOC020,Macroeconomics,SocialSciences,3.0
+S0051,Senior,Spring_2023,SCI060,Biochemistry,Sciences,3.3
+S0051,Senior,Spring_2023,SCI050,Organic Chemistry,Sciences,4.0
+S0051,Senior,Spring_2023,SCI100,Astronomy,Sciences,2.7
+S0051,Senior,Fall_2023,HUM100,Linguistics,Humanities,3.7
+S0051,Senior,Fall_2023,SCI040,General Chemistry,Sciences,3.3
+S0051,Senior,Fall_2023,ART060,Photography,Arts,3.7
+S0051,Senior,Fall_2023,HUM040,Philosophy,Humanities,4.0
+S0051,Senior,Spring_2024,SCI070,Cell Biology,Sciences,3.0
+S0051,Senior,Spring_2024,ART080,Theater Performance,Arts,3.7
+S0051,Senior,Spring_2024,SCI100,Astronomy,Sciences,3.0
+S0051,Senior,Spring_2024,SCI030,Electromagnetism,Sciences,3.3
+S0051,Senior,Fall_2024,CS010,Intro to Programming,CS,3.3
+S0051,Senior,Fall_2024,SCI040,General Chemistry,Sciences,3.7
+S0051,Senior,Fall_2024,MATH010,Calculus I,Math,3.7
+S0051,Senior,Fall_2024,SCI020,Mechanics,Sciences,3.3
+S0051,Senior,Spring_2025,SCI010,General Physics,Sciences,3.7
+S0051,Senior,Spring_2025,SCI040,General Chemistry,Sciences,3.3
+S0051,Senior,Spring_2025,CS010,Intro to Programming,CS,3.3
+S0051,Senior,Spring_2025,SOC090,Public Policy,SocialSciences,3.3
+S0051,Senior,Fall_2025,SCI060,Biochemistry,Sciences,3.0
+S0051,Senior,Fall_2025,SCI020,Mechanics,Sciences,4.0
+S0051,Senior,Fall_2025,SCI100,Astronomy,Sciences,3.3
+S0051,Senior,Fall_2025,MATH100,Abstract Algebra,Math,2.7
+S0052,Junior,Fall_2022,SCI020,Mechanics,Sciences,3.3
+S0052,Junior,Fall_2022,HUM020,Creative Writing,Humanities,3.3
+S0052,Junior,Fall_2022,ART040,Music Theory,Arts,3.7
+S0052,Junior,Fall_2022,ART070,Film Studies,Arts,3.0
+S0052,Junior,Spring_2023,ART090,Modern Dance,Arts,3.3
+S0052,Junior,Spring_2023,ART060,Photography,Arts,2.7
+S0052,Junior,Spring_2023,ART010,Drawing Fundamentals,Arts,3.0
+S0052,Junior,Spring_2023,ART050,History of Art,Arts,3.3
+S0052,Junior,Fall_2023,ART010,Drawing Fundamentals,Arts,3.0
+S0052,Junior,Fall_2023,ART020,Painting,Arts,3.3
+S0052,Junior,Fall_2023,ART070,Film Studies,Arts,3.0
+S0052,Junior,Fall_2023,ART050,History of Art,Arts,2.7
+S0052,Junior,Spring_2024,ART020,Painting,Arts,3.3
+S0052,Junior,Spring_2024,MATH080,Differential Equations,Math,3.0
+S0052,Junior,Spring_2024,SOC050,Sociology,SocialSciences,3.3
+S0052,Junior,Spring_2024,HUM100,Linguistics,Humanities,3.3
+S0052,Junior,Fall_2024,ART050,History of Art,Arts,2.7
+S0052,Junior,Fall_2024,MATH030,Linear Algebra,Math,2.7
+S0052,Junior,Fall_2024,ART070,Film Studies,Arts,3.0
+S0052,Junior,Fall_2024,ART010,Drawing Fundamentals,Arts,2.7
+S0052,Junior,Spring_2025,ART010,Drawing Fundamentals,Arts,3.7
+S0052,Junior,Spring_2025,ART090,Modern Dance,Arts,3.0
+S0052,Junior,Spring_2025,ART100,Graphic Design,Arts,3.7
+S0052,Junior,Spring_2025,CS100,Theory of Computation,CS,3.0
+S0053,Senior,Fall_2022,SCI010,General Physics,Sciences,3.3
+S0053,Senior,Fall_2022,SCI030,Electromagnetism,Sciences,3.3
+S0053,Senior,Fall_2022,ART050,History of Art,Arts,3.7
+S0053,Senior,Fall_2022,SCI060,Biochemistry,Sciences,3.7
+S0053,Senior,Spring_2023,SCI030,Electromagnetism,Sciences,2.7
+S0053,Senior,Spring_2023,MATH010,Calculus I,Math,3.3
+S0053,Senior,Spring_2023,SCI080,Genetics,Sciences,3.0
+S0053,Senior,Spring_2023,MATH080,Differential Equations,Math,3.3
+S0053,Senior,Fall_2023,SCI080,Genetics,Sciences,3.0
+S0053,Senior,Fall_2023,SCI070,Cell Biology,Sciences,3.3
+S0053,Senior,Fall_2023,HUM010,English Literature,Humanities,3.7
+S0053,Senior,Fall_2023,SOC020,Macroeconomics,SocialSciences,3.7
+S0053,Senior,Spring_2024,ART050,History of Art,Arts,4.0
+S0053,Senior,Spring_2024,SCI070,Cell Biology,Sciences,2.7
+S0053,Senior,Spring_2024,HUM010,English Literature,Humanities,4.0
+S0053,Senior,Spring_2024,SOC040,Social Psychology,SocialSciences,3.7
+S0053,Senior,Fall_2024,ART070,Film Studies,Arts,3.0
+S0053,Senior,Fall_2024,ART080,Theater Performance,Arts,3.7
+S0053,Senior,Fall_2024,SCI080,Genetics,Sciences,3.3
+S0053,Senior,Fall_2024,SCI070,Cell Biology,Sciences,3.3
+S0053,Senior,Spring_2025,HUM040,Philosophy,Humanities,3.7
+S0053,Senior,Spring_2025,HUM070,Classical Mythology,Humanities,4.0
+S0053,Senior,Spring_2025,MATH050,Probability,Math,3.0
+S0053,Senior,Spring_2025,SOC030,Intro Psychology,SocialSciences,3.3
+S0053,Senior,Fall_2025,SCI040,General Chemistry,Sciences,2.7
+S0053,Senior,Fall_2025,SCI070,Cell Biology,Sciences,3.7
+S0053,Senior,Fall_2025,SCI090,Ecology,Sciences,3.7
+S0053,Senior,Fall_2025,HUM100,Linguistics,Humanities,4.0
+S0054,Senior,Fall_2022,MATH080,Differential Equations,Math,3.3
+S0054,Senior,Fall_2022,MATH060,Statistics,Math,3.3
+S0054,Senior,Fall_2022,CS040,Computer Systems,CS,3.7
+S0054,Senior,Fall_2022,HUM060,Religious Studies,Humanities,4.0
+S0054,Senior,Spring_2023,SCI090,Ecology,Sciences,3.7
+S0054,Senior,Spring_2023,MATH080,Differential Equations,Math,3.3
+S0054,Senior,Spring_2023,MATH020,Calculus II,Math,3.0
+S0054,Senior,Spring_2023,SOC080,International Relations,SocialSciences,3.7
+S0054,Senior,Fall_2023,MATH020,Calculus II,Math,3.3
+S0054,Senior,Fall_2023,HUM100,Linguistics,Humanities,3.3
+S0054,Senior,Fall_2023,ART070,Film Studies,Arts,3.3
+S0054,Senior,Fall_2023,MATH040,Discrete Math,Math,4.0
+S0054,Senior,Spring_2024,ART050,History of Art,Arts,3.7
+S0054,Senior,Spring_2024,MATH090,Number Theory,Math,3.3
+S0054,Senior,Spring_2024,HUM090,Modern Poetry,Humanities,4.0
+S0054,Senior,Spring_2024,MATH060,Statistics,Math,3.3
+S0054,Senior,Fall_2024,MATH050,Probability,Math,4.0
+S0054,Senior,Fall_2024,SCI040,General Chemistry,Sciences,3.7
+S0054,Senior,Fall_2024,CS030,Algorithms,CS,3.3
+S0054,Senior,Fall_2024,HUM020,Creative Writing,Humanities,3.7
+S0054,Senior,Spring_2025,MATH030,Linear Algebra,Math,3.3
+S0054,Senior,Spring_2025,MATH070,Real Analysis,Math,3.3
+S0054,Senior,Spring_2025,MATH040,Discrete Math,Math,3.0
+S0054,Senior,Spring_2025,CS070,Machine Learning,CS,3.3
+S0054,Senior,Fall_2025,MATH080,Differential Equations,Math,3.3
+S0054,Senior,Fall_2025,MATH100,Abstract Algebra,Math,3.3
+S0054,Senior,Fall_2025,CS090,Software Engineering,CS,4.0
+S0054,Senior,Fall_2025,CS010,Intro to Programming,CS,3.3
+S0055,Sophomore,Fall_2022,SOC070,Anthropology,SocialSciences,2.7
+S0055,Sophomore,Fall_2022,CS070,Machine Learning,CS,2.7
+S0055,Sophomore,Fall_2022,ART100,Graphic Design,Arts,3.0
+S0055,Sophomore,Fall_2022,SCI010,General Physics,Sciences,3.7
+S0055,Sophomore,Spring_2023,MATH080,Differential Equations,Math,2.7
+S0055,Sophomore,Spring_2023,ART060,Photography,Arts,2.7
+S0055,Sophomore,Spring_2023,SCI090,Ecology,Sciences,3.0
+S0055,Sophomore,Spring_2023,CS090,Software Engineering,CS,2.7
+S0055,Sophomore,Fall_2023,ART060,Photography,Arts,2.7
+S0055,Sophomore,Fall_2023,ART090,Modern Dance,Arts,2.7
+S0055,Sophomore,Fall_2023,MATH030,Linear Algebra,Math,1.7
+S0055,Sophomore,Fall_2023,ART050,History of Art,Arts,3.3
+S0055,Sophomore,Spring_2024,MATH020,Calculus II,Math,3.0
+S0055,Sophomore,Spring_2024,SOC050,Sociology,SocialSciences,2.3
+S0055,Sophomore,Spring_2024,SOC060,Political Science,SocialSciences,2.7
+S0055,Sophomore,Spring_2024,ART060,Photography,Arts,3.7
+S0056,Graduated,Fall_2022,HUM050,Ethics,Humanities,3.3
+S0056,Graduated,Fall_2022,ART070,Film Studies,Arts,3.7
+S0056,Graduated,Fall_2022,HUM040,Philosophy,Humanities,3.3
+S0056,Graduated,Fall_2022,ART010,Drawing Fundamentals,Arts,3.3
+S0056,Graduated,Spring_2023,ART010,Drawing Fundamentals,Arts,3.7
+S0056,Graduated,Spring_2023,MATH090,Number Theory,Math,3.3
+S0056,Graduated,Spring_2023,ART090,Modern Dance,Arts,3.0
+S0056,Graduated,Spring_2023,ART080,Theater Performance,Arts,2.7
+S0056,Graduated,Fall_2023,HUM060,Religious Studies,Humanities,2.7
+S0056,Graduated,Fall_2023,ART090,Modern Dance,Arts,2.3
+S0056,Graduated,Fall_2023,ART020,Painting,Arts,2.3
+S0056,Graduated,Fall_2023,SOC050,Sociology,SocialSciences,3.3
+S0056,Graduated,Spring_2024,SCI010,General Physics,Sciences,3.3
+S0056,Graduated,Spring_2024,CS040,Computer Systems,CS,2.0
+S0056,Graduated,Spring_2024,ART050,History of Art,Arts,3.0
+S0056,Graduated,Spring_2024,ART080,Theater Performance,Arts,2.7
+S0056,Graduated,Fall_2024,HUM050,Ethics,Humanities,3.0
+S0056,Graduated,Fall_2024,MATH030,Linear Algebra,Math,2.7
+S0056,Graduated,Fall_2024,ART030,Sculpture,Arts,2.7
+S0056,Graduated,Fall_2024,CS050,Operating Systems,CS,3.0
+S0056,Graduated,Spring_2025,ART090,Modern Dance,Arts,3.0
+S0056,Graduated,Spring_2025,ART030,Sculpture,Arts,2.7
+S0056,Graduated,Spring_2025,MATH070,Real Analysis,Math,3.0
+S0056,Graduated,Spring_2025,ART080,Theater Performance,Arts,3.3
+S0056,Graduated,Fall_2025,ART100,Graphic Design,Arts,2.3
+S0056,Graduated,Fall_2025,MATH100,Abstract Algebra,Math,2.3
+S0056,Graduated,Fall_2025,CS050,Operating Systems,CS,2.3
+S0056,Graduated,Fall_2025,SCI010,General Physics,Sciences,3.0
+S0056,Graduated,Spring_2026,ART090,Modern Dance,Arts,2.7
+S0056,Graduated,Spring_2026,CS060,Databases,CS,3.3
+S0056,Graduated,Spring_2026,ART040,Music Theory,Arts,3.3
+S0056,Graduated,Spring_2026,SCI020,Mechanics,Sciences,2.7
+S0057,Graduated,Fall_2022,CS060,Databases,CS,3.7
+S0057,Graduated,Fall_2022,CS100,Theory of Computation,CS,3.7
+S0057,Graduated,Fall_2022,MATH060,Statistics,Math,3.3
+S0057,Graduated,Fall_2022,SOC040,Social Psychology,SocialSciences,3.7
+S0057,Graduated,Spring_2023,CS050,Operating Systems,CS,3.7
+S0057,Graduated,Spring_2023,CS090,Software Engineering,CS,3.3
+S0057,Graduated,Spring_2023,SCI040,General Chemistry,Sciences,3.3
+S0057,Graduated,Spring_2023,HUM030,World History,Humanities,4.0
+S0057,Graduated,Fall_2023,CS070,Machine Learning,CS,3.7
+S0057,Graduated,Fall_2023,CS090,Software Engineering,CS,3.7
+S0057,Graduated,Fall_2023,SOC010,Microeconomics,SocialSciences,3.7
+S0057,Graduated,Fall_2023,CS040,Computer Systems,CS,3.7
+S0057,Graduated,Spring_2024,SOC080,International Relations,SocialSciences,4.0
+S0057,Graduated,Spring_2024,SOC020,Macroeconomics,SocialSciences,4.0
+S0057,Graduated,Spring_2024,CS050,Operating Systems,CS,3.7
+S0057,Graduated,Spring_2024,CS100,Theory of Computation,CS,3.7
+S0057,Graduated,Fall_2024,CS050,Operating Systems,CS,3.7
+S0057,Graduated,Fall_2024,HUM070,Classical Mythology,Humanities,3.7
+S0057,Graduated,Fall_2024,ART090,Modern Dance,Arts,3.7
+S0057,Graduated,Fall_2024,CS070,Machine Learning,CS,3.7
+S0057,Graduated,Spring_2025,CS010,Intro to Programming,CS,4.0
+S0057,Graduated,Spring_2025,HUM100,Linguistics,Humanities,3.7
+S0057,Graduated,Spring_2025,CS100,Theory of Computation,CS,3.7
+S0057,Graduated,Spring_2025,CS020,Data Structures,CS,3.3
+S0057,Graduated,Fall_2025,MATH090,Number Theory,Math,4.0
+S0057,Graduated,Fall_2025,SCI090,Ecology,Sciences,3.7
+S0057,Graduated,Fall_2025,CS010,Intro to Programming,CS,4.0
+S0057,Graduated,Fall_2025,CS090,Software Engineering,CS,3.7
+S0057,Graduated,Spring_2026,CS030,Algorithms,CS,3.0
+S0057,Graduated,Spring_2026,CS060,Databases,CS,3.7
+S0057,Graduated,Spring_2026,CS010,Intro to Programming,CS,3.7
+S0057,Graduated,Spring_2026,HUM060,Religious Studies,Humanities,3.3
+S0058,Senior,Fall_2022,CS060,Databases,CS,3.0
+S0058,Senior,Fall_2022,CS090,Software Engineering,CS,3.0
+S0058,Senior,Fall_2022,CS030,Algorithms,CS,3.0
+S0058,Senior,Fall_2022,CS050,Operating Systems,CS,2.3
+S0058,Senior,Spring_2023,ART100,Graphic Design,Arts,3.0
+S0058,Senior,Spring_2023,HUM060,Religious Studies,Humanities,3.3
+S0058,Senior,Spring_2023,CS090,Software Engineering,CS,2.3
+S0058,Senior,Spring_2023,CS020,Data Structures,CS,2.3
+S0058,Senior,Fall_2023,CS040,Computer Systems,CS,2.7
+S0058,Senior,Fall_2023,CS100,Theory of Computation,CS,2.7
+S0058,Senior,Fall_2023,CS080,Computer Networks,CS,2.3
+S0058,Senior,Fall_2023,CS050,Operating Systems,CS,2.7
+S0058,Senior,Spring_2024,MATH010,Calculus I,Math,2.7
+S0058,Senior,Spring_2024,CS040,Computer Systems,CS,3.3
+S0058,Senior,Spring_2024,SOC060,Political Science,SocialSciences,2.7
+S0058,Senior,Spring_2024,SCI080,Genetics,Sciences,2.3
+S0058,Senior,Fall_2024,CS080,Computer Networks,CS,3.0
+S0058,Senior,Fall_2024,CS050,Operating Systems,CS,3.3
+S0058,Senior,Fall_2024,CS020,Data Structures,CS,3.0
+S0058,Senior,Fall_2024,CS100,Theory of Computation,CS,2.0
+S0058,Senior,Spring_2025,CS020,Data Structures,CS,2.3
+S0058,Senior,Spring_2025,ART080,Theater Performance,Arts,3.0
+S0058,Senior,Spring_2025,CS090,Software Engineering,CS,2.3
+S0058,Senior,Spring_2025,ART030,Sculpture,Arts,2.7
+S0058,Senior,Fall_2025,HUM050,Ethics,Humanities,3.0
+S0058,Senior,Fall_2025,CS030,Algorithms,CS,2.7
+S0058,Senior,Fall_2025,CS040,Computer Systems,CS,2.3
+S0058,Senior,Fall_2025,HUM080,American Literature,Humanities,3.3
+S0059,Graduated,Fall_2022,ART020,Painting,Arts,3.3
+S0059,Graduated,Fall_2022,SOC040,Social Psychology,SocialSciences,3.3
+S0059,Graduated,Fall_2022,MATH090,Number Theory,Math,3.7
+S0059,Graduated,Fall_2022,MATH030,Linear Algebra,Math,2.0
+S0059,Graduated,Spring_2023,HUM010,English Literature,Humanities,2.3
+S0059,Graduated,Spring_2023,CS030,Algorithms,CS,2.7
+S0059,Graduated,Spring_2023,MATH080,Differential Equations,Math,2.7
+S0059,Graduated,Spring_2023,MATH050,Probability,Math,3.0
+S0059,Graduated,Fall_2023,MATH080,Differential Equations,Math,3.3
+S0059,Graduated,Fall_2023,ART070,Film Studies,Arts,2.7
+S0059,Graduated,Fall_2023,MATH060,Statistics,Math,2.7
+S0059,Graduated,Fall_2023,MATH090,Number Theory,Math,2.7
+S0059,Graduated,Spring_2024,SCI050,Organic Chemistry,Sciences,2.3
+S0059,Graduated,Spring_2024,SCI040,General Chemistry,Sciences,2.7
+S0059,Graduated,Spring_2024,ART080,Theater Performance,Arts,4.0
+S0059,Graduated,Spring_2024,HUM040,Philosophy,Humanities,3.3
+S0059,Graduated,Fall_2024,SCI030,Electromagnetism,Sciences,3.0
+S0059,Graduated,Fall_2024,MATH080,Differential Equations,Math,2.7
+S0059,Graduated,Fall_2024,CS010,Intro to Programming,CS,3.0
+S0059,Graduated,Fall_2024,CS090,Software Engineering,CS,2.7
+S0059,Graduated,Spring_2025,MATH030,Linear Algebra,Math,2.7
+S0059,Graduated,Spring_2025,MATH020,Calculus II,Math,3.0
+S0059,Graduated,Spring_2025,SCI070,Cell Biology,Sciences,3.0
+S0059,Graduated,Spring_2025,SOC070,Anthropology,SocialSciences,2.3
+S0059,Graduated,Fall_2025,SCI070,Cell Biology,Sciences,2.7
+S0059,Graduated,Fall_2025,MATH010,Calculus I,Math,3.0
+S0059,Graduated,Fall_2025,MATH100,Abstract Algebra,Math,2.7
+S0059,Graduated,Fall_2025,MATH090,Number Theory,Math,3.0
+S0059,Graduated,Spring_2026,MATH070,Real Analysis,Math,2.7
+S0059,Graduated,Spring_2026,HUM070,Classical Mythology,Humanities,3.3
+S0059,Graduated,Spring_2026,ART070,Film Studies,Arts,2.0
+S0059,Graduated,Spring_2026,SOC030,Intro Psychology,SocialSciences,3.0
+S0060,Senior,Fall_2022,HUM070,Classical Mythology,Humanities,3.7
+S0060,Senior,Fall_2022,ART010,Drawing Fundamentals,Arts,4.0
+S0060,Senior,Fall_2022,SOC100,Behavioral Economics,SocialSciences,3.3
+S0060,Senior,Fall_2022,HUM090,Modern Poetry,Humanities,4.0
+S0060,Senior,Spring_2023,MATH050,Probability,Math,3.0
+S0060,Senior,Spring_2023,HUM030,World History,Humanities,3.7
+S0060,Senior,Spring_2023,HUM040,Philosophy,Humanities,4.0
+S0060,Senior,Spring_2023,ART090,Modern Dance,Arts,3.7
+S0060,Senior,Fall_2023,HUM100,Linguistics,Humanities,3.3
+S0060,Senior,Fall_2023,ART070,Film Studies,Arts,3.7
+S0060,Senior,Fall_2023,HUM030,World History,Humanities,3.0
+S0060,Senior,Fall_2023,CS060,Databases,CS,3.3
+S0060,Senior,Spring_2024,SOC100,Behavioral Economics,SocialSciences,3.3
+S0060,Senior,Spring_2024,SCI080,Genetics,Sciences,3.3
+S0060,Senior,Spring_2024,SCI040,General Chemistry,Sciences,3.7
+S0060,Senior,Spring_2024,SOC050,Sociology,SocialSciences,2.7
+S0060,Senior,Fall_2024,HUM100,Linguistics,Humanities,4.0
+S0060,Senior,Fall_2024,ART090,Modern Dance,Arts,4.0
+S0060,Senior,Fall_2024,SOC050,Sociology,SocialSciences,3.7
+S0060,Senior,Fall_2024,SCI080,Genetics,Sciences,4.0
+S0060,Senior,Spring_2025,HUM090,Modern Poetry,Humanities,3.3
+S0060,Senior,Spring_2025,HUM040,Philosophy,Humanities,3.7
+S0060,Senior,Spring_2025,HUM010,English Literature,Humanities,4.0
+S0060,Senior,Spring_2025,CS080,Computer Networks,CS,4.0
+S0060,Senior,Fall_2025,HUM020,Creative Writing,Humanities,3.0
+S0060,Senior,Fall_2025,HUM100,Linguistics,Humanities,3.0
+S0060,Senior,Fall_2025,HUM090,Modern Poetry,Humanities,3.7
+S0060,Senior,Fall_2025,HUM060,Religious Studies,Humanities,3.7
+S0061,Sophomore,Fall_2022,HUM010,English Literature,Humanities,3.0
+S0061,Sophomore,Fall_2022,SCI050,Organic Chemistry,Sciences,3.3
+S0061,Sophomore,Fall_2022,SOC100,Behavioral Economics,SocialSciences,3.3
+S0061,Sophomore,Fall_2022,SOC080,International Relations,SocialSciences,3.0
+S0061,Sophomore,Spring_2023,MATH010,Calculus I,Math,2.7
+S0061,Sophomore,Spring_2023,SCI090,Ecology,Sciences,2.7
+S0061,Sophomore,Spring_2023,SCI060,Biochemistry,Sciences,2.0
+S0061,Sophomore,Spring_2023,HUM100,Linguistics,Humanities,3.3
+S0061,Sophomore,Fall_2023,SCI020,Mechanics,Sciences,3.7
+S0061,Sophomore,Fall_2023,HUM010,English Literature,Humanities,3.0
+S0061,Sophomore,Fall_2023,SCI080,Genetics,Sciences,2.7
+S0061,Sophomore,Fall_2023,SCI050,Organic Chemistry,Sciences,3.3
+S0061,Sophomore,Spring_2024,HUM100,Linguistics,Humanities,3.0
+S0061,Sophomore,Spring_2024,MATH090,Number Theory,Math,2.7
+S0061,Sophomore,Spring_2024,HUM090,Modern Poetry,Humanities,2.7
+S0061,Sophomore,Spring_2024,SCI030,Electromagnetism,Sciences,2.7
+S0062,Senior,Fall_2022,SCI100,Astronomy,Sciences,3.7
+S0062,Senior,Fall_2022,SOC050,Sociology,SocialSciences,3.3
+S0062,Senior,Fall_2022,SCI030,Electromagnetism,Sciences,4.0
+S0062,Senior,Fall_2022,SCI040,General Chemistry,Sciences,4.0
+S0062,Senior,Spring_2023,SCI030,Electromagnetism,Sciences,3.7
+S0062,Senior,Spring_2023,SCI060,Biochemistry,Sciences,3.3
+S0062,Senior,Spring_2023,HUM040,Philosophy,Humanities,3.7
+S0062,Senior,Spring_2023,SCI020,Mechanics,Sciences,3.0
+S0062,Senior,Fall_2023,SCI030,Electromagnetism,Sciences,3.3
+S0062,Senior,Fall_2023,MATH080,Differential Equations,Math,3.3
+S0062,Senior,Fall_2023,SCI040,General Chemistry,Sciences,3.3
+S0062,Senior,Fall_2023,SCI070,Cell Biology,Sciences,3.3
+S0062,Senior,Spring_2024,SCI050,Organic Chemistry,Sciences,3.7
+S0062,Senior,Spring_2024,SCI020,Mechanics,Sciences,3.3
+S0062,Senior,Spring_2024,MATH070,Real Analysis,Math,3.0
+S0062,Senior,Spring_2024,ART030,Sculpture,Arts,3.7
+S0062,Senior,Fall_2024,SCI040,General Chemistry,Sciences,3.7
+S0062,Senior,Fall_2024,SOC100,Behavioral Economics,SocialSciences,3.7
+S0062,Senior,Fall_2024,SCI080,Genetics,Sciences,3.7
+S0062,Senior,Fall_2024,ART060,Photography,Arts,4.0
+S0062,Senior,Spring_2025,SOC040,Social Psychology,SocialSciences,3.3
+S0062,Senior,Spring_2025,ART020,Painting,Arts,3.3
+S0062,Senior,Spring_2025,SCI060,Biochemistry,Sciences,3.3
+S0062,Senior,Spring_2025,CS010,Intro to Programming,CS,4.0
+S0062,Senior,Fall_2025,SCI020,Mechanics,Sciences,3.3
+S0062,Senior,Fall_2025,SCI030,Electromagnetism,Sciences,4.0
+S0062,Senior,Fall_2025,SCI060,Biochemistry,Sciences,3.0
+S0062,Senior,Fall_2025,SCI100,Astronomy,Sciences,2.7
+S0063,Graduated,Fall_2022,MATH040,Discrete Math,Math,2.7
+S0063,Graduated,Fall_2022,SCI030,Electromagnetism,Sciences,2.7
+S0063,Graduated,Fall_2022,MATH020,Calculus II,Math,2.7
+S0063,Graduated,Fall_2022,SOC030,Intro Psychology,SocialSciences,3.3
+S0063,Graduated,Spring_2023,SCI040,General Chemistry,Sciences,2.0
+S0063,Graduated,Spring_2023,HUM020,Creative Writing,Humanities,3.0
+S0063,Graduated,Spring_2023,ART070,Film Studies,Arts,3.3
+S0063,Graduated,Spring_2023,ART060,Photography,Arts,3.3
+S0063,Graduated,Fall_2023,MATH100,Abstract Algebra,Math,2.3
+S0063,Graduated,Fall_2023,MATH090,Number Theory,Math,2.7
+S0063,Graduated,Fall_2023,HUM010,English Literature,Humanities,3.3
+S0063,Graduated,Fall_2023,CS030,Algorithms,CS,2.7
+S0063,Graduated,Spring_2024,SOC050,Sociology,SocialSciences,2.7
+S0063,Graduated,Spring_2024,SCI010,General Physics,Sciences,2.7
+S0063,Graduated,Spring_2024,CS010,Intro to Programming,CS,2.7
+S0063,Graduated,Spring_2024,SCI050,Organic Chemistry,Sciences,2.7
+S0063,Graduated,Fall_2024,MATH060,Statistics,Math,2.7
+S0063,Graduated,Fall_2024,MATH100,Abstract Algebra,Math,2.0
+S0063,Graduated,Fall_2024,MATH030,Linear Algebra,Math,3.0
+S0063,Graduated,Fall_2024,MATH040,Discrete Math,Math,2.3
+S0063,Graduated,Spring_2025,MATH100,Abstract Algebra,Math,3.0
+S0063,Graduated,Spring_2025,ART030,Sculpture,Arts,2.7
+S0063,Graduated,Spring_2025,MATH050,Probability,Math,3.0
+S0063,Graduated,Spring_2025,HUM060,Religious Studies,Humanities,3.7
+S0063,Graduated,Fall_2025,MATH010,Calculus I,Math,3.3
+S0063,Graduated,Fall_2025,MATH080,Differential Equations,Math,3.0
+S0063,Graduated,Fall_2025,MATH090,Number Theory,Math,2.7
+S0063,Graduated,Fall_2025,SCI010,General Physics,Sciences,2.7
+S0063,Graduated,Spring_2026,MATH030,Linear Algebra,Math,2.3
+S0063,Graduated,Spring_2026,MATH050,Probability,Math,2.7
+S0063,Graduated,Spring_2026,MATH020,Calculus II,Math,3.0
+S0063,Graduated,Spring_2026,MATH060,Statistics,Math,2.3
+S0064,Junior,Fall_2022,CS060,Databases,CS,3.3
+S0064,Junior,Fall_2022,HUM090,Modern Poetry,Humanities,3.7
+S0064,Junior,Fall_2022,CS100,Theory of Computation,CS,2.3
+S0064,Junior,Fall_2022,HUM050,Ethics,Humanities,3.3
+S0064,Junior,Spring_2023,CS080,Computer Networks,CS,3.0
+S0064,Junior,Spring_2023,SCI050,Organic Chemistry,Sciences,2.7
+S0064,Junior,Spring_2023,SCI100,Astronomy,Sciences,3.3
+S0064,Junior,Spring_2023,CS100,Theory of Computation,CS,2.7
+S0064,Junior,Fall_2023,SCI060,Biochemistry,Sciences,2.7
+S0064,Junior,Fall_2023,CS050,Operating Systems,CS,3.7
+S0064,Junior,Fall_2023,CS060,Databases,CS,3.0
+S0064,Junior,Fall_2023,SOC060,Political Science,SocialSciences,3.3
+S0064,Junior,Spring_2024,SCI040,General Chemistry,Sciences,3.0
+S0064,Junior,Spring_2024,HUM040,Philosophy,Humanities,3.3
+S0064,Junior,Spring_2024,SCI070,Cell Biology,Sciences,2.7
+S0064,Junior,Spring_2024,CS010,Intro to Programming,CS,3.7
+S0064,Junior,Fall_2024,MATH040,Discrete Math,Math,2.7
+S0064,Junior,Fall_2024,CS020,Data Structures,CS,2.7
+S0064,Junior,Fall_2024,CS080,Computer Networks,CS,2.7
+S0064,Junior,Fall_2024,HUM040,Philosophy,Humanities,3.3
+S0064,Junior,Spring_2025,ART070,Film Studies,Arts,3.3
+S0064,Junior,Spring_2025,CS040,Computer Systems,CS,3.3
+S0064,Junior,Spring_2025,CS050,Operating Systems,CS,3.7
+S0064,Junior,Spring_2025,CS030,Algorithms,CS,3.0
+S0065,Senior,Fall_2022,HUM050,Ethics,Humanities,3.0
+S0065,Senior,Fall_2022,HUM060,Religious Studies,Humanities,3.0
+S0065,Senior,Fall_2022,HUM090,Modern Poetry,Humanities,3.7
+S0065,Senior,Fall_2022,HUM100,Linguistics,Humanities,3.7
+S0065,Senior,Spring_2023,HUM050,Ethics,Humanities,3.0
+S0065,Senior,Spring_2023,HUM060,Religious Studies,Humanities,3.3
+S0065,Senior,Spring_2023,HUM040,Philosophy,Humanities,4.0
+S0065,Senior,Spring_2023,SCI090,Ecology,Sciences,3.3
+S0065,Senior,Fall_2023,SOC090,Public Policy,SocialSciences,3.3
+S0065,Senior,Fall_2023,SCI030,Electromagnetism,Sciences,3.7
+S0065,Senior,Fall_2023,HUM090,Modern Poetry,Humanities,3.3
+S0065,Senior,Fall_2023,HUM080,American Literature,Humanities,3.7
+S0065,Senior,Spring_2024,HUM040,Philosophy,Humanities,3.7
+S0065,Senior,Spring_2024,HUM060,Religious Studies,Humanities,3.3
+S0065,Senior,Spring_2024,HUM070,Classical Mythology,Humanities,3.7
+S0065,Senior,Spring_2024,SCI080,Genetics,Sciences,3.0
+S0065,Senior,Fall_2024,HUM050,Ethics,Humanities,3.0
+S0065,Senior,Fall_2024,HUM040,Philosophy,Humanities,3.3
+S0065,Senior,Fall_2024,ART020,Painting,Arts,4.0
+S0065,Senior,Fall_2024,MATH080,Differential Equations,Math,3.3
+S0065,Senior,Spring_2025,MATH020,Calculus II,Math,2.7
+S0065,Senior,Spring_2025,HUM020,Creative Writing,Humanities,3.7
+S0065,Senior,Spring_2025,HUM100,Linguistics,Humanities,3.3
+S0065,Senior,Spring_2025,HUM060,Religious Studies,Humanities,3.3
+S0065,Senior,Fall_2025,HUM050,Ethics,Humanities,3.3
+S0065,Senior,Fall_2025,HUM080,American Literature,Humanities,3.0
+S0065,Senior,Fall_2025,MATH050,Probability,Math,3.3
+S0065,Senior,Fall_2025,HUM010,English Literature,Humanities,3.3
+S0066,Junior,Fall_2022,CS030,Algorithms,CS,3.7
+S0066,Junior,Fall_2022,HUM030,World History,Humanities,4.0
+S0066,Junior,Fall_2022,HUM070,Classical Mythology,Humanities,4.0
+S0066,Junior,Fall_2022,HUM080,American Literature,Humanities,4.0
+S0066,Junior,Spring_2023,HUM040,Philosophy,Humanities,3.0
+S0066,Junior,Spring_2023,HUM080,American Literature,Humanities,3.7
+S0066,Junior,Spring_2023,HUM010,English Literature,Humanities,3.3
+S0066,Junior,Spring_2023,HUM020,Creative Writing,Humanities,4.0
+S0066,Junior,Fall_2023,HUM060,Religious Studies,Humanities,4.0
+S0066,Junior,Fall_2023,HUM010,English Literature,Humanities,4.0
+S0066,Junior,Fall_2023,MATH070,Real Analysis,Math,3.7
+S0066,Junior,Fall_2023,HUM050,Ethics,Humanities,3.7
+S0066,Junior,Spring_2024,HUM070,Classical Mythology,Humanities,4.0
+S0066,Junior,Spring_2024,HUM030,World History,Humanities,3.7
+S0066,Junior,Spring_2024,HUM080,American Literature,Humanities,4.0
+S0066,Junior,Spring_2024,HUM040,Philosophy,Humanities,3.7
+S0066,Junior,Fall_2024,SCI040,General Chemistry,Sciences,4.0
+S0066,Junior,Fall_2024,MATH060,Statistics,Math,3.0
+S0066,Junior,Fall_2024,HUM020,Creative Writing,Humanities,3.7
+S0066,Junior,Fall_2024,SCI020,Mechanics,Sciences,3.7
+S0066,Junior,Spring_2025,SOC050,Sociology,SocialSciences,3.7
+S0066,Junior,Spring_2025,CS070,Machine Learning,CS,3.3
+S0066,Junior,Spring_2025,HUM040,Philosophy,Humanities,4.0
+S0066,Junior,Spring_2025,HUM090,Modern Poetry,Humanities,3.7
+S0067,Junior,Fall_2022,ART010,Drawing Fundamentals,Arts,4.0
+S0067,Junior,Fall_2022,ART080,Theater Performance,Arts,3.3
+S0067,Junior,Fall_2022,HUM050,Ethics,Humanities,3.3
+S0067,Junior,Fall_2022,MATH030,Linear Algebra,Math,2.7
+S0067,Junior,Spring_2023,HUM090,Modern Poetry,Humanities,4.0
+S0067,Junior,Spring_2023,HUM060,Religious Studies,Humanities,3.7
+S0067,Junior,Spring_2023,ART090,Modern Dance,Arts,3.0
+S0067,Junior,Spring_2023,ART050,History of Art,Arts,3.0
+S0067,Junior,Fall_2023,SOC070,Anthropology,SocialSciences,3.3
+S0067,Junior,Fall_2023,ART010,Drawing Fundamentals,Arts,3.3
+S0067,Junior,Fall_2023,SCI040,General Chemistry,Sciences,3.3
+S0067,Junior,Fall_2023,MATH060,Statistics,Math,3.7
+S0067,Junior,Spring_2024,ART080,Theater Performance,Arts,3.3
+S0067,Junior,Spring_2024,CS100,Theory of Computation,CS,3.3
+S0067,Junior,Spring_2024,SCI010,General Physics,Sciences,3.7
+S0067,Junior,Spring_2024,ART060,Photography,Arts,4.0
+S0067,Junior,Fall_2024,ART010,Drawing Fundamentals,Arts,3.7
+S0067,Junior,Fall_2024,ART080,Theater Performance,Arts,3.3
+S0067,Junior,Fall_2024,ART040,Music Theory,Arts,3.7
+S0067,Junior,Fall_2024,SOC050,Sociology,SocialSciences,3.3
+S0067,Junior,Spring_2025,ART040,Music Theory,Arts,4.0
+S0067,Junior,Spring_2025,ART100,Graphic Design,Arts,3.0
+S0067,Junior,Spring_2025,CS060,Databases,CS,3.7
+S0067,Junior,Spring_2025,ART010,Drawing Fundamentals,Arts,4.0
+S0068,Graduated,Fall_2022,MATH080,Differential Equations,Math,2.7
+S0068,Graduated,Fall_2022,SOC070,Anthropology,SocialSciences,2.7
+S0068,Graduated,Fall_2022,CS050,Operating Systems,CS,2.7
+S0068,Graduated,Fall_2022,CS040,Computer Systems,CS,2.3
+S0068,Graduated,Spring_2023,CS090,Software Engineering,CS,2.7
+S0068,Graduated,Spring_2023,HUM070,Classical Mythology,Humanities,3.0
+S0068,Graduated,Spring_2023,MATH020,Calculus II,Math,2.3
+S0068,Graduated,Spring_2023,HUM060,Religious Studies,Humanities,2.7
+S0068,Graduated,Fall_2023,CS070,Machine Learning,CS,2.7
+S0068,Graduated,Fall_2023,MATH010,Calculus I,Math,2.3
+S0068,Graduated,Fall_2023,HUM060,Religious Studies,Humanities,2.3
+S0068,Graduated,Fall_2023,CS060,Databases,CS,2.3
+S0068,Graduated,Spring_2024,HUM060,Religious Studies,Humanities,3.0
+S0068,Graduated,Spring_2024,SCI010,General Physics,Sciences,2.7
+S0068,Graduated,Spring_2024,SCI070,Cell Biology,Sciences,2.7
+S0068,Graduated,Spring_2024,SCI080,Genetics,Sciences,3.0
+S0068,Graduated,Fall_2024,CS090,Software Engineering,CS,2.7
+S0068,Graduated,Fall_2024,MATH070,Real Analysis,Math,2.7
+S0068,Graduated,Fall_2024,CS080,Computer Networks,CS,2.7
+S0068,Graduated,Fall_2024,CS070,Machine Learning,CS,3.0
+S0068,Graduated,Spring_2025,CS050,Operating Systems,CS,2.0
+S0068,Graduated,Spring_2025,CS040,Computer Systems,CS,2.3
+S0068,Graduated,Spring_2025,CS060,Databases,CS,3.0
+S0068,Graduated,Spring_2025,HUM030,World History,Humanities,3.0
+S0068,Graduated,Fall_2025,CS030,Algorithms,CS,2.3
+S0068,Graduated,Fall_2025,CS100,Theory of Computation,CS,2.3
+S0068,Graduated,Fall_2025,CS050,Operating Systems,CS,3.0
+S0068,Graduated,Fall_2025,CS060,Databases,CS,3.0
+S0068,Graduated,Spring_2026,CS080,Computer Networks,CS,3.3
+S0068,Graduated,Spring_2026,CS100,Theory of Computation,CS,2.7
+S0068,Graduated,Spring_2026,CS070,Machine Learning,CS,2.3
+S0068,Graduated,Spring_2026,MATH100,Abstract Algebra,Math,3.0
+S0069,Junior,Fall_2022,CS080,Computer Networks,CS,3.0
+S0069,Junior,Fall_2022,MATH050,Probability,Math,3.0
+S0069,Junior,Fall_2022,ART050,History of Art,Arts,3.3
+S0069,Junior,Fall_2022,CS010,Intro to Programming,CS,3.7
+S0069,Junior,Spring_2023,HUM100,Linguistics,Humanities,3.7
+S0069,Junior,Spring_2023,HUM090,Modern Poetry,Humanities,4.0
+S0069,Junior,Spring_2023,CS100,Theory of Computation,CS,3.0
+S0069,Junior,Spring_2023,HUM070,Classical Mythology,Humanities,3.3
+S0069,Junior,Fall_2023,HUM070,Classical Mythology,Humanities,3.7
+S0069,Junior,Fall_2023,HUM060,Religious Studies,Humanities,3.3
+S0069,Junior,Fall_2023,HUM100,Linguistics,Humanities,3.7
+S0069,Junior,Fall_2023,HUM020,Creative Writing,Humanities,3.3
+S0069,Junior,Spring_2024,HUM040,Philosophy,Humanities,3.0
+S0069,Junior,Spring_2024,HUM100,Linguistics,Humanities,3.3
+S0069,Junior,Spring_2024,HUM020,Creative Writing,Humanities,4.0
+S0069,Junior,Spring_2024,HUM070,Classical Mythology,Humanities,4.0
+S0069,Junior,Fall_2024,HUM060,Religious Studies,Humanities,3.7
+S0069,Junior,Fall_2024,CS020,Data Structures,CS,3.3
+S0069,Junior,Fall_2024,MATH010,Calculus I,Math,2.7
+S0069,Junior,Fall_2024,HUM100,Linguistics,Humanities,3.3
+S0069,Junior,Spring_2025,MATH050,Probability,Math,3.0
+S0069,Junior,Spring_2025,HUM060,Religious Studies,Humanities,3.7
+S0069,Junior,Spring_2025,HUM020,Creative Writing,Humanities,4.0
+S0069,Junior,Spring_2025,HUM010,English Literature,Humanities,4.0
+S0070,Junior,Fall_2022,CS020,Data Structures,CS,3.3
+S0070,Junior,Fall_2022,CS080,Computer Networks,CS,3.7
+S0070,Junior,Fall_2022,CS040,Computer Systems,CS,3.3
+S0070,Junior,Fall_2022,MATH040,Discrete Math,Math,3.7
+S0070,Junior,Spring_2023,CS100,Theory of Computation,CS,3.7
+S0070,Junior,Spring_2023,SOC030,Intro Psychology,SocialSciences,3.7
+S0070,Junior,Spring_2023,HUM040,Philosophy,Humanities,3.7
+S0070,Junior,Spring_2023,CS030,Algorithms,CS,3.3
+S0070,Junior,Fall_2023,CS010,Intro to Programming,CS,3.7
+S0070,Junior,Fall_2023,CS050,Operating Systems,CS,3.7
+S0070,Junior,Fall_2023,ART090,Modern Dance,Arts,4.0
+S0070,Junior,Fall_2023,ART060,Photography,Arts,3.7
+S0070,Junior,Spring_2024,HUM030,World History,Humanities,4.0
+S0070,Junior,Spring_2024,CS070,Machine Learning,CS,3.7
+S0070,Junior,Spring_2024,HUM020,Creative Writing,Humanities,4.0
+S0070,Junior,Spring_2024,HUM050,Ethics,Humanities,3.7
+S0070,Junior,Fall_2024,CS030,Algorithms,CS,3.3
+S0070,Junior,Fall_2024,CS090,Software Engineering,CS,3.7
+S0070,Junior,Fall_2024,CS080,Computer Networks,CS,4.0
+S0070,Junior,Fall_2024,CS060,Databases,CS,3.7
+S0071,Junior,Fall_2022,ART030,Sculpture,Arts,3.3
+S0071,Junior,Fall_2022,HUM060,Religious Studies,Humanities,3.3
+S0071,Junior,Fall_2022,MATH050,Probability,Math,3.0
+S0071,Junior,Fall_2022,HUM070,Classical Mythology,Humanities,2.7
+S0071,Junior,Spring_2023,SOC010,Microeconomics,SocialSciences,4.0
+S0071,Junior,Spring_2023,SCI070,Cell Biology,Sciences,3.0
+S0071,Junior,Spring_2023,HUM030,World History,Humanities,3.0
+S0071,Junior,Spring_2023,HUM050,Ethics,Humanities,3.0
+S0071,Junior,Fall_2023,HUM090,Modern Poetry,Humanities,3.3
+S0071,Junior,Fall_2023,MATH030,Linear Algebra,Math,2.7
+S0071,Junior,Fall_2023,MATH100,Abstract Algebra,Math,2.7
+S0071,Junior,Fall_2023,ART080,Theater Performance,Arts,4.0
+S0071,Junior,Spring_2024,HUM100,Linguistics,Humanities,3.3
+S0071,Junior,Spring_2024,SCI010,General Physics,Sciences,3.3
+S0071,Junior,Spring_2024,HUM090,Modern Poetry,Humanities,4.0
+S0071,Junior,Spring_2024,CS080,Computer Networks,CS,3.0
+S0071,Junior,Fall_2024,HUM070,Classical Mythology,Humanities,3.3
+S0071,Junior,Fall_2024,MATH100,Abstract Algebra,Math,3.0
+S0071,Junior,Fall_2024,HUM050,Ethics,Humanities,3.3
+S0071,Junior,Fall_2024,HUM040,Philosophy,Humanities,3.3
+S0072,Junior,Fall_2022,MATH050,Probability,Math,2.3
+S0072,Junior,Fall_2022,SCI030,Electromagnetism,Sciences,2.7
+S0072,Junior,Fall_2022,SOC080,International Relations,SocialSciences,2.7
+S0072,Junior,Fall_2022,SOC100,Behavioral Economics,SocialSciences,3.0
+S0072,Junior,Spring_2023,SOC030,Intro Psychology,SocialSciences,2.7
+S0072,Junior,Spring_2023,SOC010,Microeconomics,SocialSciences,2.7
+S0072,Junior,Spring_2023,SCI070,Cell Biology,Sciences,3.3
+S0072,Junior,Spring_2023,SOC040,Social Psychology,SocialSciences,2.3
+S0072,Junior,Fall_2023,HUM020,Creative Writing,Humanities,2.3
+S0072,Junior,Fall_2023,ART060,Photography,Arts,2.7
+S0072,Junior,Fall_2023,SOC040,Social Psychology,SocialSciences,2.7
+S0072,Junior,Fall_2023,SOC010,Microeconomics,SocialSciences,2.7
+S0072,Junior,Spring_2024,HUM070,Classical Mythology,Humanities,3.0
+S0072,Junior,Spring_2024,HUM040,Philosophy,Humanities,3.0
+S0072,Junior,Spring_2024,SOC060,Political Science,SocialSciences,3.0
+S0072,Junior,Spring_2024,SOC080,International Relations,SocialSciences,2.7
+S0072,Junior,Fall_2024,SOC010,Microeconomics,SocialSciences,2.7
+S0072,Junior,Fall_2024,HUM040,Philosophy,Humanities,3.3
+S0072,Junior,Fall_2024,CS040,Computer Systems,CS,2.7
+S0072,Junior,Fall_2024,SOC080,International Relations,SocialSciences,2.3
+S0073,Freshman,Fall_2022,CS100,Theory of Computation,CS,2.7
+S0073,Freshman,Fall_2022,ART080,Theater Performance,Arts,3.7
+S0073,Freshman,Fall_2022,ART090,Modern Dance,Arts,2.7
+S0073,Freshman,Fall_2022,ART100,Graphic Design,Arts,3.0
+S0073,Freshman,Spring_2023,ART030,Sculpture,Arts,3.0
+S0073,Freshman,Spring_2023,ART040,Music Theory,Arts,3.7
+S0073,Freshman,Spring_2023,CS060,Databases,CS,3.0
+S0073,Freshman,Spring_2023,CS080,Computer Networks,CS,2.3
+S0074,Graduated,Fall_2022,HUM030,World History,Humanities,3.7
+S0074,Graduated,Fall_2022,MATH010,Calculus I,Math,3.3
+S0074,Graduated,Fall_2022,HUM070,Classical Mythology,Humanities,3.7
+S0074,Graduated,Fall_2022,ART060,Photography,Arts,3.7
+S0074,Graduated,Spring_2023,HUM050,Ethics,Humanities,3.0
+S0074,Graduated,Spring_2023,SCI090,Ecology,Sciences,3.0
+S0074,Graduated,Spring_2023,HUM030,World History,Humanities,2.7
+S0074,Graduated,Spring_2023,CS010,Intro to Programming,CS,3.3
+S0074,Graduated,Fall_2023,CS010,Intro to Programming,CS,3.0
+S0074,Graduated,Fall_2023,HUM020,Creative Writing,Humanities,3.3
+S0074,Graduated,Fall_2023,HUM100,Linguistics,Humanities,3.0
+S0074,Graduated,Fall_2023,SCI100,Astronomy,Sciences,2.7
+S0074,Graduated,Spring_2024,HUM100,Linguistics,Humanities,3.0
+S0074,Graduated,Spring_2024,ART030,Sculpture,Arts,3.0
+S0074,Graduated,Spring_2024,CS040,Computer Systems,CS,3.3
+S0074,Graduated,Spring_2024,HUM010,English Literature,Humanities,3.0
+S0074,Graduated,Fall_2024,MATH100,Abstract Algebra,Math,2.3
+S0074,Graduated,Fall_2024,HUM020,Creative Writing,Humanities,2.7
+S0074,Graduated,Fall_2024,HUM070,Classical Mythology,Humanities,3.0
+S0074,Graduated,Fall_2024,MATH010,Calculus I,Math,2.3
+S0074,Graduated,Spring_2025,MATH020,Calculus II,Math,2.7
+S0074,Graduated,Spring_2025,SOC080,International Relations,SocialSciences,3.7
+S0074,Graduated,Spring_2025,ART100,Graphic Design,Arts,3.3
+S0074,Graduated,Spring_2025,HUM050,Ethics,Humanities,2.7
+S0074,Graduated,Fall_2025,CS050,Operating Systems,CS,2.7
+S0074,Graduated,Fall_2025,HUM030,World History,Humanities,3.0
+S0074,Graduated,Fall_2025,HUM050,Ethics,Humanities,3.0
+S0074,Graduated,Fall_2025,HUM070,Classical Mythology,Humanities,3.3
+S0074,Graduated,Spring_2026,SOC010,Microeconomics,SocialSciences,3.0
+S0074,Graduated,Spring_2026,CS060,Databases,CS,3.7
+S0074,Graduated,Spring_2026,HUM100,Linguistics,Humanities,3.0
+S0074,Graduated,Spring_2026,SOC060,Political Science,SocialSciences,3.3
+S0075,Sophomore,Fall_2022,HUM040,Philosophy,Humanities,3.7
+S0075,Sophomore,Fall_2022,HUM020,Creative Writing,Humanities,3.3
+S0075,Sophomore,Fall_2022,SOC030,Intro Psychology,SocialSciences,2.3
+S0075,Sophomore,Fall_2022,MATH050,Probability,Math,3.3
+S0075,Sophomore,Spring_2023,CS080,Computer Networks,CS,3.3
+S0075,Sophomore,Spring_2023,MATH040,Discrete Math,Math,2.7
+S0075,Sophomore,Spring_2023,SCI070,Cell Biology,Sciences,3.7
+S0075,Sophomore,Spring_2023,SOC060,Political Science,SocialSciences,3.3
+S0075,Sophomore,Fall_2023,MATH070,Real Analysis,Math,3.7
+S0075,Sophomore,Fall_2023,MATH100,Abstract Algebra,Math,3.3
+S0075,Sophomore,Fall_2023,SOC090,Public Policy,SocialSciences,3.7
+S0075,Sophomore,Fall_2023,SOC010,Microeconomics,SocialSciences,3.3
+S0075,Sophomore,Spring_2024,ART040,Music Theory,Arts,4.0
+S0075,Sophomore,Spring_2024,SOC060,Political Science,SocialSciences,3.3
+S0075,Sophomore,Spring_2024,ART100,Graphic Design,Arts,3.7
+S0075,Sophomore,Spring_2024,ART090,Modern Dance,Arts,3.7
+S0076,Senior,Fall_2022,SCI100,Astronomy,Sciences,2.7
+S0076,Senior,Fall_2022,SCI070,Cell Biology,Sciences,2.7
+S0076,Senior,Fall_2022,CS040,Computer Systems,CS,3.0
+S0076,Senior,Fall_2022,MATH100,Abstract Algebra,Math,3.0
+S0076,Senior,Spring_2023,SCI020,Mechanics,Sciences,3.3
+S0076,Senior,Spring_2023,ART070,Film Studies,Arts,3.0
+S0076,Senior,Spring_2023,CS050,Operating Systems,CS,3.0
+S0076,Senior,Spring_2023,MATH080,Differential Equations,Math,3.3
+S0076,Senior,Fall_2023,SOC100,Behavioral Economics,SocialSciences,3.0
+S0076,Senior,Fall_2023,SOC050,Sociology,SocialSciences,3.3
+S0076,Senior,Fall_2023,SCI010,General Physics,Sciences,3.3
+S0076,Senior,Fall_2023,MATH080,Differential Equations,Math,3.7
+S0076,Senior,Spring_2024,MATH040,Discrete Math,Math,3.3
+S0076,Senior,Spring_2024,MATH020,Calculus II,Math,3.3
+S0076,Senior,Spring_2024,SOC010,Microeconomics,SocialSciences,3.7
+S0076,Senior,Spring_2024,ART090,Modern Dance,Arts,2.7
+S0076,Senior,Fall_2024,SOC060,Political Science,SocialSciences,3.3
+S0076,Senior,Fall_2024,SOC070,Anthropology,SocialSciences,3.0
+S0076,Senior,Fall_2024,MATH100,Abstract Algebra,Math,3.3
+S0076,Senior,Fall_2024,CS100,Theory of Computation,CS,3.0
+S0076,Senior,Spring_2025,MATH040,Discrete Math,Math,3.3
+S0076,Senior,Spring_2025,SCI100,Astronomy,Sciences,3.0
+S0076,Senior,Spring_2025,SOC090,Public Policy,SocialSciences,3.3
+S0076,Senior,Spring_2025,SOC050,Sociology,SocialSciences,3.0
+S0076,Senior,Fall_2025,SOC010,Microeconomics,SocialSciences,3.3
+S0076,Senior,Fall_2025,SOC050,Sociology,SocialSciences,3.7
+S0076,Senior,Fall_2025,MATH040,Discrete Math,Math,3.0
+S0076,Senior,Fall_2025,SOC040,Social Psychology,SocialSciences,2.7
+S0077,Sophomore,Fall_2022,HUM060,Religious Studies,Humanities,3.3
+S0077,Sophomore,Fall_2022,MATH040,Discrete Math,Math,2.7
+S0077,Sophomore,Fall_2022,CS030,Algorithms,CS,3.3
+S0077,Sophomore,Fall_2022,ART020,Painting,Arts,3.7
+S0077,Sophomore,Spring_2023,CS080,Computer Networks,CS,3.0
+S0077,Sophomore,Spring_2023,CS010,Intro to Programming,CS,3.7
+S0077,Sophomore,Spring_2023,CS070,Machine Learning,CS,3.0
+S0077,Sophomore,Spring_2023,CS100,Theory of Computation,CS,2.7
+S0077,Sophomore,Fall_2023,CS060,Databases,CS,2.7
+S0077,Sophomore,Fall_2023,SOC060,Political Science,SocialSciences,3.0
+S0077,Sophomore,Fall_2023,ART020,Painting,Arts,2.7
+S0077,Sophomore,Fall_2023,ART100,Graphic Design,Arts,3.7
+S0078,Graduated,Fall_2022,HUM050,Ethics,Humanities,4.0
+S0078,Graduated,Fall_2022,SOC060,Political Science,SocialSciences,4.0
+S0078,Graduated,Fall_2022,HUM010,English Literature,Humanities,3.7
+S0078,Graduated,Fall_2022,HUM040,Philosophy,Humanities,4.0
+S0078,Graduated,Spring_2023,HUM060,Religious Studies,Humanities,3.7
+S0078,Graduated,Spring_2023,ART070,Film Studies,Arts,4.0
+S0078,Graduated,Spring_2023,HUM080,American Literature,Humanities,3.3
+S0078,Graduated,Spring_2023,HUM030,World History,Humanities,3.3
+S0078,Graduated,Fall_2023,HUM020,Creative Writing,Humanities,4.0
+S0078,Graduated,Fall_2023,HUM050,Ethics,Humanities,3.7
+S0078,Graduated,Fall_2023,HUM100,Linguistics,Humanities,3.3
+S0078,Graduated,Fall_2023,HUM030,World History,Humanities,4.0
+S0078,Graduated,Spring_2024,ART010,Drawing Fundamentals,Arts,3.7
+S0078,Graduated,Spring_2024,HUM070,Classical Mythology,Humanities,3.7
+S0078,Graduated,Spring_2024,HUM050,Ethics,Humanities,4.0
+S0078,Graduated,Spring_2024,MATH020,Calculus II,Math,3.3
+S0078,Graduated,Fall_2024,HUM100,Linguistics,Humanities,3.7
+S0078,Graduated,Fall_2024,SCI010,General Physics,Sciences,3.7
+S0078,Graduated,Fall_2024,ART030,Sculpture,Arts,4.0
+S0078,Graduated,Fall_2024,HUM050,Ethics,Humanities,4.0
+S0078,Graduated,Spring_2025,SCI050,Organic Chemistry,Sciences,3.7
+S0078,Graduated,Spring_2025,HUM010,English Literature,Humanities,3.0
+S0078,Graduated,Spring_2025,HUM030,World History,Humanities,3.7
+S0078,Graduated,Spring_2025,ART080,Theater Performance,Arts,3.3
+S0078,Graduated,Fall_2025,HUM050,Ethics,Humanities,3.3
+S0078,Graduated,Fall_2025,HUM100,Linguistics,Humanities,4.0
+S0078,Graduated,Fall_2025,HUM040,Philosophy,Humanities,3.7
+S0078,Graduated,Fall_2025,SCI010,General Physics,Sciences,3.0
+S0078,Graduated,Spring_2026,SOC060,Political Science,SocialSciences,3.3
+S0078,Graduated,Spring_2026,SCI030,Electromagnetism,Sciences,3.3
+S0078,Graduated,Spring_2026,HUM080,American Literature,Humanities,3.7
+S0078,Graduated,Spring_2026,HUM090,Modern Poetry,Humanities,4.0
+S0079,Graduated,Fall_2022,SCI030,Electromagnetism,Sciences,3.0
+S0079,Graduated,Fall_2022,SOC050,Sociology,SocialSciences,2.7
+S0079,Graduated,Fall_2022,MATH060,Statistics,Math,3.0
+S0079,Graduated,Fall_2022,SOC100,Behavioral Economics,SocialSciences,2.7
+S0079,Graduated,Spring_2023,SOC030,Intro Psychology,SocialSciences,3.3
+S0079,Graduated,Spring_2023,SOC070,Anthropology,SocialSciences,2.7
+S0079,Graduated,Spring_2023,SCI040,General Chemistry,Sciences,3.7
+S0079,Graduated,Spring_2023,CS100,Theory of Computation,CS,3.0
+S0079,Graduated,Fall_2023,CS100,Theory of Computation,CS,3.0
+S0079,Graduated,Fall_2023,HUM020,Creative Writing,Humanities,3.7
+S0079,Graduated,Fall_2023,CS090,Software Engineering,CS,2.3
+S0079,Graduated,Fall_2023,SOC070,Anthropology,SocialSciences,2.7
+S0079,Graduated,Spring_2024,SCI100,Astronomy,Sciences,2.3
+S0079,Graduated,Spring_2024,HUM060,Religious Studies,Humanities,3.0
+S0079,Graduated,Spring_2024,SCI050,Organic Chemistry,Sciences,3.3
+S0079,Graduated,Spring_2024,SOC030,Intro Psychology,SocialSciences,2.3
+S0079,Graduated,Fall_2024,MATH080,Differential Equations,Math,3.0
+S0079,Graduated,Fall_2024,SOC090,Public Policy,SocialSciences,2.7
+S0079,Graduated,Fall_2024,CS030,Algorithms,CS,3.0
+S0079,Graduated,Fall_2024,HUM070,Classical Mythology,Humanities,2.7
+S0079,Graduated,Spring_2025,SOC090,Public Policy,SocialSciences,2.7
+S0079,Graduated,Spring_2025,SCI100,Astronomy,Sciences,3.0
+S0079,Graduated,Spring_2025,HUM040,Philosophy,Humanities,3.7
+S0079,Graduated,Spring_2025,CS060,Databases,CS,2.7
+S0079,Graduated,Fall_2025,HUM050,Ethics,Humanities,2.7
+S0079,Graduated,Fall_2025,MATH100,Abstract Algebra,Math,2.3
+S0079,Graduated,Fall_2025,ART080,Theater Performance,Arts,3.3
+S0079,Graduated,Fall_2025,SOC010,Microeconomics,SocialSciences,2.7
+S0079,Graduated,Spring_2026,SOC050,Sociology,SocialSciences,3.0
+S0079,Graduated,Spring_2026,SOC010,Microeconomics,SocialSciences,3.3
+S0079,Graduated,Spring_2026,HUM090,Modern Poetry,Humanities,3.0
+S0079,Graduated,Spring_2026,SOC070,Anthropology,SocialSciences,2.7
+S0080,Graduated,Fall_2022,MATH090,Number Theory,Math,3.3
+S0080,Graduated,Fall_2022,HUM100,Linguistics,Humanities,3.3
+S0080,Graduated,Fall_2022,CS080,Computer Networks,CS,2.7
+S0080,Graduated,Fall_2022,CS090,Software Engineering,CS,3.3
+S0080,Graduated,Spring_2023,CS050,Operating Systems,CS,2.7
+S0080,Graduated,Spring_2023,CS020,Data Structures,CS,2.3
+S0080,Graduated,Spring_2023,ART090,Modern Dance,Arts,3.3
+S0080,Graduated,Spring_2023,CS100,Theory of Computation,CS,3.3
+S0080,Graduated,Fall_2023,CS030,Algorithms,CS,3.0
+S0080,Graduated,Fall_2023,ART060,Photography,Arts,3.0
+S0080,Graduated,Fall_2023,CS020,Data Structures,CS,1.7
+S0080,Graduated,Fall_2023,HUM090,Modern Poetry,Humanities,3.0
+S0080,Graduated,Spring_2024,MATH060,Statistics,Math,2.3
+S0080,Graduated,Spring_2024,SOC070,Anthropology,SocialSciences,3.3
+S0080,Graduated,Spring_2024,MATH040,Discrete Math,Math,2.7
+S0080,Graduated,Spring_2024,ART040,Music Theory,Arts,3.0
+S0080,Graduated,Fall_2024,CS070,Machine Learning,CS,2.7
+S0080,Graduated,Fall_2024,CS080,Computer Networks,CS,3.0
+S0080,Graduated,Fall_2024,SOC090,Public Policy,SocialSciences,2.7
+S0080,Graduated,Fall_2024,MATH050,Probability,Math,2.7
+S0080,Graduated,Spring_2025,CS010,Intro to Programming,CS,3.0
+S0080,Graduated,Spring_2025,CS080,Computer Networks,CS,2.7
+S0080,Graduated,Spring_2025,CS060,Databases,CS,2.7
+S0080,Graduated,Spring_2025,SOC040,Social Psychology,SocialSciences,2.7
+S0080,Graduated,Fall_2025,HUM100,Linguistics,Humanities,3.0
+S0080,Graduated,Fall_2025,ART050,History of Art,Arts,3.7
+S0080,Graduated,Fall_2025,CS050,Operating Systems,CS,2.3
+S0080,Graduated,Fall_2025,CS020,Data Structures,CS,2.7
+S0080,Graduated,Spring_2026,CS100,Theory of Computation,CS,2.3
+S0080,Graduated,Spring_2026,HUM040,Philosophy,Humanities,2.7
+S0080,Graduated,Spring_2026,CS030,Algorithms,CS,3.0
+S0080,Graduated,Spring_2026,CS010,Intro to Programming,CS,3.0
+S0081,Junior,Fall_2022,ART040,Music Theory,Arts,4.0
+S0081,Junior,Fall_2022,ART100,Graphic Design,Arts,3.7
+S0081,Junior,Fall_2022,SOC060,Political Science,SocialSciences,3.3
+S0081,Junior,Fall_2022,CS060,Databases,CS,3.0
+S0081,Junior,Spring_2023,MATH020,Calculus II,Math,2.7
+S0081,Junior,Spring_2023,SOC050,Sociology,SocialSciences,2.7
+S0081,Junior,Spring_2023,ART050,History of Art,Arts,3.0
+S0081,Junior,Spring_2023,ART020,Painting,Arts,3.3
+S0081,Junior,Fall_2023,SOC100,Behavioral Economics,SocialSciences,3.7
+S0081,Junior,Fall_2023,MATH070,Real Analysis,Math,3.0
+S0081,Junior,Fall_2023,ART020,Painting,Arts,3.7
+S0081,Junior,Fall_2023,ART010,Drawing Fundamentals,Arts,4.0
+S0081,Junior,Spring_2024,ART080,Theater Performance,Arts,4.0
+S0081,Junior,Spring_2024,ART040,Music Theory,Arts,4.0
+S0081,Junior,Spring_2024,MATH020,Calculus II,Math,3.7
+S0081,Junior,Spring_2024,CS070,Machine Learning,CS,3.7
+S0081,Junior,Fall_2024,SOC060,Political Science,SocialSciences,3.7
+S0081,Junior,Fall_2024,ART010,Drawing Fundamentals,Arts,2.7
+S0081,Junior,Fall_2024,ART100,Graphic Design,Arts,3.7
+S0081,Junior,Fall_2024,SOC100,Behavioral Economics,SocialSciences,3.7
+S0082,Freshman,Fall_2022,ART030,Sculpture,Arts,3.3
+S0082,Freshman,Fall_2022,ART080,Theater Performance,Arts,3.7
+S0082,Freshman,Fall_2022,ART010,Drawing Fundamentals,Arts,4.0
+S0082,Freshman,Fall_2022,SOC100,Behavioral Economics,SocialSciences,3.0
+S0082,Freshman,Spring_2023,HUM050,Ethics,Humanities,2.7
+S0082,Freshman,Spring_2023,ART070,Film Studies,Arts,3.3
+S0082,Freshman,Spring_2023,ART030,Sculpture,Arts,3.3
+S0082,Freshman,Spring_2023,CS080,Computer Networks,CS,3.7
+S0083,Graduated,Fall_2022,CS060,Databases,CS,3.0
+S0083,Graduated,Fall_2022,CS080,Computer Networks,CS,1.7
+S0083,Graduated,Fall_2022,MATH090,Number Theory,Math,2.3
+S0083,Graduated,Fall_2022,MATH020,Calculus II,Math,2.7
+S0083,Graduated,Spring_2023,CS020,Data Structures,CS,2.3
+S0083,Graduated,Spring_2023,SCI030,Electromagnetism,Sciences,2.7
+S0083,Graduated,Spring_2023,CS080,Computer Networks,CS,2.7
+S0083,Graduated,Spring_2023,CS090,Software Engineering,CS,3.0
+S0083,Graduated,Fall_2023,CS090,Software Engineering,CS,2.7
+S0083,Graduated,Fall_2023,HUM020,Creative Writing,Humanities,3.0
+S0083,Graduated,Fall_2023,ART040,Music Theory,Arts,3.3
+S0083,Graduated,Fall_2023,CS020,Data Structures,CS,2.7
+S0083,Graduated,Spring_2024,CS090,Software Engineering,CS,2.7
+S0083,Graduated,Spring_2024,CS100,Theory of Computation,CS,2.3
+S0083,Graduated,Spring_2024,CS020,Data Structures,CS,2.7
+S0083,Graduated,Spring_2024,CS030,Algorithms,CS,3.0
+S0083,Graduated,Fall_2024,CS030,Algorithms,CS,2.3
+S0083,Graduated,Fall_2024,CS010,Intro to Programming,CS,2.3
+S0083,Graduated,Fall_2024,ART030,Sculpture,Arts,2.3
+S0083,Graduated,Fall_2024,SCI100,Astronomy,Sciences,3.3
+S0083,Graduated,Spring_2025,CS100,Theory of Computation,CS,2.7
+S0083,Graduated,Spring_2025,MATH050,Probability,Math,2.3
+S0083,Graduated,Spring_2025,CS040,Computer Systems,CS,3.3
+S0083,Graduated,Spring_2025,CS070,Machine Learning,CS,2.7
+S0083,Graduated,Fall_2025,ART010,Drawing Fundamentals,Arts,2.7
+S0083,Graduated,Fall_2025,CS010,Intro to Programming,CS,3.0
+S0083,Graduated,Fall_2025,SCI020,Mechanics,Sciences,3.0
+S0083,Graduated,Fall_2025,CS050,Operating Systems,CS,2.7
+S0083,Graduated,Spring_2026,CS100,Theory of Computation,CS,2.0
+S0083,Graduated,Spring_2026,CS020,Data Structures,CS,3.0
+S0083,Graduated,Spring_2026,SOC010,Microeconomics,SocialSciences,3.7
+S0083,Graduated,Spring_2026,SOC100,Behavioral Economics,SocialSciences,2.7
+S0084,Sophomore,Fall_2022,ART070,Film Studies,Arts,2.7
+S0084,Sophomore,Fall_2022,ART080,Theater Performance,Arts,3.3
+S0084,Sophomore,Fall_2022,MATH040,Discrete Math,Math,3.3
+S0084,Sophomore,Fall_2022,ART050,History of Art,Arts,3.3
+S0084,Sophomore,Spring_2023,ART030,Sculpture,Arts,3.3
+S0084,Sophomore,Spring_2023,HUM100,Linguistics,Humanities,3.3
+S0084,Sophomore,Spring_2023,SOC010,Microeconomics,SocialSciences,3.3
+S0084,Sophomore,Spring_2023,MATH100,Abstract Algebra,Math,3.0
+S0084,Sophomore,Fall_2023,CS070,Machine Learning,CS,3.3
+S0084,Sophomore,Fall_2023,ART060,Photography,Arts,3.0
+S0084,Sophomore,Fall_2023,HUM050,Ethics,Humanities,3.3
+S0084,Sophomore,Fall_2023,SCI100,Astronomy,Sciences,3.3
+S0085,Senior,Fall_2022,HUM010,English Literature,Humanities,3.0
+S0085,Senior,Fall_2022,HUM060,Religious Studies,Humanities,3.7
+S0085,Senior,Fall_2022,HUM070,Classical Mythology,Humanities,3.0
+S0085,Senior,Fall_2022,HUM100,Linguistics,Humanities,4.0
+S0085,Senior,Spring_2023,MATH020,Calculus II,Math,3.3
+S0085,Senior,Spring_2023,HUM010,English Literature,Humanities,3.3
+S0085,Senior,Spring_2023,HUM020,Creative Writing,Humanities,3.0
+S0085,Senior,Spring_2023,HUM040,Philosophy,Humanities,3.3
+S0085,Senior,Fall_2023,SCI010,General Physics,Sciences,3.7
+S0085,Senior,Fall_2023,HUM020,Creative Writing,Humanities,3.7
+S0085,Senior,Fall_2023,HUM070,Classical Mythology,Humanities,3.3
+S0085,Senior,Fall_2023,SCI050,Organic Chemistry,Sciences,3.3
+S0085,Senior,Spring_2024,HUM040,Philosophy,Humanities,3.7
+S0085,Senior,Spring_2024,SCI100,Astronomy,Sciences,3.3
+S0085,Senior,Spring_2024,HUM060,Religious Studies,Humanities,3.7
+S0085,Senior,Spring_2024,MATH080,Differential Equations,Math,3.0
+S0085,Senior,Fall_2024,HUM080,American Literature,Humanities,3.3
+S0085,Senior,Fall_2024,HUM030,World History,Humanities,3.7
+S0085,Senior,Fall_2024,MATH050,Probability,Math,3.7
+S0085,Senior,Fall_2024,HUM090,Modern Poetry,Humanities,4.0
+S0085,Senior,Spring_2025,HUM060,Religious Studies,Humanities,3.3
+S0085,Senior,Spring_2025,CS060,Databases,CS,2.7
+S0085,Senior,Spring_2025,HUM090,Modern Poetry,Humanities,3.3
+S0085,Senior,Spring_2025,HUM040,Philosophy,Humanities,3.3
+S0085,Senior,Fall_2025,MATH060,Statistics,Math,3.7
+S0085,Senior,Fall_2025,HUM070,Classical Mythology,Humanities,4.0
+S0085,Senior,Fall_2025,ART080,Theater Performance,Arts,3.0
+S0085,Senior,Fall_2025,CS100,Theory of Computation,CS,3.0
+S0086,Senior,Fall_2022,CS030,Algorithms,CS,3.7
+S0086,Senior,Fall_2022,ART070,Film Studies,Arts,3.7
+S0086,Senior,Fall_2022,ART020,Painting,Arts,3.0
+S0086,Senior,Fall_2022,ART040,Music Theory,Arts,3.3
+S0086,Senior,Spring_2023,ART060,Photography,Arts,3.7
+S0086,Senior,Spring_2023,ART020,Painting,Arts,2.7
+S0086,Senior,Spring_2023,ART050,History of Art,Arts,3.7
+S0086,Senior,Spring_2023,ART080,Theater Performance,Arts,3.3
+S0086,Senior,Fall_2023,ART060,Photography,Arts,3.0
+S0086,Senior,Fall_2023,MATH020,Calculus II,Math,2.7
+S0086,Senior,Fall_2023,SCI040,General Chemistry,Sciences,3.7
+S0086,Senior,Fall_2023,SOC060,Political Science,SocialSciences,3.3
+S0086,Senior,Spring_2024,ART010,Drawing Fundamentals,Arts,3.0
+S0086,Senior,Spring_2024,ART050,History of Art,Arts,3.3
+S0086,Senior,Spring_2024,HUM100,Linguistics,Humanities,3.7
+S0086,Senior,Spring_2024,ART020,Painting,Arts,3.0
+S0086,Senior,Fall_2024,SCI040,General Chemistry,Sciences,2.7
+S0086,Senior,Fall_2024,CS080,Computer Networks,CS,2.7
+S0086,Senior,Fall_2024,ART080,Theater Performance,Arts,3.3
+S0086,Senior,Fall_2024,ART090,Modern Dance,Arts,3.0
+S0086,Senior,Spring_2025,ART090,Modern Dance,Arts,3.3
+S0086,Senior,Spring_2025,ART080,Theater Performance,Arts,4.0
+S0086,Senior,Spring_2025,SOC090,Public Policy,SocialSciences,3.3
+S0086,Senior,Spring_2025,SOC050,Sociology,SocialSciences,3.3
+S0086,Senior,Fall_2025,ART070,Film Studies,Arts,3.3
+S0086,Senior,Fall_2025,ART020,Painting,Arts,3.0
+S0086,Senior,Fall_2025,ART080,Theater Performance,Arts,2.7
+S0086,Senior,Fall_2025,ART090,Modern Dance,Arts,3.0
+S0087,Junior,Fall_2022,ART020,Painting,Arts,3.3
+S0087,Junior,Fall_2022,ART070,Film Studies,Arts,3.7
+S0087,Junior,Fall_2022,ART080,Theater Performance,Arts,3.7
+S0087,Junior,Fall_2022,MATH090,Number Theory,Math,3.3
+S0087,Junior,Spring_2023,ART030,Sculpture,Arts,3.7
+S0087,Junior,Spring_2023,HUM040,Philosophy,Humanities,4.0
+S0087,Junior,Spring_2023,CS020,Data Structures,CS,3.0
+S0087,Junior,Spring_2023,ART090,Modern Dance,Arts,3.0
+S0087,Junior,Fall_2023,ART040,Music Theory,Arts,4.0
+S0087,Junior,Fall_2023,HUM040,Philosophy,Humanities,3.7
+S0087,Junior,Fall_2023,SCI070,Cell Biology,Sciences,3.0
+S0087,Junior,Fall_2023,SOC020,Macroeconomics,SocialSciences,2.7
+S0087,Junior,Spring_2024,SCI090,Ecology,Sciences,3.3
+S0087,Junior,Spring_2024,ART100,Graphic Design,Arts,4.0
+S0087,Junior,Spring_2024,ART050,History of Art,Arts,3.7
+S0087,Junior,Spring_2024,ART060,Photography,Arts,4.0
+S0087,Junior,Fall_2024,ART030,Sculpture,Arts,3.7
+S0087,Junior,Fall_2024,MATH010,Calculus I,Math,3.7
+S0087,Junior,Fall_2024,MATH090,Number Theory,Math,3.0
+S0087,Junior,Fall_2024,SOC050,Sociology,SocialSciences,3.3
+S0087,Junior,Spring_2025,HUM070,Classical Mythology,Humanities,3.7
+S0087,Junior,Spring_2025,ART050,History of Art,Arts,3.0
+S0087,Junior,Spring_2025,ART040,Music Theory,Arts,3.0
+S0087,Junior,Spring_2025,CS030,Algorithms,CS,3.7
+S0088,Sophomore,Fall_2022,SOC010,Microeconomics,SocialSciences,4.0
+S0088,Sophomore,Fall_2022,SOC080,International Relations,SocialSciences,3.3
+S0088,Sophomore,Fall_2022,SCI100,Astronomy,Sciences,3.7
+S0088,Sophomore,Fall_2022,CS100,Theory of Computation,CS,3.0
+S0088,Sophomore,Spring_2023,HUM010,English Literature,Humanities,3.0
+S0088,Sophomore,Spring_2023,SOC090,Public Policy,SocialSciences,3.3
+S0088,Sophomore,Spring_2023,HUM070,Classical Mythology,Humanities,3.0
+S0088,Sophomore,Spring_2023,ART020,Painting,Arts,3.7
+S0088,Sophomore,Fall_2023,ART080,Theater Performance,Arts,3.7
+S0088,Sophomore,Fall_2023,SOC090,Public Policy,SocialSciences,3.7
+S0088,Sophomore,Fall_2023,SOC010,Microeconomics,SocialSciences,4.0
+S0088,Sophomore,Fall_2023,SOC040,Social Psychology,SocialSciences,3.7
+S0088,Sophomore,Spring_2024,MATH050,Probability,Math,3.0
+S0088,Sophomore,Spring_2024,SOC100,Behavioral Economics,SocialSciences,2.7
+S0088,Sophomore,Spring_2024,SOC010,Microeconomics,SocialSciences,4.0
+S0088,Sophomore,Spring_2024,SOC080,International Relations,SocialSciences,3.3
+S0089,Senior,Fall_2022,SCI040,General Chemistry,Sciences,2.7
+S0089,Senior,Fall_2022,CS070,Machine Learning,CS,3.0
+S0089,Senior,Fall_2022,CS060,Databases,CS,2.7
+S0089,Senior,Fall_2022,CS080,Computer Networks,CS,2.3
+S0089,Senior,Spring_2023,ART020,Painting,Arts,2.3
+S0089,Senior,Spring_2023,CS030,Algorithms,CS,3.0
+S0089,Senior,Spring_2023,ART080,Theater Performance,Arts,3.3
+S0089,Senior,Spring_2023,CS070,Machine Learning,CS,3.0
+S0089,Senior,Fall_2023,CS090,Software Engineering,CS,2.7
+S0089,Senior,Fall_2023,CS050,Operating Systems,CS,3.3
+S0089,Senior,Fall_2023,HUM080,American Literature,Humanities,3.0
+S0089,Senior,Fall_2023,CS060,Databases,CS,2.7
+S0089,Senior,Spring_2024,CS100,Theory of Computation,CS,2.7
+S0089,Senior,Spring_2024,CS090,Software Engineering,CS,3.3
+S0089,Senior,Spring_2024,CS070,Machine Learning,CS,3.0
+S0089,Senior,Spring_2024,CS080,Computer Networks,CS,2.7
+S0089,Senior,Fall_2024,SCI100,Astronomy,Sciences,2.3
+S0089,Senior,Fall_2024,CS010,Intro to Programming,CS,2.7
+S0089,Senior,Fall_2024,CS050,Operating Systems,CS,2.7
+S0089,Senior,Fall_2024,ART040,Music Theory,Arts,3.0
+S0089,Senior,Spring_2025,CS040,Computer Systems,CS,2.3
+S0089,Senior,Spring_2025,CS050,Operating Systems,CS,2.3
+S0089,Senior,Spring_2025,CS020,Data Structures,CS,2.3
+S0089,Senior,Spring_2025,SCI040,General Chemistry,Sciences,2.7
+S0089,Senior,Fall_2025,CS020,Data Structures,CS,2.0
+S0089,Senior,Fall_2025,CS100,Theory of Computation,CS,2.7
+S0089,Senior,Fall_2025,CS050,Operating Systems,CS,3.0
+S0089,Senior,Fall_2025,CS010,Intro to Programming,CS,2.7
+S0090,Freshman,Fall_2022,SCI060,Biochemistry,Sciences,2.7
+S0090,Freshman,Fall_2022,SCI050,Organic Chemistry,Sciences,2.7
+S0090,Freshman,Fall_2022,ART100,Graphic Design,Arts,3.3
+S0090,Freshman,Fall_2022,SCI040,General Chemistry,Sciences,3.0
+S0090,Freshman,Spring_2023,ART060,Photography,Arts,3.0
+S0090,Freshman,Spring_2023,SCI050,Organic Chemistry,Sciences,3.0
+S0090,Freshman,Spring_2023,SCI060,Biochemistry,Sciences,3.0
+S0090,Freshman,Spring_2023,SCI100,Astronomy,Sciences,3.0
+S0091,Sophomore,Fall_2022,CS090,Software Engineering,CS,2.7
+S0091,Sophomore,Fall_2022,CS040,Computer Systems,CS,3.7
+S0091,Sophomore,Fall_2022,HUM060,Religious Studies,Humanities,3.0
+S0091,Sophomore,Fall_2022,ART040,Music Theory,Arts,3.3
+S0091,Sophomore,Spring_2023,SCI070,Cell Biology,Sciences,2.3
+S0091,Sophomore,Spring_2023,CS020,Data Structures,CS,2.7
+S0091,Sophomore,Spring_2023,CS030,Algorithms,CS,3.7
+S0091,Sophomore,Spring_2023,HUM010,English Literature,Humanities,3.7
+S0091,Sophomore,Fall_2023,HUM040,Philosophy,Humanities,3.7
+S0091,Sophomore,Fall_2023,SCI020,Mechanics,Sciences,3.3
+S0091,Sophomore,Fall_2023,CS050,Operating Systems,CS,4.0
+S0091,Sophomore,Fall_2023,CS020,Data Structures,CS,3.0
+S0091,Sophomore,Spring_2024,CS030,Algorithms,CS,3.3
+S0091,Sophomore,Spring_2024,SCI080,Genetics,Sciences,3.0
+S0091,Sophomore,Spring_2024,ART010,Drawing Fundamentals,Arts,2.7
+S0091,Sophomore,Spring_2024,CS010,Intro to Programming,CS,3.3
+S0092,Graduated,Fall_2022,HUM010,English Literature,Humanities,3.7
+S0092,Graduated,Fall_2022,SOC050,Sociology,SocialSciences,3.0
+S0092,Graduated,Fall_2022,SOC090,Public Policy,SocialSciences,3.3
+S0092,Graduated,Fall_2022,SOC020,Macroeconomics,SocialSciences,3.0
+S0092,Graduated,Spring_2023,SOC020,Macroeconomics,SocialSciences,3.0
+S0092,Graduated,Spring_2023,SOC050,Sociology,SocialSciences,2.7
+S0092,Graduated,Spring_2023,SCI030,Electromagnetism,Sciences,3.0
+S0092,Graduated,Spring_2023,SOC090,Public Policy,SocialSciences,3.3
+S0092,Graduated,Fall_2023,SOC090,Public Policy,SocialSciences,4.0
+S0092,Graduated,Fall_2023,SOC040,Social Psychology,SocialSciences,2.7
+S0092,Graduated,Fall_2023,MATH090,Number Theory,Math,3.3
+S0092,Graduated,Fall_2023,SOC020,Macroeconomics,SocialSciences,2.7
+S0092,Graduated,Spring_2024,MATH020,Calculus II,Math,3.0
+S0092,Graduated,Spring_2024,SOC020,Macroeconomics,SocialSciences,3.3
+S0092,Graduated,Spring_2024,SOC060,Political Science,SocialSciences,4.0
+S0092,Graduated,Spring_2024,SCI080,Genetics,Sciences,3.7
+S0092,Graduated,Fall_2024,SOC020,Macroeconomics,SocialSciences,3.3
+S0092,Graduated,Fall_2024,HUM020,Creative Writing,Humanities,3.7
+S0092,Graduated,Fall_2024,SOC060,Political Science,SocialSciences,2.7
+S0092,Graduated,Fall_2024,SOC010,Microeconomics,SocialSciences,3.7
+S0092,Graduated,Spring_2025,SOC040,Social Psychology,SocialSciences,3.7
+S0092,Graduated,Spring_2025,SCI090,Ecology,Sciences,2.7
+S0092,Graduated,Spring_2025,SOC070,Anthropology,SocialSciences,3.3
+S0092,Graduated,Spring_2025,SOC020,Macroeconomics,SocialSciences,3.0
+S0092,Graduated,Fall_2025,SOC080,International Relations,SocialSciences,2.7
+S0092,Graduated,Fall_2025,SCI060,Biochemistry,Sciences,3.3
+S0092,Graduated,Fall_2025,SOC020,Macroeconomics,SocialSciences,3.7
+S0092,Graduated,Fall_2025,SOC070,Anthropology,SocialSciences,3.7
+S0092,Graduated,Spring_2026,CS050,Operating Systems,CS,3.7
+S0092,Graduated,Spring_2026,SOC040,Social Psychology,SocialSciences,3.7
+S0092,Graduated,Spring_2026,SOC100,Behavioral Economics,SocialSciences,3.0
+S0092,Graduated,Spring_2026,SCI060,Biochemistry,Sciences,2.7
+S0093,Junior,Fall_2022,SCI030,Electromagnetism,Sciences,2.3
+S0093,Junior,Fall_2022,ART100,Graphic Design,Arts,3.3
+S0093,Junior,Fall_2022,HUM020,Creative Writing,Humanities,3.0
+S0093,Junior,Fall_2022,CS100,Theory of Computation,CS,2.7
+S0093,Junior,Spring_2023,CS090,Software Engineering,CS,3.3
+S0093,Junior,Spring_2023,ART010,Drawing Fundamentals,Arts,2.7
+S0093,Junior,Spring_2023,HUM020,Creative Writing,Humanities,3.7
+S0093,Junior,Spring_2023,MATH020,Calculus II,Math,3.3
+S0093,Junior,Fall_2023,ART020,Painting,Arts,3.3
+S0093,Junior,Fall_2023,HUM040,Philosophy,Humanities,3.0
+S0093,Junior,Fall_2023,ART010,Drawing Fundamentals,Arts,2.7
+S0093,Junior,Fall_2023,ART050,History of Art,Arts,3.3
+S0093,Junior,Spring_2024,HUM050,Ethics,Humanities,3.3
+S0093,Junior,Spring_2024,ART010,Drawing Fundamentals,Arts,2.7
+S0093,Junior,Spring_2024,ART070,Film Studies,Arts,3.3
+S0093,Junior,Spring_2024,SCI050,Organic Chemistry,Sciences,3.0
+S0093,Junior,Fall_2024,ART050,History of Art,Arts,3.3
+S0093,Junior,Fall_2024,MATH010,Calculus I,Math,2.7
+S0093,Junior,Fall_2024,ART030,Sculpture,Arts,3.0
+S0093,Junior,Fall_2024,ART070,Film Studies,Arts,2.7
+S0094,Graduated,Fall_2022,HUM010,English Literature,Humanities,3.3
+S0094,Graduated,Fall_2022,MATH010,Calculus I,Math,2.3
+S0094,Graduated,Fall_2022,SCI060,Biochemistry,Sciences,2.0
+S0094,Graduated,Fall_2022,SOC100,Behavioral Economics,SocialSciences,3.7
+S0094,Graduated,Spring_2023,SOC010,Microeconomics,SocialSciences,3.7
+S0094,Graduated,Spring_2023,CS090,Software Engineering,CS,2.7
+S0094,Graduated,Spring_2023,SCI030,Electromagnetism,Sciences,2.7
+S0094,Graduated,Spring_2023,HUM080,American Literature,Humanities,3.0
+S0094,Graduated,Fall_2023,SOC060,Political Science,SocialSciences,2.0
+S0094,Graduated,Fall_2023,SOC010,Microeconomics,SocialSciences,2.3
+S0094,Graduated,Fall_2023,MATH060,Statistics,Math,3.0
+S0094,Graduated,Fall_2023,SOC050,Sociology,SocialSciences,2.7
+S0094,Graduated,Spring_2024,SOC010,Microeconomics,SocialSciences,2.7
+S0094,Graduated,Spring_2024,CS030,Algorithms,CS,2.7
+S0094,Graduated,Spring_2024,SOC070,Anthropology,SocialSciences,2.7
+S0094,Graduated,Spring_2024,ART080,Theater Performance,Arts,3.0
+S0094,Graduated,Fall_2024,SOC100,Behavioral Economics,SocialSciences,3.0
+S0094,Graduated,Fall_2024,SOC080,International Relations,SocialSciences,2.3
+S0094,Graduated,Fall_2024,SOC040,Social Psychology,SocialSciences,3.0
+S0094,Graduated,Fall_2024,SOC090,Public Policy,SocialSciences,3.0
+S0094,Graduated,Spring_2025,MATH030,Linear Algebra,Math,3.7
+S0094,Graduated,Spring_2025,SOC020,Macroeconomics,SocialSciences,3.0
+S0094,Graduated,Spring_2025,HUM050,Ethics,Humanities,2.7
+S0094,Graduated,Spring_2025,SOC050,Sociology,SocialSciences,2.7
+S0094,Graduated,Fall_2025,CS060,Databases,CS,3.0
+S0094,Graduated,Fall_2025,HUM080,American Literature,Humanities,2.7
+S0094,Graduated,Fall_2025,SOC060,Political Science,SocialSciences,3.0
+S0094,Graduated,Fall_2025,SOC100,Behavioral Economics,SocialSciences,3.3
+S0094,Graduated,Spring_2026,MATH100,Abstract Algebra,Math,2.0
+S0094,Graduated,Spring_2026,SOC090,Public Policy,SocialSciences,2.7
+S0094,Graduated,Spring_2026,SOC070,Anthropology,SocialSciences,2.0
+S0094,Graduated,Spring_2026,SOC100,Behavioral Economics,SocialSciences,2.7
+S0095,Sophomore,Fall_2022,SOC080,International Relations,SocialSciences,2.7
+S0095,Sophomore,Fall_2022,SOC090,Public Policy,SocialSciences,3.7
+S0095,Sophomore,Fall_2022,ART050,History of Art,Arts,3.0
+S0095,Sophomore,Fall_2022,SCI080,Genetics,Sciences,3.0
+S0095,Sophomore,Spring_2023,SOC040,Social Psychology,SocialSciences,3.0
+S0095,Sophomore,Spring_2023,SOC050,Sociology,SocialSciences,2.3
+S0095,Sophomore,Spring_2023,SCI070,Cell Biology,Sciences,2.0
+S0095,Sophomore,Spring_2023,SOC020,Macroeconomics,SocialSciences,2.7
+S0095,Sophomore,Fall_2023,SOC100,Behavioral Economics,SocialSciences,3.3
+S0095,Sophomore,Fall_2023,SOC040,Social Psychology,SocialSciences,3.3
+S0095,Sophomore,Fall_2023,SOC050,Sociology,SocialSciences,2.7
+S0095,Sophomore,Fall_2023,SOC090,Public Policy,SocialSciences,3.3
+S0095,Sophomore,Spring_2024,SOC010,Microeconomics,SocialSciences,3.0
+S0095,Sophomore,Spring_2024,SOC050,Sociology,SocialSciences,3.3
+S0095,Sophomore,Spring_2024,MATH020,Calculus II,Math,2.7
+S0095,Sophomore,Spring_2024,CS030,Algorithms,CS,3.3
+S0096,Sophomore,Fall_2022,ART060,Photography,Arts,3.0
+S0096,Sophomore,Fall_2022,SCI070,Cell Biology,Sciences,3.3
+S0096,Sophomore,Fall_2022,SOC030,Intro Psychology,SocialSciences,3.3
+S0096,Sophomore,Fall_2022,CS060,Databases,CS,3.0
+S0096,Sophomore,Spring_2023,HUM030,World History,Humanities,3.0
+S0096,Sophomore,Spring_2023,HUM040,Philosophy,Humanities,3.3
+S0096,Sophomore,Spring_2023,HUM080,American Literature,Humanities,3.7
+S0096,Sophomore,Spring_2023,ART100,Graphic Design,Arts,3.7
+S0096,Sophomore,Fall_2023,SCI010,General Physics,Sciences,3.3
+S0096,Sophomore,Fall_2023,SCI100,Astronomy,Sciences,3.0
+S0096,Sophomore,Fall_2023,ART020,Painting,Arts,3.3
+S0096,Sophomore,Fall_2023,MATH060,Statistics,Math,3.3
+S0097,Graduated,Fall_2022,CS060,Databases,CS,3.3
+S0097,Graduated,Fall_2022,CS080,Computer Networks,CS,3.7
+S0097,Graduated,Fall_2022,CS070,Machine Learning,CS,3.0
+S0097,Graduated,Fall_2022,CS040,Computer Systems,CS,3.3
+S0097,Graduated,Spring_2023,ART030,Sculpture,Arts,3.0
+S0097,Graduated,Spring_2023,CS100,Theory of Computation,CS,2.7
+S0097,Graduated,Spring_2023,CS010,Intro to Programming,CS,3.0
+S0097,Graduated,Spring_2023,ART010,Drawing Fundamentals,Arts,2.7
+S0097,Graduated,Fall_2023,ART080,Theater Performance,Arts,3.7
+S0097,Graduated,Fall_2023,CS080,Computer Networks,CS,3.7
+S0097,Graduated,Fall_2023,MATH060,Statistics,Math,3.0
+S0097,Graduated,Fall_2023,SCI050,Organic Chemistry,Sciences,4.0
+S0097,Graduated,Spring_2024,CS040,Computer Systems,CS,2.7
+S0097,Graduated,Spring_2024,CS030,Algorithms,CS,3.0
+S0097,Graduated,Spring_2024,SOC010,Microeconomics,SocialSciences,3.0
+S0097,Graduated,Spring_2024,CS070,Machine Learning,CS,3.7
+S0097,Graduated,Fall_2024,CS070,Machine Learning,CS,3.7
+S0097,Graduated,Fall_2024,SCI020,Mechanics,Sciences,3.0
+S0097,Graduated,Fall_2024,ART070,Film Studies,Arts,3.3
+S0097,Graduated,Fall_2024,SOC050,Sociology,SocialSciences,2.3
+S0097,Graduated,Spring_2025,SCI010,General Physics,Sciences,3.3
+S0097,Graduated,Spring_2025,CS010,Intro to Programming,CS,2.7
+S0097,Graduated,Spring_2025,SOC020,Macroeconomics,SocialSciences,3.0
+S0097,Graduated,Spring_2025,SOC010,Microeconomics,SocialSciences,3.3
+S0097,Graduated,Fall_2025,CS100,Theory of Computation,CS,3.0
+S0097,Graduated,Fall_2025,CS030,Algorithms,CS,2.3
+S0097,Graduated,Fall_2025,SOC040,Social Psychology,SocialSciences,3.3
+S0097,Graduated,Fall_2025,CS060,Databases,CS,3.3
+S0097,Graduated,Spring_2026,SCI010,General Physics,Sciences,3.3
+S0097,Graduated,Spring_2026,MATH030,Linear Algebra,Math,3.3
+S0097,Graduated,Spring_2026,CS060,Databases,CS,3.0
+S0097,Graduated,Spring_2026,CS070,Machine Learning,CS,3.3
+S0098,Senior,Fall_2022,MATH050,Probability,Math,3.3
+S0098,Senior,Fall_2022,SCI100,Astronomy,Sciences,3.7
+S0098,Senior,Fall_2022,ART030,Sculpture,Arts,4.0
+S0098,Senior,Fall_2022,ART100,Graphic Design,Arts,4.0
+S0098,Senior,Spring_2023,CS080,Computer Networks,CS,3.7
+S0098,Senior,Spring_2023,ART090,Modern Dance,Arts,4.0
+S0098,Senior,Spring_2023,ART080,Theater Performance,Arts,4.0
+S0098,Senior,Spring_2023,HUM020,Creative Writing,Humanities,4.0
+S0098,Senior,Fall_2023,MATH090,Number Theory,Math,3.7
+S0098,Senior,Fall_2023,SCI050,Organic Chemistry,Sciences,4.0
+S0098,Senior,Fall_2023,ART040,Music Theory,Arts,3.7
+S0098,Senior,Fall_2023,ART030,Sculpture,Arts,4.0
+S0098,Senior,Spring_2024,ART050,History of Art,Arts,3.7
+S0098,Senior,Spring_2024,MATH060,Statistics,Math,3.3
+S0098,Senior,Spring_2024,ART090,Modern Dance,Arts,4.0
+S0098,Senior,Spring_2024,ART100,Graphic Design,Arts,3.7
+S0098,Senior,Fall_2024,ART070,Film Studies,Arts,4.0
+S0098,Senior,Fall_2024,SOC060,Political Science,SocialSciences,3.7
+S0098,Senior,Fall_2024,MATH070,Real Analysis,Math,3.3
+S0098,Senior,Fall_2024,ART090,Modern Dance,Arts,4.0
+S0098,Senior,Spring_2025,SOC030,Intro Psychology,SocialSciences,3.3
+S0098,Senior,Spring_2025,HUM090,Modern Poetry,Humanities,4.0
+S0098,Senior,Spring_2025,ART020,Painting,Arts,4.0
+S0098,Senior,Spring_2025,ART050,History of Art,Arts,3.7
+S0098,Senior,Fall_2025,ART090,Modern Dance,Arts,4.0
+S0098,Senior,Fall_2025,ART030,Sculpture,Arts,4.0
+S0098,Senior,Fall_2025,ART060,Photography,Arts,3.7
+S0098,Senior,Fall_2025,CS090,Software Engineering,CS,3.7
+S0099,Senior,Fall_2022,ART100,Graphic Design,Arts,3.7
+S0099,Senior,Fall_2022,SCI050,Organic Chemistry,Sciences,2.7
+S0099,Senior,Fall_2022,SOC090,Public Policy,SocialSciences,3.7
+S0099,Senior,Fall_2022,HUM040,Philosophy,Humanities,2.7
+S0099,Senior,Spring_2023,CS100,Theory of Computation,CS,3.7
+S0099,Senior,Spring_2023,ART100,Graphic Design,Arts,3.0
+S0099,Senior,Spring_2023,ART020,Painting,Arts,3.0
+S0099,Senior,Spring_2023,SCI040,General Chemistry,Sciences,3.0
+S0099,Senior,Fall_2023,SCI080,Genetics,Sciences,2.7
+S0099,Senior,Fall_2023,SCI060,Biochemistry,Sciences,2.7
+S0099,Senior,Fall_2023,HUM060,Religious Studies,Humanities,3.0
+S0099,Senior,Fall_2023,SCI030,Electromagnetism,Sciences,2.7
+S0099,Senior,Spring_2024,SCI090,Ecology,Sciences,2.7
+S0099,Senior,Spring_2024,HUM070,Classical Mythology,Humanities,2.7
+S0099,Senior,Spring_2024,HUM080,American Literature,Humanities,3.0
+S0099,Senior,Spring_2024,SCI010,General Physics,Sciences,2.7
+S0099,Senior,Fall_2024,SOC040,Social Psychology,SocialSciences,3.0
+S0099,Senior,Fall_2024,SCI060,Biochemistry,Sciences,2.7
+S0099,Senior,Fall_2024,SCI020,Mechanics,Sciences,2.7
+S0099,Senior,Fall_2024,SCI100,Astronomy,Sciences,2.7
+S0099,Senior,Spring_2025,SCI080,Genetics,Sciences,2.7
+S0099,Senior,Spring_2025,SCI050,Organic Chemistry,Sciences,2.3
+S0099,Senior,Spring_2025,CS010,Intro to Programming,CS,2.0
+S0099,Senior,Spring_2025,SCI010,General Physics,Sciences,2.7
+S0099,Senior,Fall_2025,ART020,Painting,Arts,3.3
+S0099,Senior,Fall_2025,MATH040,Discrete Math,Math,3.3
+S0099,Senior,Fall_2025,SCI010,General Physics,Sciences,3.3
+S0099,Senior,Fall_2025,SOC080,International Relations,SocialSciences,2.7
+S0100,Sophomore,Fall_2022,ART060,Photography,Arts,3.7
+S0100,Sophomore,Fall_2022,MATH010,Calculus I,Math,3.3
+S0100,Sophomore,Fall_2022,MATH070,Real Analysis,Math,2.7
+S0100,Sophomore,Fall_2022,MATH030,Linear Algebra,Math,3.3
+S0100,Sophomore,Spring_2023,MATH100,Abstract Algebra,Math,3.3
+S0100,Sophomore,Spring_2023,MATH020,Calculus II,Math,3.0
+S0100,Sophomore,Spring_2023,HUM030,World History,Humanities,3.0
+S0100,Sophomore,Spring_2023,MATH080,Differential Equations,Math,3.0
+S0100,Sophomore,Fall_2023,ART020,Painting,Arts,3.3
+S0100,Sophomore,Fall_2023,MATH030,Linear Algebra,Math,3.3
+S0100,Sophomore,Fall_2023,MATH070,Real Analysis,Math,3.3
+S0100,Sophomore,Fall_2023,MATH090,Number Theory,Math,4.0
+S0100,Sophomore,Spring_2024,MATH080,Differential Equations,Math,3.7
+S0100,Sophomore,Spring_2024,SOC020,Macroeconomics,SocialSciences,3.0
+S0100,Sophomore,Spring_2024,MATH090,Number Theory,Math,3.3
+S0100,Sophomore,Spring_2024,MATH020,Calculus II,Math,3.3
