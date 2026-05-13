@@ -258,23 +258,177 @@ public class StudentAnalyzerImpl implements StudentAnalyzer {
 
 
 
-    // Feature 3: stubs, will implement later
+    /// Feature 3: GPA trend prediction
 
     public String predictGPATrend(String studentId) {
-        return "not implemented yet";
+        Student student = students.get(studentId);
+        if (student == null) return "student not found";
+
+        ArrayList<String> semesters = getStudentSemestersSorted(studentId);
+        if (semesters.size() < 2) return "not enough data";
+
+        //build the list of GPAs for each semester
+        ArrayList<Double> gpas = new ArrayList<>();
+        for (int i = 0; i < semesters.size(); i++) {
+            gpas.add(getStudentSemesterGPA(studentId, semesters.get(i), ""));
+        }
+
+        return computeTrend(gpas);
     }
 
     public HashMap<String, String> predictCategoryTrends(String studentId) {
-        return new HashMap<>();
+        HashMap<String, String> result = new HashMap<>();
+        Student student = students.get(studentId);
+        if (student == null) return result;
+
+        ArrayList<String> semesters = getStudentSemestersSorted(studentId);
+
+        // collect all unique categories the student has touched
+        ArrayList<String> categories = new ArrayList<>();
+        ArrayList<CourseRecord> records = student.getRecords();
+        for (int i = 0; i < records.size(); i++) {
+            String cat = records.get(i).getCategory();
+            if (!categories.contains(cat)) categories.add(cat);
+        }
+
+        //for each category we build a per-semester GPA list and run the trend logic
+        for (int c = 0; c < categories.size(); c++) {
+            String category = categories.get(c);
+            ArrayList<Double> gpas = new ArrayList<>();
+
+            for (int i = 0; i < semesters.size(); i++) {
+                double gpa = getStudentSemesterGPA(studentId, semesters.get(i), category);
+                // include only semesters where the student actually took a course in this category
+                if (gpa > 0) gpas.add(gpa);
+            }
+
+            //need at least 3 semesters with this category per the project plan
+            if (gpas.size() < 3) {
+                result.put(category, "not enough data");
+            } else {
+                result.put(category, computeTrend(gpas));
+            }
+        }
+
+        return result;
     }
 
     public ArrayList<String> getSemesterGPAList(String studentId) {
-        return new ArrayList<>();
+        ArrayList<String> result = new ArrayList<>();
+        Student student = students.get(studentId);
+        if (student == null) return result;
+
+        ArrayList<String> semesters = getStudentSemestersSorted(studentId);
+        for (int i = 0; i < semesters.size(); i++) {
+            String sem = semesters.get(i);
+            double gpa = getStudentSemesterGPA(studentId, sem, "");
+            result.add(sem + ": " + String.format("%.2f", gpa));
+        }
+        return result;
     }
 
 
 
+//  helpers for Feature 3 
 
+    //returns season order: Spring = 0, Fall = 1 (Spring comes before Fall in the same year)
+    private int seasonOrder(String season) {
+        if (season.equals("Spring")) return 0;
+        return 1;
+    }
+
+    // compares two semester strings like "Fall_2022" and "Spring_2023" chronologically
+    private int compareSemesters(String s1, String s2) {
+        String[] p1 = s1.split("_");
+        String[] p2 = s2.split("_");
+        int year1 = Integer.parseInt(p1[1]);
+        int year2 = Integer.parseInt(p2[1]);
+        if (year1 != year2) return Integer.compare(year1, year2);
+        //same year: Spring < Fall
+        return Integer.compare(seasonOrder(p1[0]), seasonOrder(p2[0]));
+    }
+
+    //returns student's semesters sorted chronologically (no duplicates)
+    private ArrayList<String> getStudentSemestersSorted(String studentId) {
+        ArrayList<String> result = new ArrayList<>();
+        Student student = students.get(studentId);
+        if (student == null) return result;
+
+        // collect unique semesters
+        ArrayList<CourseRecord> records = student.getRecords();
+        for (int i = 0; i < records.size(); i++) {
+            String sem = records.get(i).getSemester();
+            if (!result.contains(sem)) {
+                result.add(sem);
+            }
+        }
+
+        // sort using our semester comparator
+        Collections.sort(result, new Comparator<String>() {
+            public int compare(String a, String b) {
+                return compareSemesters(a, b);
+            }
+        });
+        return result;
+    }
+
+    // calculates a student's GPA for one semester
+    // if categoryFilter is empty (""), we take all courses. otherwise only the given category
+    private double getStudentSemesterGPA(String studentId, String semester, String categoryFilter) {
+        Student student = students.get(studentId);
+        if (student == null) return 0.0;
+
+        double sum = 0;
+        int count = 0;
+        ArrayList<CourseRecord> records = student.getRecords();
+        for (int i = 0; i < records.size(); i++) {
+            CourseRecord r = records.get(i);
+            if (!r.getSemester().equals(semester)) continue;
+            //if filter is not empty, skip courses from other categories
+            if (!categoryFilter.isEmpty() && !r.getCategory().equals(categoryFilter)) continue;
+            sum = sum + r.getGrade();
+            count++;
+        }
+
+        if (count == 0) return 0.0;
+        return sum / count;
+    }
+
+    //main trend logic - takes chronological list of GPAs and returns prediction string
+    private String computeTrend(ArrayList<Double> gpas) {
+        if (gpas.size() < 2) return "not enough data";
+
+        // build the directions: 1 = up, -1 = down, 0 = equal
+        ArrayList<Integer> directions = new ArrayList<>();
+        for (int i = 1; i < gpas.size(); i++) {
+            double diff = gpas.get(i) - gpas.get(i - 1);
+            if (diff > 0) directions.add(1);
+            else if (diff < 0) directions.add(-1);
+            else directions.add(0);
+        }
+
+        //check if the last 3 changes are all in the same direction ( strong prediction if true)
+        int n = directions.size();
+        if (n >= 3) {
+            int d1 = directions.get(n - 3);
+            int d2 = directions.get(n - 2);
+            int d3 = directions.get(n - 1);
+            if (d1 == 1 && d2 == 1 && d3 == 1) return "very likely to grow";
+            if (d1 == -1 && d2 == -1 && d3 == -1) return "very likely to decline";
+        }
+
+        // otherwise count ups vs downs overall, it would be our weak prediction
+        int ups = 0;
+        int downs = 0;
+        for (int i = 0; i < directions.size(); i++) {
+            if (directions.get(i) == 1) ups++;
+            else if (directions.get(i) == -1) downs++;
+        }
+
+        if (ups > downs) return "probably going to grow";
+        if (downs > ups) return "probably going to decline";
+        return "stable / unclear";
+    }
 
 
 
