@@ -1,5 +1,6 @@
 package studentanalyzer;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -7,9 +8,22 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // figure out which CSV to load
+        String path = "data/students_dataset.csv";   // default
+
+        if (args.length > 0) {
+            File f = new File(args[0]);
+            if (f.exists()) {
+                path = args[0];                       // use the provided path
+            } else {
+                System.out.println("File not found at: " + args[0]);
+                System.out.println("Using default dataset instead.");
+            }
+        }
+
         // load data
         StudentAnalyzerImpl analyzer = new StudentAnalyzerImpl();
-        analyzer.loadFromCSV("data/students_dataset.csv");
+        analyzer.loadFromCSV(path);
         System.out.println("Loaded " + analyzer.getStudentCount() + " students.");
 
         Scanner input = new Scanner(System.in);
